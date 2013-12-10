@@ -1,6 +1,5 @@
 
-
-https://github.com/LegalPhysics/Research/blob/master/DataAnalyticsApplicationsOfLegalAnalysis.md
+DataAnalyticsApplicationsOfLegalAnalysis.md
 
 Law-as-Data.md	
 
