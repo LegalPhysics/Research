@@ -1,18 +1,19 @@
 DataAnalyticsApplicationsOfLegalAnalysis.md
+ - Lina 
 
 Law-as-Data.md	
+ - Dazza 
 
-NewDealonData.md	
+NewDealonData.md
+ - Ray
 
 Partisanship-Gerrymandering-Careerism-Gridlock.md	
+ - Ray
 
-Partisanship-Gerrymandering-Careerism-Gridlock.md	
-
-Probabilistic-Personal-Identity.md	
 
 Probabilistic-Personal-Identity.md	
-
-README.md	
+ - Dazza
 
 Securities.md	
+ - Dazza (initially) 
 
