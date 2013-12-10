@@ -1,9 +1,7 @@
-
 DataAnalyticsApplicationsOfLegalAnalysis.md
 
 Law-as-Data.md	
 
-Law-as-Data.md	
 	
 NewDealonData.md	
 
