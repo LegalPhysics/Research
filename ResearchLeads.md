@@ -16,4 +16,21 @@ Probabilistic-Personal-Identity.md
 
 Securities.md	
  - Dazza (initially) 
+ 
+
+Wikileaks-as-Data.md
+ - Lina
+
+
+The-Role-of-Corporations-in-Legislature.md
+ - Lina
+
+
+The-Emergence-of-Political-Third-Parties.md
+ - Lina 
+
+
+Clear-Button.md
+ - Dazza (initially) and all
+ 
 
