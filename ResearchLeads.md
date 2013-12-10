@@ -1,11 +1,11 @@
 DataAnalyticsApplicationsOfLegalAnalysis.md
- - Lina 
+ - [Lina](https://github.com/linakaisey)
 
 Law-as-Data.md	
  - Dazza 
 
 NewDealonData.md
- - Ray
+ - [Ray](https://github.com/rac3)
 
 Partisanship-Gerrymandering-Careerism-Gridlock.md	
  - Ray
