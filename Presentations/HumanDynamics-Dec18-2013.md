@@ -1,7 +1,7 @@
 ---
-Outline of Human Dynamics Legal Talk
+#Outline of Human Dynamics Legal Talk
 
-* Introduction to Legal Issues Related to Big Data
+## Introduction to Legal Issues Related to Big Data
  - Drill Down Illustration: 
   >> What is Personal Identity in the Age of Big Data?
  - Fundamental Legal Horizon Scan  
@@ -23,16 +23,16 @@ Outline of Human Dynamics Legal Talk
   >> NCCUSL/NCSL, ALI/ABA/State Bars, etc  
   >> Uniform Law/Regulation, Model Contracts/Rules, Standard Terms/Clauses  
 
-* Synthesized Legal Horizon View
+## Synthesized Legal Horizon View
  - "Personal Data" and "Private Data"
  - "Proprietary Data" and "Partner Data"
  - "Protection of Data" and "Provenance of Data"
 
-* Key Policy Issues
+## Key Policy Issues
  - Lack of Overarching Legal, Regulatory and Policy Scheme for Big Data
  - Contextual Blur: Social, Workplace, Civic, Surveillance, Education, Health, etc
 
-* Life Cycle Overview (likely very little of below will show up in the talk)  
+## Life Cycle Overview (likely very little of below will show up in the talk)  
  - Legal Life Cycle    
   >> Rules for Roles, Relationships & Recourse  
   >> Sequences and Cycles of Rule Making, Rule Application & Rule Adjudication  
@@ -46,7 +46,7 @@ Outline of Human Dynamics Legal Talk
   >> Sequences and Cycles of Actors, Actions and Applications  
    ->> API/REST Endpoints for fast-flow of functional externalization and the Data Driven Boundary Line of Business/Gov't  
 
-* Looking Forward: Innovations & Ideas  
+## Looking Forward: Innovations & Ideas  
  - Policy Proposal for New Deal on Data & Distributed/Heterogeneous Database Systems   
  - Pilot Proposal for ClearButton Personal Data User Notice Registry   
  
