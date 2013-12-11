@@ -32,23 +32,23 @@ Outline of Human Dynamics Legal Talk
  - Lack of Overarching Legal, Regulatory and Policy Scheme for Big Data
  - Contextual Blur: Social, Workplace, Civic, Surveillance, Education, Health, etc
 
-* Life Cycle Overview (likely very little of below will show up in the talk)
- - Legal Life Cycle
-  >> Rules for Roles, Relationships & Recourse
-  >> Sequences and Cycles of Rule Making, Rule Application & Rule Adjudication
-   ->> XML & JSON Structure/Accessibility of Laws/Rules and the Data Driven Network Jurisdiction of Business/Gov't
- - Business Life Cycle 
-  >> Data-Driven Networked Organizations and Operations
-  >> Sequences and Cycles of Entity Creation, Interactions/Reporting, Dissolution
-   ->>  "Legal Entity Identifies" (LEIs) and the Data Driven Identity of Businesses/Gov't
- - Technical Life Cycle
-  >> Systems for Services & Software
-  >> Sequences and Cycles of Actors, Actions and Applications
-   ->> API/REST Endpoints for fast-flow of functional externalization and the Data Driven Boundary Line of Business/Gov't
+* Life Cycle Overview (likely very little of below will show up in the talk)  
+ - Legal Life Cycle    
+  >> Rules for Roles, Relationships & Recourse  
+  >> Sequences and Cycles of Rule Making, Rule Application & Rule Adjudication  
+   ->> XML & JSON Structure/Accessibility of Laws/Rules and the Data Driven Network Jurisdiction of Business/Gov't  
+ - Business Life Cycle   
+  >> Data-Driven Networked Organizations and Operations  
+  >> Sequences and Cycles of Entity Creation, Interactions/Reporting, Dissolution  
+   ->>  "Legal Entity Identifies" (LEIs) and the Data Driven Identity of Businesses/Gov't  
+ - Technical Life Cycle  
+  >> Systems for Services & Software  
+  >> Sequences and Cycles of Actors, Actions and Applications  
+   ->> API/REST Endpoints for fast-flow of functional externalization and the Data Driven Boundary Line of Business/Gov't  
 
-* Looking Forward: Innovations & Ideas
- - Policy Proposal for New Deal on Data & Distributed/Heterogeneous Database Systems 
- - Pilot Proposal for ClearButton Personal Data User Notice Registry 
+* Looking Forward: Innovations & Ideas  
+ - Policy Proposal for New Deal on Data & Distributed/Heterogeneous Database Systems   
+ - Pilot Proposal for ClearButton Personal Data User Notice Registry   
  
  ===
  
