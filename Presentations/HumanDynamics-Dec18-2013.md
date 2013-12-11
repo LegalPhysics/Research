@@ -32,7 +32,7 @@
  - Lack of Overarching Legal, Regulatory and Policy Scheme for Big Data
  - Contextual Blur: Social, Workplace, Civic, Surveillance, Education, Health, etc
 
-## Life Cycle Overview (likely very little of below will show up in the talk)  
+## Life Cycle Overview 
  - Legal Life Cycle    
   >> Rules for Roles, Relationships & Recourse  
   >> Sequences and Cycles of Rule Making, Rule Application & Rule Adjudication  
