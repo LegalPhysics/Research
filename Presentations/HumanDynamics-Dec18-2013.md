@@ -1,28 +1,27 @@
-
 ---
 Outline of Human Dynamics Legal Talk
 
 * Introduction to Legal Issues Related to Big Data
  - Drill Down Illustration: 
   >> What is Personal Identity in the Age of Big Data?
- - Fundamental Legal Horizon Scan
-  >> Regulatory Schemes; (eg SEC and XBRL, then FCRA/HIPAA/FERPA/etc)
-  >> Contracts/Licenses, (eg eContracts and Automated Rules Compliance)
-  >> Privacy/FIPS, (eg Informed Consent for HD Studies)
-  >> Security/Surveillance; (eg Snowden)
-  >> Identity/Agency; (eg Electronic Transactions with Automated Agents)
-  >> Torts/Equity; (eg Class Actions and Novel Equitable Remedies)
-  >> Crime/Fraud (eg Cybercrimes)
-  >> IP/Property (eg WIPO and UDRP)
-  >> Accreditation/Certification (eg Data-Driven Operating Rules and Trustmarks)
-  >> Licensing/Permitting (eg Boston YELP Integration w/Health Inspections)
-  >> Criminal/Civil Judicial Procedure (eg Big Data and eDiscover)
- - Legal Adoption and Adaptation
-  >> Public / Private Law Methods and Mechanisms
-  >> Legislatures, Judiciaries and Agencies / Federal, State and Local Government)
-  >> Industry Groups, Trade Associations, SROs, Standards Committees, etc
-  >> NCCUSL/NCSL, ALI/ABA/State Bars, etc
-  >> Uniform Law/Regulation, Model Contracts/Rules, Standard Terms/Clauses
+ - Fundamental Legal Horizon Scan  
+  >> Regulatory Schemes; (eg SEC and XBRL, then FCRA/HIPAA/FERPA/etc)  
+  >> Contracts/Licenses, (eg eContracts and Automated Rules Compliance)  
+  >> Privacy/FIPS, (eg Informed Consent for HD Studies)  
+  >> Security/Surveillance; (eg Snowden)  
+  >> Identity/Agency; (eg Electronic Transactions with Automated Agents)  
+  >> Torts/Equity; (eg Class Actions and Novel Equitable Remedies)  
+  >> Crime/Fraud (eg Cybercrimes)  
+  >> IP/Property (eg WIPO and UDRP)  
+  >> Accreditation/Certification (eg Data-Driven Operating Rules and Trustmarks)  
+  >> Licensing/Permitting (eg Boston YELP Integration w/Health Inspections)  
+  >> Criminal/Civil Judicial Procedure (eg Big Data and eDiscover)  
+ - Legal Adoption and Adaptation  
+  >> Public / Private Law Methods and Mechanisms  
+  >> Legislatures, Judiciaries and Agencies / Federal, State and Local Government)  
+  >> Industry Groups, Trade Associations, SROs, Standards Committees, etc  
+  >> NCCUSL/NCSL, ALI/ABA/State Bars, etc  
+  >> Uniform Law/Regulation, Model Contracts/Rules, Standard Terms/Clauses  
 
 * Synthesized Legal Horizon View
  - "Personal Data" and "Private Data"
