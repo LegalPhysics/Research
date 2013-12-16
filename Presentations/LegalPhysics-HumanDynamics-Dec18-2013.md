@@ -19,7 +19,8 @@ Founder, CIVICS.com Consultancy Services
 
 <hr>
 
-[**Ray Campbell**](Legal Research Collaborator, MIT Human Dynamics Lab  
+[**Ray Campbell**](http://www.rac3.com)  
+Legal Research Collaborator, MIT Human Dynamics Lab  
 Formerly, CEO of the Massachusetts Health Data Consortium  
 * [Ray's Human Dynamics Research Repository](https://github.com/LegalPhysics/Research/tree/master/RayCampbell)   
 
