@@ -22,10 +22,9 @@ Formerly, CEO of the Massachusetts Health Data Consortium
 Visiting Scholar, MIT Human Dynamics Lab
 Formerly, General Counsel of the US Department of Commerce 
 
-[Lina Kaisey](LKaisey.md)
+[Lina Kaisey](https://github.com/LegalPhysics/Research/tree/master/LinaKaisey)
 Legal Intern, MIT Human Dynamics Lab
 Harvard Law School, Class of 2014
-
 
 
 # Research Notes:
