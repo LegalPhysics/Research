@@ -1,4 +1,3 @@
----
 # Outline of Human Dynamics Legal Talk
 
 Research Lunch Talk: What is Legal Physics?  
@@ -28,7 +27,6 @@ Legal Intern, MIT Human Dynamics Lab
 Harvard Law School, Class of 2014
 
 
----
 
 # Research Notes:
 
