@@ -1,10 +1,10 @@
 ---
-#Outline of Human Dynamics Legal Talk
+# Outline of Human Dynamics Legal Talk
 
 Research Lunch Talk: What is Legal Physics?  
 Forum: The MIT Human Dynamics Lab   
 Date: December 17, 2013  
-MIT Human Dynamic Lab Legal Research Perspectives 
+MIT Human Dynamic Lab [Legal Research Perspectives](https://github.com/dazzaji/happening/blob/master/CamKerry-Joins-MITHumanDynamicsLab.md)  
 
 Alt Titles:  
 Hey Law: Got Reality?  
