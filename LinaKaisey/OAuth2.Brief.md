@@ -4,10 +4,10 @@ The OAuth 2.0 Authorization Framework, and Bearer Token Usage
 # [Problem](#problem-1)
 # [Proposed Solution](#proposed-solution-1)
 # [Method of Implementation](#method-of-implementation-1)
-# [Scenarios in Context](https://github.com/LegalScience/LawRecoded/edit/master/brief-ietf-oauth2.md#scenarios-in-context-1)
-# [Possible Issues](https://github.com/LegalScience/LawRecoded/edit/master/brief-ietf-oauth2.md#mpossible-issues-1)
-# [Ways to Mitigate Possible Issues](https://github.com/LegalScience/LawRecoded/edit/master/brief-ietf-oauth2.md#ways-to-mitigate-possible-issues-1)
-# [Further Considerations](https://github.com/LegalScience/LawRecoded/edit/master/brief-ietf-oauth2.md#further-considerations-1)
+# [Scenarios in Context](#scenarios-in-context-1)
+# [Possible Issues](#mpossible-issues-1)
+# [Ways to Mitigate Possible Issues](#ways-to-mitigate-possible-issues-1)
+# [Further Considerations](#further-considerations-1)
 
 # Briefing 
 
