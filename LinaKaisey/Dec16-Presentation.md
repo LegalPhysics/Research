@@ -2,9 +2,11 @@ Motivating question: Can we understand the interactions that give rise to law us
 
 
 
+
+
 1. Wikileaks as Data
 
-Question: Can we turn a data dump of 3 million emails between government, corporate, and news actors -- all linked by their use of a single private intelligence firm -- into usable information about overlap among these groups?
+Question: Can we turn a data dump of 5 million emails between government, corporate, and news actors -- all linked by their use of a single private intelligence firm -- into usable information about overlap among these groups?
 
 Research: 
 
