@@ -5,7 +5,7 @@ The OAuth 2.0 Authorization Framework, and Bearer Token Usage
 # [Proposed Solution](#proposed-solution-1)
 # [Method of Implementation](#method-of-implementation-1)
 # [Scenarios in Context](#scenarios-in-context-1)
-# [Possible Issues](#mpossible-issues-1)
+# [Possible Issues](#possible-issues-1)
 # [Ways to Mitigate Possible Issues](#ways-to-mitigate-possible-issues-1)
 # [Further Considerations](#further-considerations-1)
 
