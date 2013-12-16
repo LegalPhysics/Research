@@ -9,3 +9,45 @@
 - PPIs
 
 - Privacy preferences among individuals: how do you model them, and use that to formulate policy recommendations? 
+
+- Interactions among PDS, Big Data Business, Data Brokers
+
+- Examples of fixing information asymmetries: Insurance companies offering different premiums, etc. so that users sort themselves into accurate groups
+
+
+
+## Kansas Business Center: lightweight 3-tier web 2.0 architecture
+
+Level 1- the Plaftorm:
+- Identity, 
+- Authorization, 
+- Pipes and Gauges (able to connect individual user's data to the study/service)
+
+Level 2- the study/service
+
+Level 3- App/developer (Dropbox, etc)
+
+Takeawway: Value prop for every individual study participant (user) is increased, and therefore more likely to participate. Do the same thing for ClearButton: create the system's architecture in a way that maximizes value to users on both ends
+
+## Comfort with stored info and queried info
+
+- Machine agent vs. Human knowing
+- Twitterbots
+- Requiring human intervention after n number of steps without human intervention
+
+## Research into Prediction of privacy preferences
+
+- what're people doing, and what does that reveal about their preferences?
+
+## clearbutton pilot
+
+- Opportunity to understand behavior surrounding how well people understand context surrounding info
+
+## Points for Future
+
+- Predicate for non-US persons
+- Behavioral/statistical privacy preferences research (study conditions related to consumer bill of rights; focus on contex)
+- Request capability prospects: entity from which data came, who the data was shown/given to
+
+
+
