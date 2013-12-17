@@ -1,6 +1,6 @@
 # Role of Corporations in Governance
 
-## Question: Can we come up with a computational means of analyzing the relevance of lobbying efforts upon government actors and legislation?
+## Question: Can we compute -- or, better yet, predict -- the influence of varying lobbying forms upon government?
 
 Research:
 
