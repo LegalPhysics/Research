@@ -22,7 +22,7 @@ Related Initiatives:
 - More links coming soon...
 
 ### Law as Data:
-* The LawDecoded and other intiatives are rendering statutes, regulations, contracts and other rules into structured data that apps or services can consume.  How can computational social science incorporate and leverage legal data sets as a source of insight and dimensionality in research studies and conceptual frameworks of human behavior? 
+* The [StateDecoded](http://www.statedecoded.com/) project and other intiatives are rendering statutes, regulations, contracts and other rules into structured data that apps or services can consume.  How can computational social science incorporate and leverage legal data sets as a source of insight and dimensionality in research studies and conceptual frameworks of human behavior? 
 
 ### Computational Legal Science!:  
 * The law is a social science as well as a profession.  How can computationl social science be applies by, with, within and for the field of law?  What subject matter focus, research methods and potential new value is created by a new field of Computational Legal Science?  
