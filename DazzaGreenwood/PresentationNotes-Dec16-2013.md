@@ -1,13 +1,20 @@
-Presentation Notes:
+## Presentation Notes:
 
-Trust Framework System Rules
 
-IAuth 
+### The Law of Big Personal Data
+* What are the legal problems and prospects arsing from the emergence of big data, personal data and massively interconnected flows of data?  From the making of law to the practice of law to the adjudication of law and beyond, how is big data transforming the law and what does the law say about rules applicable to big data collection, use and sharing? 
 
-Predictive Penumbra of Identities 
+### IAuth 
+* How can the OAuth2 scopes for user managed access be integrated with business and legal terms to enable more robust and efficient transactional frameworks for permissions and consents? 
 
-ClearButton
+### Predictive Penumbra of Identities 
+* What happens when PII is less relevant than the dynamics of predictive and other statistical models about people?  What rules and policy frameworks should apply to fair information practices for big data engines of probabilistic models and not focused upon static atomic bits of personal attribute data? 
 
-Law as Data
+### ClearButton
+ * Check out the industry initiative: AboutTheData](https://aboutthedata.com/portal) ... Then imagine that this type of service were set up from a starting point of openPDS and OpenID Connect for CivicID and followed generally a "Do Not Call" registry model enabling a way people could sign up to be notified with a link when organizations held personal data about them? 
 
-Computational Legal Science!
+### Law as Data:
+* The LawDecoded and other intiatives are rendering statutes, regulations, contracts and other rules into structured data that apps or services can consume.  How can computational social science incorporate and leverage legal data sets as a source of insight and dimensionality in research studies and conceptual frameworks of human behavior? 
+
+### Computational Legal Science!:  
+* The law is a social science as well as a profession.  How can computationl social science be applies by, with, within and for the field of law?  What subject matter focus, research methods and potential new value is created by a new field of Computational Legal Science?  
