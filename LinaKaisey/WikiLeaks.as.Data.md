@@ -8,7 +8,8 @@ Life in the network: the coming age of computational social science: Examination
 
 What are the temporal dynamics of human communications—that is, do work groups reach a stasis with little change, or do they dramatically change over time (2, 3)? What interaction patterns predict highly productive groups and individuals? Can the diversity of news and content we receive predict our power or performance (4)?
 
-## Sources
+ Sources
+
 a. Eckmann JP, Moses E, SergI D. Entropy of dialogues creates coherent structures in e-mail traffic. Proceedings of the National Academy of Sciences of the United States of America. 2004;101:14333–14337. [PMC free article] [PubMed]
 
 b. Kossinets G, Watts D. Empirical Analysis of an Evolving Social Network. Science. 2006;311(5757):88–90. [PubMed]
