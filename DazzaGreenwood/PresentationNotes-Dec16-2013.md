@@ -13,6 +13,14 @@
 ### ClearButton
  * Check out the industry initiative: AboutTheData](https://aboutthedata.com/portal) ... Then imagine that this type of service were set up from a starting point of openPDS and OpenID Connect for CivicID and followed generally a "Do Not Call" registry model enabling a way people could sign up to be notified with a link when organizations held personal data about them? 
 
+Related Initiatives: 
+- [The Fair Information Practices](bobgellman.com/rg-docs/rg-FIPShistory.pdf)  
+- [The Consumer Privacy Bill of Rights](http://www.whitehouse.gov/the-press-office/2012/02/23/we-can-t-wait-obama-administration-unveils-blueprint-privacy-bill-rights) (premised upon the fair information practices)  
+- [Federal](http://www.law.cornell.edu/uscode/text/5/552a) and [state](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66A) statutory examples of fair information practice rules applicable to government systems  
+- Human Dynamocs "Legal Hack-a-Thon" eCitizenSalon Topic: [Time for a Personal Data Disclosure Rule?](http://www.ecitizen.tv/2013/06/time-for-personal-data-disclosure-rule.html)  
+- The [BlueButtonPlus](http://bluebuttonplus.org/) approach using OpenID Connect for patient’s access to their own data in a human-readable and machine-readable format and to send them where they choose.
+- More links coming soon...
+
 ### Law as Data:
 * The LawDecoded and other intiatives are rendering statutes, regulations, contracts and other rules into structured data that apps or services can consume.  How can computational social science incorporate and leverage legal data sets as a source of insight and dimensionality in research studies and conceptual frameworks of human behavior? 
 
