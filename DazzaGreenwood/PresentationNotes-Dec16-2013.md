@@ -5,7 +5,7 @@
 * What are the legal problems and prospects arsing from the emergence of big data, personal data and massively interconnected flows of data?  From the making of law to the practice of law to the adjudication of law and beyond, how is big data transforming the law and what does the law say about rules applicable to big data collection, use and sharing? 
 
 ### IAuth 
-* How can the OAuth2 scopes for user managed access be integrated with business and legal terms to enable more robust and efficient transactional frameworks for permissions and consents? 
+* How can the OAuth2 scopes for user managed access be [integrated with business and legal terms](http://ecitizen.mit.edu/iauth-project) to enable more robust and efficient transactional frameworks for permissions and consents?  
 
 ### Predictive Penumbra of Identities 
 * What happens when PII is less relevant than the dynamics of predictive and other statistical models about people?  What rules and policy frameworks should apply to fair information practices for big data engines of probabilistic models and not focused upon static atomic bits of personal attribute data? 
