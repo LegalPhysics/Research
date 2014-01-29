@@ -1,5 +1,4 @@
 
-
 #1 Russell Cameron Thomas
 
 Talk to this dude… his reply is CRISP!: http://exploringpossibilityspace.blogspot.com/2014/01/pnas-letter-reply-you-say-potato-i-say.html
@@ -28,3 +27,22 @@ I use quantitative and qualitative methods to study how ordinary people talk abo
 Ph.D. candidate, The Pennsylvania State University Department of Communication Arts & Sciences
 
 Dissertation topic: The Communication of Legal Information about Ballot Propositions to Non-Lawyer Citizens
+
+3. Probably some of the people on the board of directors for The Journal of Open Access to Law folks: (First Edition This Month!):
+http://ojs.law.cornell.edu/index.php/joal/article/view/11
+
+Editors
+
+Thomas Robert Bruce,
+Ginevra Peruginelli,
+Enrico Francesconi,
+Pompeu Casanovas,
+
+Section Editors
+
+Graham Greenleaf,
+Colin LaChance
+John Sheridan
+Jules Winterton,
+João Lima
+Mariya Badeva,
