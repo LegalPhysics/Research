@@ -1,0 +1,77 @@
+
+FROM THE FEBRUARY 2013 ISSUE OF INSIDECOUNSEL MAGAZINE • SUBSCRIBE!
+
+Delaware ruling gives judicial push to predictive coding technology
+
+A state court judge recently ordered parties to select and share a single predictive coding vendor for e-discovery
+BY MICHAEL KOZUBEK
+January 28, 2013 • Reprints
+Share on linkedin Share on twitter Share on facebook Share on email More Sharing Services
+
+
+Online Exclusive: Review the basics of predictive coding
+
+With e-discovery costs still skyrocketing, both judges and litigants have sought ways to reduce expense. Some have turned to predictive coding, an advanced form of technology- or computer-assisted review (TAR or CAR), which is gaining acceptance in the courts.
+
+Predictive coding enables a computer to predict whether electronic documents should be classified as responsive or nonresponsive to a discovery request, relying on input by attorney reviewers. In a 2012 FTI Consulting Inc. survey, 54 percent of respondents said they had used predictive coding, the majority in pilot projects.
+
+Some litigators remain wary of the technology and of how judges will view document reviews conducted with it. However, several courts have approved requests to use predictive coding, and a recent case in Delaware gave an additional push to judicial acceptance. In EORHB (Estate of Robert H. Brooks), Inc. v. HOA Holdings LLC (Hooters), a state court judge ordered the parties to select and share a single predictive coding vendor for e-discovery. 
+
+“This is the first case we are aware of where a judge ordered the use of predictive coding where the parties had not asked for it or otherwise raised it,” says Jacquelyn Caridad, of counsel to the e-data practice group at Morgan, Lewis & Bockius. 
+
+The case signals the need for in-house attorneys and their outside counsel to be prepared in advance with an understanding of predictive coding and how it could apply to their cases.
+
+“If the parties come to court fully prepared to move forward on e-discovery, a court is less likely to inject its own views as to how discovery should proceed,” says Thomas Smith, co-chair of the K&L Gates e-discovery, analysis and technology practice group. 
+
+Wake-Up Call
+
+Hooters, decided in October 2012 in the Delaware Court of Chancery, involved indemnification claims for alleged breaches of contract in the sale of a Hooters restaurant.
+
+After denying motions for partial summary judgment and dismissal of counterclaims, Vice Chancellor J. Travis Laster suddenly addressed the issue of e-discovery, which the parties had not yet discussed with each other or with him. 
+
+“It seems to me this is the type of non-expedited case where we could all benefit from some new technology use,” Laster said. 
+
+In further discussion with the parties, he ordered sua sponte that they show cause why predictive coding technology should not be used and why they should not select and share a single discovery provider to warehouse and analyze both sides’ documents. If the parties cannot agree, they are to submit proposed names to the judge and he will choose.
+
+“This is a wake-up call that in-house counsel and their outside firms should understand the pros and cons of predictive coding now, rather than scrambling to understand the technology for the first time during an active case,” says Matthew Nelson, e-discovery counsel in the intelligent information group at security software company Symantec. 
+
+Important Cautions 
+Although the decision may help open the door to broader acceptance, experts emphasize that predictive coding is not suited for all cases. 
+
+Laster suggested that Hooters is a case suitable for predictive coding because indemnification claims often involve large amounts of documentation. 
+
+The FTI survey states that cases involving few custodians with limited document sets or those with a high number of documents that are not text-based, such as photographs, images and audio files commonly found in patent litigation, may not warrant the expense of predictive coding. The survey respondents also said it is not well-suited for “needle in the haystack” investigations such as investigative matters, in which predictive coding may not be able to find all the “hot” documents. 
+
+Advocates say predictive coding offers substantial cost savings in most cases involving significant document review, but Smith contends there can be an unintended consequence that actually increases costs. 
+
+“The use of predictive coding can have the effect of causing a court to allow a much broader scope of collection of e-discovery than might otherwise be permitted in a particular litigation, thereby potentially adding discovery burdens instead of reducing them,” Smith says. 
+
+Wild West
+
+Experts also warn that the decision on whether to try predictive coding is complicated by the wide variety of product offerings carrying that name. “Many companies are using terms like predictive coding and TAR too loosely, so it is often difficult to get a handle on what tool one is being sold,” Smith says. 
+
+Nelson agrees that the marketplace is confusing, with some tools merely offering clustering or concept searching that has been used for more than a decade. Current market conditions, which he describes as the “Wild West,” make it difficult for legal teams to make educated decisions about the best solution, even though cases such as Hooters are exerting pressure on attorneys to make those kinds of decisions sooner rather than later, he says.
+
+“All predictive coding tools are not created equally,” Nelson says. “It’s like the evolution of predictive coding technology is somewhere between the old Atari game Pong and the newer game Angry Birds in terms of sophistication.”
+
+Choosing a correct methodology is essential. “The underlying statistical methodology used by most tools today is almost always unclear. The proper application of statistics is critical, but it is also a rat hole most attorneys don’t care to explore,” Nelson says. In such situations, prolonged expert testimony from a statistician may be required to explain the tool to the judge, incurring additional cost.
+
+If the protocol itself is incorrect or is not followed correctly, documents that should have been produced might be overlooked, and privileged documents could slip through the cracks.
+
+“Hopefully, Laster and the parties will use the Hooters case as an opportunity to clarify the proper application of statistics and other processes in predictive coding,” Nelson says.
+
+----
+2 comments
+
+Daniel Traynor • 10 months ago
+I take a dubious view of this decision and any others where judges force parties to use a single vendor for any portion of litigation. To date those decisions seem more motivated by the personal relationships the judges and attorneys have with specific vendors. Much like Judge Peck's questionable choice of a vendor for TAR that had paid him thousands of dollars of appearance fees at sponsored conferences, this kind of judicial activism implies ethical lapses.
+----
+Tracie McFadden Burns, JD • 10 months ago
+Last month in the Global Aerospace case, a VA court was the first ever in the US to approve the result of an eDiscovery production in which predictive coding was both ordered and used.
+
+OrcaTec's predictive coding reduced the set that actually required attorney review by 1.1M documents. The attorney on the case, Schnader's Tom Gricks, estimated a savings of $1.5M and 20,000 person-hours.
+
+Here's an article about it: http://www.legaltechnology.com...
+
+It will be interesting to see which predictive coding tool the parties choose in the Hooters case, and why.
+----
