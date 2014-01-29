@@ -73,3 +73,7 @@ http://ejlt.org//article/view/175/267
 Nicola Lettieri is Researcher at ISFOL. He is adjunct Professor of Legal informatics at the University of Sannio, Benevento, and of Computational Social Sciences at the University of Salerno (Italy).
 
 Sebastiano Faro is Senior Researcher at the Institute of Legal Information Theory and Techniques (ITTIG), National Research Council (CNR), Italy.
+
+# 6. Daniel Martin Katz, Michael Bommarito and Jonathan Zelner of Comp Legal Sci blog
+http://computationallegalstudies.com/
+Michigan folks. 
