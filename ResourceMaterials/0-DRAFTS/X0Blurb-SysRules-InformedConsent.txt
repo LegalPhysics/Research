@@ -1,0 +1,11 @@
+
+
+Example Informed Consent System Rules and Assent Templates 
+
+There seems to be a growing hunger/demand for a simple and compelling approach to informed consent and it's one of the thingsI'm focusing on now.  It would be really constructive to have something as an example in GitHub (with corresponding Wiki and links to supporting materials) that gets down to the nitty gritty of informed consent (an approach to it's functional and other component and integration criteria).  
+
+Comprehension of Unfamiliar Big Data Identity Profiles
+
+The other reason I'm looking at this has to do with an attempt to do some fresh work on the topic.  For big data and reality mining consents for access to personal data sources, I'm currently exploring how to use a "look ahead" (or in a dystopian case, a: "Christmas Future") type of approach whereby the user is shown an projected composite example of what data-sets of their would likely be compiled through the course of the study or some period of participation and specifically shows how some basic network maps, time series and other visualizations of their "big data identity profile" might look, based on how others looks with somewhat similar demographics or relevant characteristics after providing a comparable type/volume of personal data-sets.  I think I'd brought this up previously and I've come back to it several times over the past few months and so have decided to attempt digging into the idea in a way that could be prototyped or tested somehow.  I'd be grateful for any thoughts you might have on this approach (critical, constructive or otherwise!).  
+
+

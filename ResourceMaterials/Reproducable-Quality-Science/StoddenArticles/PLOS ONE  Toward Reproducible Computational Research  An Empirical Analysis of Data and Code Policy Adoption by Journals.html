@@ -1,0 +1,1240 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0074)http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111 -->
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dc="http://purl.org/dc/terms/" xmlns:doi="http://dx.doi.org/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema-datatypes#" lang="en" xml:lang="en" itemscope="" itemtype="http://schema.org/Article" class=" js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>PLOS ONE: Toward Reproducible Computational Research: An Empirical Analysis of Data and Code Policy Adoption by Journals</title>
+
+
+<link rel="stylesheet" type="text/css" href="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/global-min.css">
+
+
+    <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css"  href="/css/lte_ie7-min.css?v=3bykQUyQmReeuobVyPozcJ9LxRc" />
+    <![endif]-->
+
+
+<link rel="stylesheet" type="text/css" href="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/jquery-ui-min.css">
+
+
+<link rel="stylesheet" type="text/css" href="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/journal.css">
+
+
+<link rel="stylesheet" type="text/css" media="print" href="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/print-min.css">
+
+
+  <link rel="stylesheet" href="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/24557.css" type="text/css">
+
+  <!--chartbeat -->
+  <script type="text/javascript" async="" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/ga.js"></script><script type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>
+  <script>document.documentElement.className += ' js';</script>
+
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7; IE=EmulateIE9">
+  <meta name="description" content="PLOS ONE: an inclusive, peer-reviewed, open-access resource from the PUBLIC LIBRARY OF SCIENCE. Reports of well-performed scientific studies from all disciplines freely available to the whole world.">
+  <meta name="keywords" content="PLOS, Public Library of Science, Open Access, Open-Access, Science, Medicine, Biology, Research, Peer-review, Inclusive, Interdisciplinary, Ante-disciplinary, Physics, Chemistry, Engineering">
+  <meta name="almHost" content="http://alm.plos.org/api/v3/articles">
+  <meta name="searchHost" content="http://api.plos.org/search">
+  <meta name="termsHost" content="http://api.plos.org/terms">
+  <meta name="solrApiKey" content="plos">
+  <meta name="almAPIKey" content="3pezRBRXdyzYW6ztfwft">
+
+  <meta name="citation_publisher" content="Public Library of Science">
+  <meta name="citation_doi" content="10.1371/journal.pone.0067111">
+
+    <meta name="citation_title" content="Toward Reproducible Computational Research: An Empirical Analysis of Data and Code Policy Adoption by Journals">
+    <meta itemprop="name" content="Toward Reproducible Computational Research: An Empirical Analysis of Data and Code Policy Adoption by Journals">
+
+      <meta name="citation_author" content="Victoria Stodden">
+            <meta name="citation_author_institution" content="Department of Statistics, Columbia University, New York City, New York, United States of America">
+      <meta name="citation_author" content="Peixuan Guo">
+            <meta name="citation_author_institution" content="Department of Statistics, Columbia University, New York City, New York, United States of America">
+      <meta name="citation_author" content="Zhaokun Ma">
+            <meta name="citation_author_institution" content="Department of Industrial Engineering and Operations Research, Columbia University, New York City, New York, United States of America">
+
+    <meta name="citation_date" content="2013/6/21">
+
+  <meta name="citation_pdf_url" content="http://dx.plos.org/10.1371/journal.pone.0067111.pdf">
+
+      <meta name="citation_journal_title" content="PLOS ONE">
+    <meta name="citation_firstpage" content="e67111">
+    <meta name="citation_issue" content="6">
+    <meta name="citation_volume" content="8">
+    <meta name="citation_issn" content="1932-6203">
+
+    <meta name="citation_journal_abbrev" content="PLoS ONE">
+
+      <meta name="citation_reference" content="citation_number=1; ">
+      <meta name="citation_reference" content="citation_title=Replication, replication; citation_volume=28; citation_number=2; citation_pages=443-499; citation_date=1995; ">
+      <meta name="citation_reference" content="citation_title=Accessible reproducible research; citation_volume=327; citation_number=3; citation_pages=5964; citation_date=2010; ">
+      <meta name="citation_reference" content="citation_title=Public availability of published research data in high-impact journals; citation_volume=6; citation_number=4; citation_pages=9; citation_date=2011; ">
+      <meta name="citation_reference" content="citation_title=Willingness to share research data is related to the strength of the evidence and the quality of reporting of statistical results; citation_volume=6; citation_number=5; citation_pages=11; citation_date=2011; ">
+      <meta name="citation_reference" content="citation_number=6; ">
+      <meta name="citation_reference" content="citation_title=Scientific utopia: II. Restructuring incentives and practices to promote truth over publishability; citation_volume=7; citation_number=7; citation_pages=6; citation_date=2012; ">
+      <meta name="citation_reference" content="citation_number=8; ">
+      <meta name="citation_reference" content="citation_number=9; ">
+      <meta name="citation_reference" content="citation_number=10; ">
+      <meta name="citation_reference" content="citation_title=Reproducible research: Addressing the need for data and code sharing in computational science; citation_volume=12; citation_number=11; citation_pages=5; citation_date=2010; ">
+      <meta name="citation_reference" content="citation_title=Devil in the details; citation_volume=470; citation_number=12; citation_pages=305-306; citation_date=2011; ">
+      <meta name="citation_reference" content="citation_number=13; ">
+      <meta name="citation_reference" content="citation_title=Computational science:… error; citation_volume=467; citation_number=14; citation_pages=775-777; citation_date=2010; ">
+      <meta name="citation_reference" content="citation_title=Publish your computer code: it is good enough; citation_volume=467; citation_number=15; citation_pages=753; citation_date=2010; ">
+      <meta name="citation_reference" content="citation_number=16; ">
+      <meta name="citation_reference" content="citation_number=17; ">
+      <meta name="citation_reference" content="citation_title=Minimum information about a microarray experiment (MIAME)–toward standards for microarray data; citation_volume=29; citation_number=18; citation_pages=365-371; citation_date=2001; ">
+      <meta name="citation_reference" content="citation_number=19; ">
+      <meta name="citation_reference" content="citation_number=20; ">
+      <meta name="citation_reference" content="citation_number=21; ">
+      <meta name="citation_reference" content="citation_number=22; ">
+      <meta name="citation_reference" content="citation_number=23; ">
+ <!--end articleInfoX-->
+
+  <link rel="pingback" href="http://www.plosone.org/pingback">
+
+  <link rel="shortcut icon" href="http://www.plosone.org/images/favicon.ico" type="image/x-icon">
+  <link rel="home" title="home" href="http://www.plosone.org/;jsessionid=9645890B0CD0FB890318039D3B5A58A5">
+  <link rel="alternate" type="application/rss+xml" title="PLOS ONE: New Articles" href="http://www.plosone.org/article/feed">
+<link type="text/css" rel="stylesheet" href="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/p_widget.css"><style type="text/css">.MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
+.MathJax_Hover_Arrow {position: absolute; width: 15px; height: 11px; cursor: pointer}
+</style><style type="text/css">#MathJax_About {position: fixed; left: 50%; width: auto; text-align: center; border: 3px outset; padding: 1em 2em; background-color: #DDDDDD; color: black; cursor: default; font-family: message-box; font-size: 120%; font-style: normal; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -khtml-border-radius: 15px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+.MathJax_Menu {position: absolute; background-color: white; color: black; width: auto; padding: 5px 0px; border: 1px solid #CCCCCC; margin: 0; cursor: default; font: menu; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -khtml-border-radius: 5px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+.MathJax_MenuItem {padding: 1px 2em; background: transparent}
+.MathJax_MenuTitle {background-color: #CCCCCC; margin: -5px 0 0 0; text-align: center; font-style: italic; font-size: 80%; color: #444444; padding: 2px 0; overflow: hidden}
+.MathJax_MenuArrow {position: absolute; right: .5em; color: #666666}
+.MathJax_MenuActive .MathJax_MenuArrow {color: white}
+.MathJax_MenuCheck {position: absolute; left: .7em}
+.MathJax_MenuRadioCheck {position: absolute; left: .7em}
+.MathJax_MenuLabel {padding: 1px 2em 3px 1.33em; font-style: italic}
+.MathJax_MenuRule {border-top: 1px solid #DDDDDD; margin: 4px 3px}
+.MathJax_MenuDisabled {color: GrayText}
+.MathJax_MenuActive {background-color: #606872; color: white}
+.MathJax_Menu_Close {position: absolute; width: 31px; height: 31px; top: -15px; left: -15px}
+</style><style type="text/css">#MathJax_Zoom {position: absolute; background-color: #F0F0F0; overflow: auto; display: block; z-index: 301; padding: .5em; border: 1px solid black; margin: 0; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; box-shadow: 5px 5px 15px #AAAAAA; -webkit-box-shadow: 5px 5px 15px #AAAAAA; -moz-box-shadow: 5px 5px 15px #AAAAAA; -khtml-box-shadow: 5px 5px 15px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_ZoomOverlay {position: absolute; left: 0; top: 0; z-index: 300; display: inline-block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+#MathJax_ZoomEventTrap {position: absolute; left: 0; top: 0; z-index: 302; display: inline-block; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+</style><style type="text/css">.MathJax_Preview {color: #888}
+#MathJax_Message {position: fixed; left: 1em; bottom: 1.5em; background-color: #E6E6E6; border: 1px solid #959595; margin: 0px; padding: 2px 8px; z-index: 102; color: black; font-size: 80%; width: auto; white-space: nowrap}
+#MathJax_MSIE_Frame {position: absolute; top: 0; left: 0; width: 0px; z-index: 101; border: 0px; margin: 0px; padding: 0px}
+.MathJax_Error {color: #CC0000; font-style: italic}
+</style><script type="text/javascript" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/jquery-1.9.1.min.js"></script></head>
+<body><div id="MathJax_Message" style="display: none;"></div>
+
+  <div id="page-wrap">
+    <div id="topbanner" class="cf">
+
+<!-- Div for the ad at the top of journal home page-->
+<div class="center">
+  <div class="title">Advertisement</div>
+  <iframe id="a3ac9da4" name="a3ac9da4" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/afr.html" frameborder="0" scrolling="no" width="730" height="90">
+    &lt;a href='http://ads.plos.org/www/delivery/ck.php?n=a3ac9da4&amp;amp;cb=7860'
+      target='_top'&gt;&lt;img src='http://ads.plos.org/www/delivery/avw.php?zoneid=345&amp;amp;cb=6473&amp;amp;n=a3ac9da4'
+      border='0' alt=''/&gt;
+    &lt;/a&gt;
+  </iframe>
+</div>  </div>
+
+  <div id="pagehdr-wrap">
+    <div id="pagehdr">
+
+      <div id="user" class="nav">
+        <ul>
+          <li><a href="http://www.plos.org/">plos.org</a></li>
+            <li><a href="https://register.plos.org/ambra-registration/register.action">create account</a></li>
+            <li class="btn-style"><a href="http://www.plosone.org/user/secure/secureRedirect.action?goTo=%2Farticle%2FfetchArticle.action%3FarticleURI%3Dinfo%253Adoi%252F10.1371%252Fjournal.pone.0067111">sign in</a>
+            </li>
+        </ul>
+      </div>
+
+
+        <div class="logo">
+          <a href="http://www.plosone.org/;jsessionid=9645890B0CD0FB890318039D3B5A58A5"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/logo.png" alt="PLOS ONE"></a>
+        </div>
+
+<div id="db">
+  <form name="searchForm" action="http://www.plosone.org/search/simple;jsessionid=9645890B0CD0FB890318039D3B5A58A5?noSearchFlag=true&query=&articleURI=info%3Adoi%2F10.1371%2Fjournal.pone.0067111" method="get">
+<input type="hidden" name="from" value="globalSimpleSearch" id="from"><input type="hidden" name="filterJournals" value="PLoSONE" id="filterJournals">    <fieldset>
+      <legend>Search</legend>
+      <label for="search">Search</label>
+      <div class="wrap">
+        <input id="search" type="text" name="query" placeholder="Search">
+        <input type="image" alt="SEARCH" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/icon.search.gif">
+      </div>
+    </fieldset>
+  </form>
+    <a id="advSearch" href="http://www.plosone.org/search/advanced;jsessionid=9645890B0CD0FB890318039D3B5A58A5?noSearchFlag=true&query=&articleURI=info%3Adoi%2F10.1371%2Fjournal.pone.0067111&filterJournals=PLoSONE">advanced search</a>
+</div>
+<div id="nav-main" class="nav ">
+  <ul>
+    <li id="mn-01"><a href="http://www.plosone.org/search/advanced;jsessionid=9645890B0CD0FB890318039D3B5A58A5?sort=Date%2C+newest+first&filterStartDate=2013-07-28T00%3A00%3A00Z&filterEndDate=2013-08-27T23%3A59%3A59Z&unformattedQuery=*%3A*&startPage=0&filterJournals=PLoSONE">Articles</a></li>
+    <li id="mn-02"><a href="javascript:void(0);">For Authors</a>
+      <div class="submenu" style="width: 540px; margin-left: -300px;">
+        <div class="block">
+          <div class="submit-script">
+            <h3>Submit your Manuscript</h3>
+            <ul>
+              <li>Fair, rigorous peer review</li>
+              <li>Broad scope and wide reach</li>
+            </ul>
+            <a href="http://www.plosone.org/static/submissionInstructions;jsessionid=9645890B0CD0FB890318039D3B5A58A5" class="btn">get started</a>
+          </div>
+        </div>
+        <div class="menu">
+          <ul>
+            <li><a href="http://www.plosone.org/static/publish;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Why Publish with PLOS ONE</a></li>
+            <li><a href="http://www.plosone.org/static/publication;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Publication Criteria</a></li>
+            <li><a href="http://www.plosone.org/static/editorial;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Editorial Policies</a></li>
+            <li><a href="http://www.plosone.org/static/guidelines;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Manuscript Guidelines</a></li>
+            <li><a href="http://www.plosone.org/static/figureGuidelines;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Figure and Table Guidelines</a></li>
+            <li><a href="http://www.plosone.org/static/supportingInformation;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Supporting Information Guidelines</a></li>
+            <li><a href="http://www.plosone.org/static/submissionInstructions;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Submitting a Manuscript</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+    <li id="mn-03"><a href="javascript:void(0);">About Us</a>
+      <div class="submenu" style="width:248px; margin-left:-30px;">
+        <div class="menu">
+          <ul>
+            <li><a href="http://www.plosone.org/static/information;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Journal Information</a></li>
+            <li><a href="http://www.plosone.org/static/edboard;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Editorial Board</a></li>
+            <li><a href="http://www.plosone.org/static/reviewerGuidelines;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Reviewer Guidelines</a></li>
+            <li><a href="http://www.plosone.org/static/almInfo;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Article-Level Metrics</a></li>
+            <li><a href="http://www.plosone.org/static/license;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Open-Access License</a></li>
+            <li><a href="http://www.plosone.org/static/downloads;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Media Downloads</a></li>
+            <li><a href="http://www.plosone.org/static/commentGuidelines;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Guidelines for Comments and Corrections</a></li>
+            <li><a href="http://www.plosone.org/static/help;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Help Using this Site</a></li>
+            <li><a href="http://www.plosone.org/static/contact;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Contact Us</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+    </div>
+    <!-- pagehdr-->
+  </div>
+  <!-- pagehdr-wrap -->
+
+  <!--body and html tags gets closed in global_footer.ftl-->
+<script type="text/javascript" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/MathJax.js"></script>
+
+<div id="pagebdy-wrap">
+  <div id="pagebdy">
+
+    <div id="article-block" class="cf">
+
+<div class="article-meta cf">
+  <ul id="almSignPost" style=""><li><div class="top">1,450</div><div class="bottom"><div class="center"><div class="text">VIEWS<div class="content"><div class="description">Sum of PLOS and PubMed Central page views and downloads&nbsp;&nbsp;<a href="http://www.plosone.org/static/almInfo#usageInfo">Read more</a>.</div></div></div></div></div></li><li><div class="top">10</div><div class="bottom"><div class="center"><div class="text">SAVES<div class="content"><div class="description">Total Mendeley and CiteULike bookmarks&nbsp;&nbsp;<a href="http://www.plosone.org/static/almInfo#socialBookmarks">Read more</a>.</div></div></div></div></div></li><li><div class="top">54</div><div class="bottom"><div class="center"><div class="text">SHARES<div class="content"><div class="description">Sum of Facebook and Twitter activity&nbsp;&nbsp;<a href="http://www.plosone.org/static/almInfo#socialBookmarks">Read more</a>.</div></div></div></div></div></li></ul>
+  <div class="article-type">
+    <span class="type oa">Open Access</span>
+      <span class="type pr">Peer-Reviewed</span>
+  </div>
+</div>
+
+<div class="header" id="hdr-article">
+
+<div class="article-kicker">
+  <span id="article-type-heading" style="cursor: text;">Research Article</span>
+
+
+</div>  <h1 property="dc:title" datatype="" rel="dc:type" href="http://purl.org/dc/dcmitype/Text">
+    Toward Reproducible Computational Research: An Empirical Analysis of Data and Code Policy Adoption by Journals
+  </h1>
+
+  <ul class="authors">
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Victoria Stodden
+              <span class="corresponding">mail</span>, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              <p><span class="email">* E-mail:</span> <a href="mailto:victoria@stodden.net">victoria@stodden.net</a></p>
+
+                <p>Affiliation:
+                  Department of Statistics, Columbia University, New York City, New York, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Peixuan Guo, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  Department of Statistics, Columbia University, New York City, New York, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Zhaokun Ma
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  Department of Industrial Engineering and Operations Research, Columbia University, New York City, New York, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+  </ul>
+
+</div><!--end header-->
+<div class="main cf" id="pjax-container">
+  
+
+<div class="nav items-5" id="nav-article">
+  <ul>
+  <li>
+        <span class="active" name="article">Article</span>
+  </li>
+  <li>
+      <a href="http://www.plosone.org/article/authors/info%3Adoi%2F10.1371%2Fjournal.pone.0067111;jsessionid=9645890B0CD0FB890318039D3B5A58A5" name="authors">About the Authors</a>
+  </li>
+  <li>
+      <a href="http://www.plosone.org/article/metrics/info%3Adoi%2F10.1371%2Fjournal.pone.0067111;jsessionid=9645890B0CD0FB890318039D3B5A58A5" name="metrics">Metrics</a>
+  </li>
+  <li>
+      <a href="http://www.plosone.org/article/comments/info%3Adoi%2F10.1371%2Fjournal.pone.0067111;jsessionid=9645890B0CD0FB890318039D3B5A58A5" name="comments">Comments</a>
+  </li>
+  <li>
+      <a href="http://www.plosone.org/article/related/info%3Adoi%2F10.1371%2Fjournal.pone.0067111;jsessionid=9645890B0CD0FB890318039D3B5A58A5" name="related">Related Content</a>
+  </li>
+  </ul>
+</div>
+
+<script type="text/javascript">
+  var selected_tab = "article";
+</script>
+  <div id="figure-thmbs" class="carousel cf">
+    <div class="wrapper">
+      <div class="slider">
+              <div class="item clone">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t010" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t010" title="Table 10">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject.action" alt="">
+                  </span>
+                </a>
+              </div><div class="item empty clone"></div><div class="item empty clone"></div><div class="item empty clone"></div><div class="item">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t001" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t001" title="Table 1">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(1).action" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t002" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t002" title="Table 2">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(2).action" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t003" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t003" title="Table 3">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(3).action" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t004" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t004" title="Table 4">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(4).action" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t005" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t005" title="Table 5">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(5).action" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t006" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t006" title="Table 6">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(6).action" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t007" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t007" title="Table 7">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(7).action" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-g001" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.g001" title="Figure 1">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(8).action" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-g002" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.g002" title="Figure 2">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(9).action" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-g003" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.g003" title="Figure 3">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(10).action" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t008" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t008" title="Table 8">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(11).action" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t009" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t009" title="Table 9">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(12).action" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t010" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t010" title="Table 10">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject.action" alt="">
+                  </span>
+                </a>
+              </div>
+      <div class="item empty"></div><div class="item empty"></div><div class="item empty"></div><div class="item clone">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t001" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t001" title="Table 1">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(1).action" alt="">
+                  </span>
+                </a>
+              </div><div class="item clone">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t002" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t002" title="Table 2">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(2).action" alt="">
+                  </span>
+                </a>
+              </div><div class="item clone">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t003" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t003" title="Table 3">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(3).action" alt="">
+                  </span>
+                </a>
+              </div><div class="item clone">
+                <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t004" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t004" title="Table 4">
+                  <span class="thmb-wrap">
+                    <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(4).action" alt="">
+                  </span>
+                </a>
+              </div></div>
+    </div>
+  <div class="controls"><span class="button prev"></span><span class="button next"></span></div><div class="buttons"><span class="active">1</span><span>2</span><span>3</span><span>4</span></div></div><div id="fig-toggle" class="cf"><span>Hide Figures</span></div>
+
+  <div class="nav-col">
+    <div class="nav" id="nav-article-page" style="position: fixed; top: 90px;"><ul class="nav-page"><li class=""><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#abstract0" class="scroll">Abstract</a></li><li class=""><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#s1" class="scroll">Introduction</a></li><li class=""><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#s2" class="scroll">Methods</a></li><li class=""><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#s3" class="scroll">Results</a></li><li class=""><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#s4" class="scroll">Discussion</a></li><li class=""><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#s5" class="scroll">Supporting Information</a></li><li class=""><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#authcontrib" class="scroll">Author Contributions</a></li><li class="active"><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#references" class="scroll">References</a></li></ul>
+      <ul>
+        <li class="nav-col-comments"><a href="http://www.plosone.org/article/comments/info%3Adoi%2F10.1371%2Fjournal.pone.0067111;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Reader Comments (0)</a></li>
+          <li id="nav-figures"><a data-doi="info:doi/10.1371/journal.pone.0067111">Figures</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="article">
+
+
+
+
+
+
+
+<div class="abstract"><a id="abstract0" name="abstract0" toc="abstract0" title="Abstract"></a><h2>Abstract</h2><a id="article1.front1.article-meta1.abstract1.p1" name="article1.front1.article-meta1.abstract1.p1"></a><p>Journal policy on research data and code availability is an important part of the ongoing shift toward publishing reproducible computational science. This article extends the literature by studying journal data sharing policies by year (for both 2011 and 2012) for a referent set of 170 journals. We make a further contribution by evaluating code sharing policies, supplemental materials policies, and open access status for these 170 journals for each of 2011 and 2012. We build a predictive model of open data and code policy adoption as a function of impact factor and publisher and find higher impact journals more likely to have open data and code policies and scientific societies more likely to have open data and code policies than commercial publishers. We also find open data policies tend to lead open code policies, and we find no relationship between open data and code policies and either supplemental material policies or open access journal status. Of the journals in this study, 38% had a data policy, 22% had a code policy, and 66% had a supplemental materials policy as of June 2012. This reflects a striking one year increase of 16% in the number of data policies, a 30% increase in code policies, and a 7% increase in the number of supplemental materials policies. We introduce a new dataset to the community that categorizes data and code sharing, supplemental materials, and open access policies in 2011 and 2012 for these 170 journals.</p>
+</div>
+
+
+<div class="articleinfo"><p><strong>Citation: </strong>Stodden V, Guo P, Ma Z (2013) Toward Reproducible Computational Research: An Empirical Analysis of Data and Code Policy Adoption by Journals. PLoS ONE 8(6):
+          e67111.
+            doi:10.1371/journal.pone.0067111</p><p><strong>Editor: </strong>Dmitri Zaykin, National Institute of Environmental Health Sciences, United States of America</p><p></p><p><strong>Received:</strong> February 11, 2013; <strong>Accepted:</strong> May 5, 2013; <strong>Published:</strong> June 21, 2013</p><p><strong>Copyright:</strong> © 2013 Stodden et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p><p><strong>Funding: </strong>This research was supported by NSF award number 1153384 “EAGER: Policy Design for Reproducibility and Data Sharing in Computational Science.” See <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1153384">http://www.nsf.gov/awardsearch/showAward​?AWD_ID=1153384</a>. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p><p><strong>Competing interests:</strong> The authors have declared that no competing interests exist.</p></div>
+
+
+
+
+
+<div id="section1" class="section"><a id="s1" name="s1" toc="s1" title="Introduction"></a><h3>Introduction</h3><a id="article1.body1.sec1.p1" name="article1.body1.sec1.p1"></a><p>The journal publication process is a key lever shaping the nature of scholarly communication and promoting the integrity of the scholarly record. The ability to replicate published computational results relies on the availability of the data and code used to generate the findings, and lack of access to such materials is engendering a credibility crisis in the computational sciences <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Donoho1">[1]</a>, <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-King1">[2]</a>, <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Mesirov1">[3]</a>. Recent attention has focused on changes needed in scientific publishing and the role of journal open data requirements in fostering scientific reliability <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-AlsheikhAli1">[4]</a>, <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Wicherts1">[5]</a>, <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Nosek1">[6]</a>, <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Nosek2">[7]</a> but little research has focused on availability of the code needed to replicate computational findings, although this has been associated with high impact publications <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Vandewalle1">[8]</a>. A search of four June issues of the Journal of the American Statistical Association, presented in <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t001">Table 1</a>, shows that authors generally do not provide sufficient information to enable others to access their associated research codes. In this study we document data sharing policies for 170 journals in June 2011 and again in June 2012. In addition, we examine these journals’ code sharing policies and their supplemental materials policies. We seek to understand the nature of these policies, their rate of implementation, and how different journal characteristics may be related to adoption rates.</p>
+<div class="figure" id="pone-0067111-t001"><div class="img"><a name="pone-0067111-t001" title="Click for larger image " href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0067111.t001&representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t001"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(1).action" alt="thumbnail" class="thumbnail"><div class="expand"></div></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t001/powerpoint">
+                    PPT
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t001/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t001/largerimage">
+                    PNG
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t001/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t001.PNG_L">16KB</span>)
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t001/originalimage">
+                    TIFF
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t001/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t001.TIF">48KB</span>)
+                </a></li></ul></div><p><strong>Table 1.  <span>Code Availability in the Journal of the American Statistical Association.</span></strong></p><span>doi:10.1371/journal.pone.0067111.t001</span></div><a id="article1.body1.sec1.p2" name="article1.body1.sec1.p2"></a><p>There have been numerous calls for data and code release from across the computational sciences <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Reproducible1">[9]</a>, <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Stodden1">[10]</a>, <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-YaleRoundtable1">[11]</a>. Editorials and commentaries have made the similar appeals <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Nature1">[12]</a>, <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Hanson1">[13]</a>, <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Merali1">[14]</a>, <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Barnes1">[15]</a> and other stakeholders are taking steps to encourage data sharing. Since January 2011 the National Science Foundation (NSF) has required the submission of a 2-page data management plan with every new grant application that outlines plans for the stewardship of the data arising from the funding opportunity (NSF Data Management Plan, Jan. 2011. <a href="http://www.nsf.gov/bfa/dias/policy/dmp.jsp">http://www.nsf.gov/bfa/dias/policy/dmp.j​sp</a>). The National Science Foundation and the National Institutes of Health (NIH) both require dataset disclosure and encourage software availability, as seen in the following excerpts from their grant guidelines,</p>
+<a id="article1.body1.sec1.p3" name="article1.body1.sec1.p3"></a><p>“NSF … expects investigators to share with other researchers, at no more than incremental cost and within a reasonable time, the data, samples, physical collections and other supporting materials created or gathered in the course of the work. It also encourages grantees to share software and inventions or otherwise act to make the innovations they embody widely useful and usable.” (National Science Foundation Grant Guidelines, <a href="http://www.nsf.gov/cise/cise_dmp.jsp">http://www.nsf.gov/cise/cise_dmp.jsp</a> (2005)) and</p>
+<a id="article1.body1.sec1.p4" name="article1.body1.sec1.p4"></a><p>NIH (2003): “The NIH endorses the sharing of final research data to serve these and other important scientific goals. The NIH expects and supports the timely release and sharing of final research data from NIH-supported studies for use by other researchers.” For grants over $500,000, a data sharing plan must be included. (National Institutes of Health Grant Guidelines, <a href="http://grants.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm">http://grants.nih.gov/grants/policy/data​_sharing/data_sharing_guidance.htm</a>).</p>
+<a id="article1.body1.sec1.p5" name="article1.body1.sec1.p5"></a><p>Both policies are strongly worded but neither is consistently enforced, and compliance is largely left up to the authors of the papers. A recent proposal initiated by the NSF called for a Software Sharing Plan as have a number of NIH grants (See the National Science Foundation Grant Solicitation, “Core Techniques and Technologies for Advancing Big Data Science &amp; Engineering (BIGDATA),” <a href="http://www.nsf.gov/pubs/2012/nsf12499/nsf12499.htm">http://www.nsf.gov/pubs/2012/nsf12499/ns​f12499.htm</a>).</p>
+<a id="article1.body1.sec1.p6" name="article1.body1.sec1.p6"></a><p>In addition to funding agency or institutional requirements, journals exert a tremendous amount of influence on communication standards for scientific knowledge dissemination. We follow up on one principle and one recommendation made in a 2003 National Academies report <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Committee1">[16]</a> stating:</p>
+<a id="article1.body1.sec1.p7" name="article1.body1.sec1.p7"></a><p><strong>Principle 1. Authors should include in their publications the data, algorithms, or other information that is central or integral to the publication–that is, whatever is necessary to support the major claims of the paper and would enable one skilled in the art to verify or replicate the claims.</strong></p>
+<a id="article1.body1.sec1.p8" name="article1.body1.sec1.p8"></a><p>This is a <em>quid pro quo</em>–in exchange for the credit and acknowledgement that come with publishing in a peer-reviewed journal, authors are expected to provide the information essential to their published findings. (p. 5)</p>
+<a id="article1.body1.sec1.p9" name="article1.body1.sec1.p9"></a><p><strong>Recommendation 6. Scientific journals should clearly and prominently state (in the instructions for authors and on their Web sites) their policies for distribution of publication-related materials, data, and other information. Policies for sharing materials should include requirements for depositing materials in an appropriate repository. Policies for data sharing should include requirements for deposition of complex datasets in appropriate databases and for the sharing of software and algorithms integral to the findings being reported. The policies should also clearly state the consequences for authors who do not adhere to the policies and the procedure for registering complaints about noncompliance.</strong></p>
+<a id="article1.body1.sec1.p10" name="article1.body1.sec1.p10"></a><p>Many journals do not specify policies about sharing data and materials in their instructions to authors. By incorporating transparent standards into their official policies (including a statement of consequences for authors who do not comply), journals can encourage compliance. (p. 10).</p>
+<a id="article1.body1.sec1.p11" name="article1.body1.sec1.p11"></a><p>Principle 1 calls for the dissemination of data, software, and all information necessary for a researcher to “verify or replicate the claims” made in the publication. Recommendation 6 is a call for journals to clarify and explicitly state their policies regarding data and code release requirements, and to state consequences for authors who do not comply with these requirements. <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111.s001">Appendix S1</a> lists the Principles and Recommendations given by the National Academies task force in their entirety. The two highest ranked journals in scientific publication, <em>Nature</em> and <em>Science</em>, both now require authors to make available the data underlying their published results upon request, and in February of 2011 <em>Science</em> extended this policy to include code and software <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Hanson1">[13]</a>. One fundamental research question we seek to address is the role of leadership in journal policy setting, specifically whether this action on the part of flagship journals could be expected to create a “trickle down” effect to other journals.</p>
+</div>
+
+<div id="section2" class="section"><a id="s2" name="s2" toc="s2" title="Methods"></a><h3>Methods</h3><a id="article1.body1.sec2.p1" name="article1.body1.sec2.p1"></a><p>We chose to include the journals classified in the ISI Web of Knowledge journal categorizations “Mathematical &amp; Computational Biology,” “Statistics &amp; Probability,” and “Multidisciplinary Sciences” since they are likely to report computational results and therefore likely to be composed of journals developing data and code sharing policies. We chose to include computational biology because of the strides made toward data sharing in this field over the last decade or so <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-TorontoInternationalDataReleaseWorkshop1">[17]</a>, <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Brazma1">[18]</a>. We then chose to add 5 additional journals, due to their high impact factors and likelihood of publishing computational results (Nature Genetics, Cell, Lancet, Nature Physics, and Materials Science and Engineering Reports). After removing the handful of journals that have ceased active publication, this effort selected 170 journal titles as shown in <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t002">Table 2</a> (<a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111.s002">Appendix S2</a> gives the complete alphabetical list of journal titles included in this study).</p>
+<div class="figure" id="pone-0067111-t002"><div class="img"><a name="pone-0067111-t002" title="Click for larger image " href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0067111.t002&representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t002"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(2).action" alt="thumbnail" class="thumbnail"><div class="expand"></div></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t002/powerpoint">
+                    PPT
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t002/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t002/largerimage">
+                    PNG
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t002/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t002.PNG_L">43KB</span>)
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t002/originalimage">
+                    TIFF
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t002/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t002.TIF">218KB</span>)
+                </a></li></ul></div><p><strong>Table 2.  <span>ISI Classifications Represented in the Journal Titles.</span></strong></p><span>doi:10.1371/journal.pone.0067111.t002</span></div><a id="article1.body1.sec2.p2" name="article1.body1.sec2.p2"></a><p><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t003">Tables 3</a> and <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t004">4</a> show the distribution of impact factors for the journal titles and the publishing houses represented. Unsurprisingly, given the distribution of impact factor rankings across journals in general, a majority of the titles in this study have an impact factor of 1 or less (110 of 170) and 15 titles have an impact factor of 5 or greater. As shown in <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t005">Table 5</a>, the Springer Publishing House publishes the greatest percent of the journal titles in this study at 17.1%, and about half the journals are published by one of Springer, Wiley, Elsevier, and Taylor &amp; Francis.</p>
+<div class="figure" id="pone-0067111-t003"><div class="img"><a name="pone-0067111-t003" title="Click for larger image " href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0067111.t003&representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t003"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(3).action" alt="thumbnail" class="thumbnail"><div class="expand"></div></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t003/powerpoint">
+                    PPT
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t003/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t003/largerimage">
+                    PNG
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t003/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t003.PNG_L">14KB</span>)
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t003/originalimage">
+                    TIFF
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t003/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t003.TIF">61KB</span>)
+                </a></li></ul></div><p><strong>Table 3.  <span>Distribution of Impact Factors for Journal Titles.</span></strong></p><span>doi:10.1371/journal.pone.0067111.t003</span></div><div class="figure" id="pone-0067111-t004"><div class="img"><a name="pone-0067111-t004" title="Click for larger image " href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0067111.t004&representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t004"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(4).action" alt="thumbnail" class="thumbnail"><div class="expand"></div></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t004/powerpoint">
+                    PPT
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t004/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t004/largerimage">
+                    PNG
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t004/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t004.PNG_L">49KB</span>)
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t004/originalimage">
+                    TIFF
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t004/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t004.TIF">214KB</span>)
+                </a></li></ul></div><p><strong>Table 4.  <span>Publishing Houses for Journal Titles.</span></strong></p><span>doi:10.1371/journal.pone.0067111.t004</span></div><div class="figure" id="pone-0067111-t005"><div class="img"><a name="pone-0067111-t005" title="Click for larger image " href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0067111.t005&representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t005"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(5).action" alt="thumbnail" class="thumbnail"><div class="expand"></div></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t005/powerpoint">
+                    PPT
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t005/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t005/largerimage">
+                    PNG
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t005/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t005.PNG_L">28KB</span>)
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t005/originalimage">
+                    TIFF
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t005/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t005.TIF">140KB</span>)
+                </a></li></ul></div><p><strong>Table 5.  <span>Classification of Journal Policies.</span></strong></p><span>doi:10.1371/journal.pone.0067111.t005</span></div><a id="article1.body1.sec2.p3" name="article1.body1.sec2.p3"></a><p>We inspected the websites of all of these journal titles, once in June of 2011 and a second time in June of 2012, to ascertain their policies on data sharing, code sharing, and supplementary materials. Journal policies typically did not explicitly define “code,” nor did they make a distinction between commercial code and open source code. <em>Science</em>, for example, states that “All computer codes involved in the creation or analysis of data must also be available to any reader of <em>Science</em>. … Any restrictions on the availability of data, codes, or materials, including fees and original data obtained from other sources … must be disclosed to the editors upon submission.” <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Hanson1">[13]</a>. Each journal policy was evaluated on a 5-point scale, as shown in <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t006">Table 6</a>. We included supplemental materials policy in our investigation as a proxy for openness and as a possible bellwether for changes in data and code policies. Supplemental materials, however, tend to include figures and explanations that were not included in the main article rather than data or code.</p>
+<div class="figure" id="pone-0067111-t006"><div class="img"><a name="pone-0067111-t006" title="Click for larger image " href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0067111.t006&representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t006"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(6).action" alt="thumbnail" class="thumbnail"><div class="expand"></div></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t006/powerpoint">
+                    PPT
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t006/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t006/largerimage">
+                    PNG
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t006/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t006.PNG_L">68KB</span>)
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t006/originalimage">
+                    TIFF
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t006/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t006.TIF">331KB</span>)
+                </a></li></ul></div><p><strong>Table 6.  <span>Net Changes in Journal Policy Classifications from 2011 to 2012.</span></strong></p><span>doi:10.1371/journal.pone.0067111.t006</span></div><a id="article1.body1.sec2.p4" name="article1.body1.sec2.p4"></a><p>We also collected information to supplement these rankings to help illuminate and contrast policies. Each data, code, and supplemental materials policy ranking was augmented depending on whether they were specified to be shared via submission to the journal, upon request from readers, or whether this was left unspecified. The policy ranking was further augmented to indicate whether the journal specified that the author was intended to share with colleagues and other researchers in the field, or with the general public (i.e. unspecified). The code sharing policy classification was augmented with an additional parameter that signaled whether the journal has restricted the code policy to apply only to articles with “substantial” code or software. We also recorded whether the journal explicitly permitted either the posting of the final version or a draft of the published version of the article on authors’ website. The final factor we recorded was whether the journal indicated it would review data, code, or supplemental materials submissions, and whether these would be hosted by the journals. These additional policy classifications captured the vast majority of journal policy variation.</p>
+</div>
+
+<div id="section3" class="section"><a id="s3" name="s3" toc="s3" title="Results"></a><h3>Results</h3><a id="article1.body1.sec3.p1" name="article1.body1.sec3.p1"></a><p>Classifying journal policies according to the ranking system given in <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t005">Table 5</a> yields a snapshot of the journal publication standards on the availability of the data and code associated with published computational findings. The data from this study are available at <a href="http://www.stodden.net/JournalPolicies2013/">http://www.stodden.net/JournalPolicies20​13/</a>. <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t006">Table 6</a> gives counts for each classification by year, including the change from 2011 to 2012.</p>
+<a id="article1.body1.sec3.p2" name="article1.body1.sec3.p2"></a><p>The majority of journal titles included in our study have not followed the recommendations of the National Academies committee mentioned in the introduction by describing their data and code sharing policies on their websites. In June of 2012, 62% of the journals in this study make no mention of a data policy and 79% make no mention of a software policy. However, 66% have a supplemental materials policy. Of the remaining journals that mention data or software policies on their website, the majority encourage the practice of sharing but do not require it: 47% of journals with a data sharing policy encourage sharing and 45% require it (including the 16% who state noncompliance with this requirement will not affect publication decisions). Similarly, 56% of journals with a software policy choose encouragement of code sharing, and 32% require code disclosure (including the 16% who indicate that noncompliance with this requirement will not affect publication decisions). Supplemental materials exhibited a different pattern. From 2011 to 2012 there was a net reduction of two journals requiring supplemental materials, and there was a net gain of seven journals adopting explicit encouragement of supplemental materials inclusion with publication.</p>
+<a id="article1.body1.sec3.p3" name="article1.body1.sec3.p3"></a><p>Overall, 30 journals made a data policy change from 2011 to 2012, 12 made a change in their software policy, and 36 made a change to their supplemental data policy. The net change numbers in <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t006">Table 6</a> indicate this is markedly in the direction of openness. There are a total of 104 journals with neither an open data nor open code policy in 2012, down from 110 in 2011. In other words, 39% of journals had some form of open data or open code policy in 2012, up from 35% in 2011.</p>
+<a id="article1.body1.sec3.p4" name="article1.body1.sec3.p4"></a><p>Only three journals in 2012 included a qualifier in their code release policy by stating it applied only to articles that employed substantial software. In 2012 eleven journals planned to review supplemental materials submissions, and 69 were explicitly willing to host supplemental materials. Also in 2012, five journals would review data submissions and 10 were willing to host such submissions, whereas two journals would review code, and two would host code (these were not the same two journals). <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t007">Table 7</a> summarizes these findings. Most journals with a supplemental materials policy were willing to host submissions, and of those with a data sharing policy nearly 16% were willing to host submitted data.</p>
+<div class="figure" id="pone-0067111-t007"><div class="img"><a name="pone-0067111-t007" title="Click for larger image " href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0067111.t007&representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t007"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(7).action" alt="thumbnail" class="thumbnail"><div class="expand"></div></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t007/powerpoint">
+                    PPT
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t007/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t007/largerimage">
+                    PNG
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t007/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t007.PNG_L">24KB</span>)
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t007/originalimage">
+                    TIFF
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t007/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t007.TIF">77KB</span>)
+                </a></li></ul></div><p><strong>Table 7.  <span>Journal Review and Hosting Policies, 2012.</span></strong></p><span>doi:10.1371/journal.pone.0067111.t007</span></div><a id="article1.body1.sec3.p5" name="article1.body1.sec3.p5"></a><p><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-g001">Figures 1</a> through <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-g003">3</a> show the changes from 2011 to 2012 in how journal policy intends the data, code, or supplemental materials to be accessed. The most important finding is that there has been a shift away from journals accepting data to policies that provide for reader access upon request to the authors.</p>
+<div class="figure" id="pone-0067111-g001"><div class="img"><a name="pone-0067111-g001" title="Click for larger image " href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0067111.g001&representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.g001"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(8).action" alt="thumbnail" class="thumbnail"><div class="expand"></div></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g001/powerpoint">
+                    PPT
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g001/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g001/largerimage">
+                    PNG
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g001/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.g001.PNG_L">40KB</span>)
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g001/originalimage">
+                    TIFF
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g001/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.g001.TIF">195KB</span>)
+                </a></li></ul></div><p><strong>Figure 1.  <span>Changes in Data Sharing Policy, 2011–2012.</span></strong></p><span>doi:10.1371/journal.pone.0067111.g001</span></div><div class="figure" id="pone-0067111-g002"><div class="img"><a name="pone-0067111-g002" title="Click for larger image " href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0067111.g002&representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.g002"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(9).action" alt="thumbnail" class="thumbnail"><div class="expand"></div></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g002/powerpoint">
+                    PPT
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g002/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g002/largerimage">
+                    PNG
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g002/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.g002.PNG_L">42KB</span>)
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g002/originalimage">
+                    TIFF
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g002/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.g002.TIF">205KB</span>)
+                </a></li></ul></div><p><strong>Figure 2.  <span>Changes in Code Sharing Policy, 2011–2012.</span></strong></p><span>doi:10.1371/journal.pone.0067111.g002</span></div><div class="figure" id="pone-0067111-g003"><div class="img"><a name="pone-0067111-g003" title="Click for larger image " href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0067111.g003&representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.g003"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(10).action" alt="thumbnail" class="thumbnail"><div class="expand"></div></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g003/powerpoint">
+                    PPT
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g003/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g003/largerimage">
+                    PNG
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g003/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.g003.PNG_L">43KB</span>)
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g003/originalimage">
+                    TIFF
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.g003/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.g003.TIF">212KB</span>)
+                </a></li></ul></div><p><strong>Figure 3.  <span>Changes in Supplemental Materials Policy, 2011–2012.</span></strong></p><span>doi:10.1371/journal.pone.0067111.g003</span></div><a id="article1.body1.sec3.p6" name="article1.body1.sec3.p6"></a><p>The higher impact journals appear to be adopting open data and code requirements more readily than lower impact journals, possibly indicating that higher impact journals are more comfortable increasing the demands on contributing authors. We were also interested in whether journal ownership has an influence on whether or not a particular journal has a data or code sharing policy. We therefore used a logistic model to regress impact factor and publisher data on a binary variable indicating the presence of a data or code sharing policy (leaving the “Not-For-Profit Publisher” variable out). We give the coefficient estimates in <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t008">Table 8</a>. At the 5% level all of Elsevier, Wiley, and Scientific Society Publisher have significant coefficient estimates, indicating that having one of these publishers increases the log odds of a data or code sharing policy (for Elsevier and Wiley the log odds roughly doubles, and if a Scientific Society publishes then the log odds of having a data or code policy increase by about 1.7). Impact Factor is the most highly significant determinant of the existence of a journal data or code sharing policy, indicating the tendency of the high impact journals to lead policy changes that create extra encumbrances for authors. Since Macmillan, publisher of the Nature family of journals, has three observations in this dataset the associated large standard error is unsurprising.</p>
+<div class="figure" id="pone-0067111-t008"><div class="img"><a name="pone-0067111-t008" title="Click for larger image " href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0067111.t008&representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t008"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(11).action" alt="thumbnail" class="thumbnail"><div class="expand"></div></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t008/powerpoint">
+                    PPT
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t008/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t008/largerimage">
+                    PNG
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t008/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t008.PNG_L">32KB</span>)
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t008/originalimage">
+                    TIFF
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t008/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t008.TIF">92KB</span>)
+                </a></li></ul></div><p><strong>Table 8.  <span>Regression Coefficients from Predicting Open Data and Code Policies by Publisher and Impact Factor.</span></strong></p><span>doi:10.1371/journal.pone.0067111.t008</span></div><a id="article1.body1.sec3.p7" name="article1.body1.sec3.p7"></a><p>Of the 13 journals that had a change to their code policy, seven were new policies instantiated sometime between June 2011 and June 2012. Of these seven, all were journals that had pre-existing data policies in place in 2011. It seems code disclosure policies follow on the heels of data disclosure policies in this sample of journals. For the seven journals that adopted new code disclosure policies, four of them also shifted their data disclosure requirements from encouraged to required (the others had no change to their existing data policies). This “follow-on” hypothesis is also supported by the greater proportion of journals with a data access policy versus those with a code access policy in 2012, 38% and 21% respectively. Data policy appears to be the gateway toward more open policies generally. Supplemental materials policies seem to lead or be in tandem with data policies. Of the 11 new data policies implemented from 2011 to 2012, 5 of those journals had no supplemental materials policy in 2011, but by 2012 nine of the 11 journals with new data sharing policies had supplemental materials policies.</p>
+<a id="article1.body1.sec3.p8" name="article1.body1.sec3.p8"></a><p>We also ranked the 170 journals in our study regarding their policies about open access to the published paper itself. We were especially interested in whether there was a correlation between journals that are amenable to open access and the availability of data and code through journal policy. We were also interested in whether a “follow-on” effect existed for scholarly object policies, i.e. data, code, and supplementary materials, from open access policy. We saw very little change however in open access policies for our 170 journals from 2011 to 2012. <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t009">Table 9</a> details these differences: the net change was an increase in one journal requiring open access publication, one journal shifting away from delayed open access or membership requirements, a net increase of one journal explicitly permitting the posting of the draft or final versions of the paper on the web, and finally a net decrease of one journal requiring subscription.</p>
+<div class="figure" id="pone-0067111-t009"><div class="img"><a name="pone-0067111-t009" title="Click for larger image " href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0067111.t009&representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t009"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject(12).action" alt="thumbnail" class="thumbnail"><div class="expand"></div></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t009/powerpoint">
+                    PPT
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t009/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t009/largerimage">
+                    PNG
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t009/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t009.PNG_L">23KB</span>)
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t009/originalimage">
+                    TIFF
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t009/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t009.TIF">118KB</span>)
+                </a></li></ul></div><p><strong>Table 9.  <span>Changes in Open Access Policy 2011–2012.</span></strong></p><span>doi:10.1371/journal.pone.0067111.t009</span></div><a id="article1.body1.sec3.p9" name="article1.body1.sec3.p9"></a><p>With such small changes to open access policy from 2011 to 2012, changes in open access policy do not appear to be driving changes in data and code sharing policies. We examined the correlation between open access policies and data and code sharing policies as follows. We divided the journals into open access (2012 classifications 1 and 2 from <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t005">Table 5</a>) and subscription (2012 classifications 3 and 4) and examined at the differences in 2012 data and code policies for the two groups. If open access journals are more likely to adopt open data and code policies the following year, we should see significant differences between the two groups in 2012. <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-t010">Table 10</a> shows these differences. Although the proportion of open access journals with a data or code policy is greater than the proportion for subscription journals, a chi-square test of independence is not significant for these data (p = 0.44). Therefore these data provide no evidence that an open access policy indicates a greater likelihood of an open data or code policy. At present, access to published papers appears to be a separate issue to reproducible research from the journal perspective.</p>
+<div class="figure" id="pone-0067111-t010"><div class="img"><a name="pone-0067111-t010" title="Click for larger image " href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0067111.t010&representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0067111" data-uri="info:doi/10.1371/journal.pone.0067111.t010"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/fetchObject.action" alt="thumbnail" class="thumbnail"><div class="expand"></div></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t010/powerpoint">
+                    PPT
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t010/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t010/largerimage">
+                    PNG
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t010/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t010.PNG_L">15KB</span>)
+                </a></li><li><div class="icon"><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t010/originalimage">
+                    TIFF
+                  </a></div><a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067111.t010/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0067111.t010.TIF">46KB</span>)
+                </a></li></ul></div><p><strong>Table 10.  <span>Open Access and Open Data/Code Policies 2012.</span></strong></p><span>doi:10.1371/journal.pone.0067111.t010</span></div></div>
+
+<div id="section4" class="section"><a id="s4" name="s4" toc="s4" title="Discussion"></a><h3>Discussion</h3><a id="article1.body1.sec4.p1" name="article1.body1.sec4.p1"></a><p>The overall move toward data and code availability by journals is clear. Of the journals that had a change in their data sharing policy from 2011 to 2012, eleven adopted a data policy for the first time, a net of five journals shifted from encouraging data sharing to requiring it, while four dropped their data access policy. The two remaining journals with a change shifted to data sharing being implied and to explicitly stating a failure to share data will not affect editorial decisions such as publication, respectively. This shows a marked shift toward more stringent data sharing policies, in the course of only one year.</p>
+<a id="article1.body1.sec4.p2" name="article1.body1.sec4.p2"></a><p>With only two years of data it is difficult to speculate as to the reasons for the increases in the number of journals with code and data access policies, but there are some exogenous policy changes that may be affecting journal policy creation. As mentioned previously, in January of 2011 the National Science Foundation began requiring all grant application to include a two-page Data Management Plan, describing the intended availability and archiving of any dataset produced in the course of the research. The genomics research community was rocked by flawed cancer research emerging from researchers at Duke University <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Ferry1">[19]</a>, <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-The1">[20]</a>, which culminated in the Institute of Medicine report entitled “Evolution of Translational Omics: Lessons Learned and the Path Forward” recommending, among other things, code and data disclosure for biomarker tests seeking FDA approval to proceed to clinical trial <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Institute1">[21]</a>.</p>
+<a id="article1.body1.sec4.p3" name="article1.body1.sec4.p3"></a><p>One measure that may help shed light on the rationale underlying the shift to data and code disclosure policies is the wording in the policy statement. We examined the frequency of the use of the term “reproducibility” or similar terms such as “replication,” in journal policy statements regarding data and code. We found that eleven journals of the 66 with either a data sharing or code sharing policy in 2012 specifically referenced these terms when explaining their publication policies, whereas only four journals did so in 2011 (the eleven include those four, no journal that mentioned reproducibility as a rationale for its policies stopped doing so in 2012). This seems to indicate the importance of reproducibility as a rationale underlying data and code access policies. Of the eleven mentioning reproducible research terms in their policies, all except two had open data policies (six required and three encouraged), and five had required code disclosure policies (one encouraged code disclosure). Of course if a journal does not explicitly mention these terms, that does not preclude reproducibility from being their underlying rationale for implementing data and code access policies. The average impact factor for this group of eleven mentioning reproducibility was 10, much higher than the average impact factor for all journals in this study of 1.82. In fact, the two journals in this group of eleven that do not have data policies have the lowest impacts factors of the group at 0.324 and 0.554.</p>
+
+<h4>Conclusions and Future Work</h4>
+<a id="article1.body1.sec4.sec1.p1" name="article1.body1.sec4.sec1.p1"></a><p>In this paper we sought a unified understanding of the evolution of journal policy. We studied the data and code sharing policies of a group of computational journals in June of 2011 and then again in June of 2012. We documented 170 journal policies, classifying their data, code, supplemental materials, and open access policies. We hypothesized that open data and code policies are in the process of being adopted more widely, that data policies would lead code policies, and that open access journals would be more likely to have policies making data and code open as well.</p>
+<a id="article1.body1.sec4.sec1.p2" name="article1.body1.sec4.sec1.p2"></a><p>We found evidence to support our first two hypotheses, and little evidence to support the third. In June of 2012, 38% of the journals in this study had a data policy, 22% had a code policy, and 66% had a supplemental materials policy. This is an increase from June of 2011 when the proportions were 33%, 17%, and 62% respectively. Of journals that have open data and code policies, they tend to adopt open data policies first followed by open code policies. Perhaps surprisingly, supplemental materials policies do not seem to lead data or code polices in a similar way, nor do they appear to crowd out or displace data and code policies. There seems to be no difference in open data and code policy adoption rates for open access versus subscription journals.</p>
+<a id="article1.body1.sec4.sec1.p3" name="article1.body1.sec4.sec1.p3"></a><p>This study was limited to the journals listed in the following three ISI Web of Knowledge classifications: “Mathematical &amp; Computational Biology,” “Statistics &amp; Probability,” and “Multidisciplinary Sciences” as well as a handful of additional journals. This selection has a bias toward bioinformatics and life sciences research due to the inclusion of computational biology journals. The Protein Data Bank (PDB) for example was established in 1971 and deposit within PDB is required for papers describing three-dimensional structures of biological macromolecules <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Editorial1">[22]</a>. The Human Genome Project promulgated widely agreed upon community standards of data sharing as early as 1996 that established data openness as a norm in the field of genomics <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Oak1">[23]</a>. This long history is the exception in data intensive empirical science and was part of the rationale behind including computational biology journals in the study, in order to understand a more mature and more pervasive response to the question of open data. Future work however could expand the sample under study to include other computational fields. Such an expansion would reduce potential bias due to the inclusion of computational biology journals and verify whether the same patterns of policy adoption persist in other areas.</p>
+<a id="article1.body1.sec4.sec1.p4" name="article1.body1.sec4.sec1.p4"></a><p>An open question in this study is why several journals reduced or eliminated their data and code sharing requirements from 2011 to 2012. It would be instructive to learn on a case by case basis why this occurred. This would provide information about which policies seem to work best for which fields.</p>
+<a id="article1.body1.sec4.sec1.p5" name="article1.body1.sec4.sec1.p5"></a><p>This study models open data and code policy adoption, using impact factor and publishing house as explanatory variables, but research could be carried out using a more extensive set of confounding variables such as field characteristics, journal size, journal age, frequency of publication, proportion of computational results published in the journal, proportion of computational results publishing in the field. In this research we also introduce a novel dataset on journal policy.</p>
+<a id="article1.body1.sec4.sec1.p6" name="article1.body1.sec4.sec1.p6"></a><p>This study does not take into account the enforcement and effectiveness of data and code sharing policies enacted by journals. It documents the state of such policies on journal websites in 2011 and 2012, but does not extend the analysis to effectiveness. An important question is whether the existence of such policies as described in this study materially affects the ability to access the data and code that underlies published computational results.</p>
+<a id="article1.body1.sec4.sec1.p7" name="article1.body1.sec4.sec1.p7"></a><p>This study shows that ten years after the publication of the National Academies report “Sharing Publication-Related Data and Materials: Responsibilities of Authorship in the Life Sciences” <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone.0067111-Committee1">[16]</a>, progress is being made regarding the sharing of data and code that underlie research publications. In particular, we focus on the rapid growth in the number of journal policies on research data and code, with a one year increase to 2012 of 16% in journals with data policies and a 30% increase in those with code policies. We are, however, still far from the vision of the NAS report, especially Recommendation 6, which calls for scientific journals to “state their policies for distribution of publication-related materials, data, and other information,” which should include “requirements for depositing materials in an appropriate repository”… and for “the sharing of software and algorithms integral to the findings being reported.” In 2012, 38% of the journals in this study had a data policy and 22% had a code policy. A wider recognition of the importance of policies that support reproducible computational research is imperative.</p>
+
+</div>
+
+<div id="section5" class="section"><a id="s5" name="s5" toc="s5" title="Supporting Information"></a><h3>Supporting Information</h3><div class="figshare_widget figshare_file_widget" doi="10.1371/journal.pone.0067111" id="fig_article_728264">
+<div class="fw-wrap yellow">
+    <div class="fw-title-bar">
+        Appendix_S1.docx
+    </div>
+    <div class="fw-content">
+        <div class="fw-embed">
+        
+
+
+<!--[if IE]>
+    <iframe class='viewer_container doc' frameBorder="0"  src="http://wl.figshare.com/viewers/doc/1097056?pop=0&article_id=728264&hide_bar=1"
+    width="100%" style=" height: 100%;"></iframe>
+    <div class="clearme"></div>
+    <![endif]-->
+    <!--[if !IE]><!-->
+    <object type="text/html" class="viewer_container doc" frameborder="0" data="http://wl.figshare.com/viewers/doc/1097056?pop=0&article_id=728264&hide_bar=1" style="min-height: 280px;"></object>
+    <!--<![endif]-->
+
+
+
+        </div>
+        <div class="fw-fileset-overlay">
+            <div class="fw-curtain">
+            </div>
+            <div class="fw-fileset-wrap" style="height: 123px;">
+                <div class="fw-fileset-shadow"></div>
+                <ul class="fw-fileset">
+                    
+                    <li class="fw-file">
+                        <span class="fw-file-icon"></span>
+                        <span class="fw-filename">Appendix_S1.docx</span>
+                        <ul class="fw-fileset-options">
+                            
+                            <li><a href="javascript: void(0)" class="prev_lnk" id="p_1097056_728264">view</a></li>
+                            <li class="fw-fileset-space">|</li>
+                            
+                            <li><a href="http://files.figshare.com/1097056/Appendix_S1.docx">download</a></li>
+                        </ul>
+                    </li>
+                    
+                    <li class="fw-file">
+                        <span class="fw-file-icon"></span>
+                        <span class="fw-filename">Appendix_S2.docx</span>
+                        <ul class="fw-fileset-options">
+                            
+                            <li><a href="javascript: void(0)" class="prev_lnk" id="p_1097058_728264">view</a></li>
+                            <li class="fw-fileset-space">|</li>
+                            
+                            <li><a href="http://files.figshare.com/1097058/Appendix_S2.docx">download</a></li>
+                        </ul>
+                    </li>
+                    
+                    <li class="fw-file">
+                        <span class="fw-file-icon"></span>
+                        <span class="fw-filename">Dataset_S1.xlsx</span>
+                        <ul class="fw-fileset-options">
+                            
+                            <li><a href="javascript: void(0)" class="prev_lnk" id="p_1097060_728264">view</a></li>
+                            <li class="fw-fileset-space">|</li>
+                            
+                            <li><a href="http://files.figshare.com/1097060/Dataset_S1.xlsx">download</a></li>
+                        </ul>
+                    </li>
+                    
+                </ul>
+                <div class="fw-fileset-arrow"></div>
+            </div>
+        </div>
+    </div>
+    <div class="fw-cta-bar">
+        <div class="fw-nav-wrap">
+        
+        <ul class="fw-cta-nav">
+            <li class="fw-count">
+                <span class="fwc-current">1</span>
+                <span>/</span>
+                <span class="fwc-max">3</span>
+            </li>
+            <li><a href="javascript:void(0)" class="fw-prev disabled" title="previous file"></a></li>
+            <li><a href="javascript:void(0)" class="fw-next" title="next file"></a></li>
+            <li><a href="javascript:void(0)" class="fw-list" id="par_728264" title="list files"></a></li>
+        </ul>
+        
+        </div>
+        <a class="fw-cta-logo" href="http://figshare.com/articles/_Toward_Reproducible_Computational_Research_An_Empirical_Analysis_of_Data_and_Code_Policy_Adoption_by_Journals_/728264" target="_blank" title="go to article on figshare">
+            <div class="fw-figshare-logo"></div>
+            <span>fig<strong>share</strong></span>
+            <div class="fw-external"></div>
+        </a>
+        <div class="fw-cta-options">
+            <input type="hidden" class="curent_file_id" value="1097056">
+            <input type="hidden" class="curent_article_id" value="728264">
+            <input type="hidden" class="curent_user_id" value="276459">
+            <input type="hidden" class="curent_skin" value="yellow">
+            <a href="javascript:void(0)" class="fw-cta-enlarge" title="enlarge view"></a>
+            <div href="javascript:void(0)" class="fw-cta-download">
+                
+                <a class="fw-download-trigger" href="javascript:void(0)">download</a>
+                <ul class="fw-download-options">
+                    <li class="fw-download-arrow"></li>
+                    <li class="fw-download-this"><a href="http://files.figshare.com/1097056/Appendix_S1.docx">Download this file <span>(169 KB)</span></a></li>
+                    <li class="fw-donload-all"><a href="javascript: void(0)" id="dwa_728264" class="aj_download_all">Download all <span>(376.05 KB)</span></a></li>
+                </ul>
+                
+            </div>
+        </div>
+    </div>
+    <div class="fw-caption">
+        <div class="fw-cap-content"><div><p><b>Principles and Recommendations from the National Academies 2003 book “Sharing Publication-Related Data and Materials: Responsibilities of Authorship in the Life Sciences.”</b></p>
+</div></div>
+    </div>
+</div></div><a name="pone.0067111.s001" id="pone.0067111.s001"></a><p class="siTitle"><strong><a href="http://www.plosone.org/article/fetchSingleRepresentation.action?uri=info:doi/10.1371/journal.pone.0067111.s001">Appendix S1. </a></strong></p><a id="article1.body1.sec5.supplementary-material1.caption1.p1" name="article1.body1.sec5.supplementary-material1.caption1.p1"></a><p class="preSiDOI"><strong>Principles and Recommendations from the National Academies 2003 book “Sharing Publication-Related Data and Materials: Responsibilities of Authorship in the Life Sciences.”</strong></p>
+<p class="siDoi">doi:10.1371/journal.pone.0067111.s001</p><a id="article1.body1.sec5.supplementary-material1.caption1.p2" name="article1.body1.sec5.supplementary-material1.caption1.p2"></a><p class="postSiDOI">(DOCX)</p>
+<a name="pone.0067111.s002" id="pone.0067111.s002"></a><p class="siTitle"><strong><a href="http://www.plosone.org/article/fetchSingleRepresentation.action?uri=info:doi/10.1371/journal.pone.0067111.s002">Appendix S2. </a></strong></p><a id="article1.body1.sec5.supplementary-material2.caption1.p1" name="article1.body1.sec5.supplementary-material2.caption1.p1"></a><p class="preSiDOI"><strong>Journal Titles.</strong></p>
+<p class="siDoi">doi:10.1371/journal.pone.0067111.s002</p><a id="article1.body1.sec5.supplementary-material2.caption1.p2" name="article1.body1.sec5.supplementary-material2.caption1.p2"></a><p class="postSiDOI">(DOCX)</p>
+<a name="pone.0067111.s003" id="pone.0067111.s003"></a><p class="siTitle"><strong><a href="http://www.plosone.org/article/fetchSingleRepresentation.action?uri=info:doi/10.1371/journal.pone.0067111.s003">Dataset S1. </a></strong></p><a id="article1.body1.sec5.supplementary-material3.caption1.p1" name="article1.body1.sec5.supplementary-material3.caption1.p1"></a><p class="preSiDOI"><strong>Journal Policies Dataset.</strong></p>
+<p class="siDoi">doi:10.1371/journal.pone.0067111.s003</p><a id="article1.body1.sec5.supplementary-material3.caption1.p2" name="article1.body1.sec5.supplementary-material3.caption1.p2"></a><p class="postSiDOI">(XLSX)</p>
+</div>
+
+
+
+<div class="contributions"><a id="authcontrib" name="authcontrib" toc="authcontrib" title="Author Contributions"></a><h3>Author Contributions</h3><p>Conceived and designed the experiments: VS. Performed the experiments: VS PG ZM. Analyzed the data: VS PG ZM. Wrote the paper: VS.</p></div><div><a id="references" name="references" toc="references" title="References"></a><h3>References</h3><ol class="references"><li><span class="label">1.
+              </span><a name="pone.0067111-Donoho1" id="pone.0067111-Donoho1"></a>Donoho D, Maleki A, Ur Rahman I, Shahram M, Stodden V (2009) Reproducible research in computational harmonic analysis. Computing in Science and Engineering 11: 1 8–18. <a href="http://www.computer.org/csdl/mags/cs/2009/01/mcs2009010008-abs.html">http://www.computer.org/csdl/mags/cs/200​9/01/mcs2009010008-abs.html</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">2.
+              </span><a name="pone.0067111-King1" id="pone.0067111-King1"></a>King G (1995) Replication, replication. Political Science and Politics 28: 443–499 <a href="http://gking.harvard.edu/files/abs/replication-abs.shtml">http://gking.harvard.edu/files/abs/repli​cation-abs.shtml</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">3.
+              </span><a name="pone.0067111-Mesirov1" id="pone.0067111-Mesirov1"></a>Mesirov J (2010) Accessible reproducible research. Science 327: 5964 <a href="http://www.sciencemag.org/content/327/5964/415">http://www.sciencemag.org/content/327/59​64/415</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">4.
+              </span><a name="pone.0067111-AlsheikhAli1" id="pone.0067111-AlsheikhAli1"></a>Alsheikh-Ali A, Qureshi W, Al-Mallah M, Ioannidis JPA (2011) Public availability of published research data in high-impact journals. PLoS ONE 6: 9 <a href="http://www.plosone.org/article/info:doi%2F10.1371%2Fjournal.pone.0024357">http://www.plosone.org/article/info:doi%​2F10.1371%2Fjournal.pone.0024357</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">5.
+              </span><a name="pone.0067111-Wicherts1" id="pone.0067111-Wicherts1"></a>Wicherts J, Bakker M, Mlenar D (2011) Willingness to share research data is related to the strength of the evidence and the quality of reporting of statistical results. PLoS ONE 6: 11 <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0026828">http://www.plosone.org/article/info%3Ado​i%2F10.1371%2Fjournal.pone.0026828</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">6.
+              </span><a name="pone.0067111-Nosek1" id="pone.0067111-Nosek1"></a>Nosek B, Bar-Anan Y (2012) Scientific utopia: I. Opening scientific communication. Psychological Inquiry: An International Journal for the Advancement of Psychological Theory, Sept. <a href="http://dx.doi.org/10.1080/1047840X.2012.692215">http://dx.doi.org/10.1080/1047840X.2012.​692215</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">7.
+              </span><a name="pone.0067111-Nosek2" id="pone.0067111-Nosek2"></a>Nosek B, Spies J, Motyl M (2012) Scientific utopia: II. Restructuring incentives and practices to promote truth over publishability. Perspectives on Psychological Science 7: 6 <a href="http://pps.sagepub.com/content/7/6/615.abstract">http://pps.sagepub.com/content/7/6/615.a​bstract</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">8.
+              </span><a name="pone.0067111-Vandewalle1" id="pone.0067111-Vandewalle1"></a>Vandewalle P (2012) Code sharing is associated with research impact in image processing. Computing in Science and Engineering 14: 4 42–7. <a href="http://www.computer.org/csdl/mags/cs/2012/04/mcs2012040042-abs.html">http://www.computer.org/csdl/mags/cs/201​2/04/mcs2012040042-abs.html</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">9.
+              </span><a name="pone.0067111-Reproducible1" id="pone.0067111-Reproducible1"></a>Reproducible Research. Special Issue, Computing in Science and Engineering 14: 4 11–56. <a href="http://ieeexplore.ieee.org/xpl/tocresult.jsp?reload=true&isnumber=6241356&punumber=5992">http://ieeexplore.ieee.org/xpl/tocresult​.jsp?reload=true&amp;isnumber=6241356&amp;punumb​er=5992</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">10.
+              </span><a name="pone.0067111-Stodden1" id="pone.0067111-Stodden1"></a>Stodden V, Mitchell I, LeVeque R (2012) Reproducible research for scientific computing: Tools and strategies for changing the culture. Computing in Science and Engineering 14: 4 13–17. <a href="http://www.computer.org/csdl/mags/cs/2012/04/mcs2012040013-abs.html">http://www.computer.org/csdl/mags/cs/201​2/04/mcs2012040013-abs.html</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">11.
+              </span><a name="pone.0067111-YaleRoundtable1" id="pone.0067111-YaleRoundtable1"></a>Yale Roundtable Participants (2010) Reproducible research: Addressing the need for data and code sharing in computational science. Computing in Science and Engineering 12: 5 <a href="http://dx.doi.org/10.1109/MCSE.2010.113">http://dx.doi.org/10.1109/MCSE.2010.113</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">12.
+              </span><a name="pone.0067111-Nature1" id="pone.0067111-Nature1"></a>Nature editorial (2011) Devil in the details. Nature 470: 305–306 <a href="http://www.nature.com/nature/journal/v470/n7334/full/470305b.html">http://www.nature.com/nature/journal/v47​0/n7334/full/470305b.html</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">13.
+              </span><a name="pone.0067111-Hanson1" id="pone.0067111-Hanson1"></a>Hanson B, Sugden A, Alberts B (2011) Making data maximally available. Science 331: 6018. <a href="http://www.sciencemag.org/content/331/6018/649.short">http://www.sciencemag.org/content/331/60​18/649.short</a> (last accessed May 8, 2013). For the full <em>Science</em> policy see <a href="http://www.sciencemag.org/site/feature/contribinfo/prep/gen_info.xhtml#dataavail">http://www.sciencemag.org/site/feature/c​ontribinfo/prep/gen_info.xhtml#dataavail</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">14.
+              </span><a name="pone.0067111-Merali1" id="pone.0067111-Merali1"></a>Merali Z (2010) Computational science:… error. Nature 467: 775–777 <a href="http://www.nature.com/news/2010/101013/full/467775a.html">http://www.nature.com/news/2010/101013/f​ull/467775a.html</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">15.
+              </span><a name="pone.0067111-Barnes1" id="pone.0067111-Barnes1"></a>Barnes N (2010) Publish your computer code: it is good enough. Nature 467: 753 <a href="http://www.nature.com/news/2010/101013/full/467753a.html">http://www.nature.com/news/2010/101013/f​ull/467753a.html</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">16.
+              </span><a name="pone.0067111-Committee1" id="pone.0067111-Committee1"></a>Committee on Responsibilities of Authorship in the Biological Sciences, National Research Council (2003) Sharing publication-related data and materials: Responsibilities of authorship in the life sciences. National Academies Press, Washington D.C., U S A. <a href="http://www.nap.edu/openbook.php?record_id=10613&page=27">http://www.nap.edu/openbook.php?record_i​d=10613&amp;page=27</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">17.
+              </span><a name="pone.0067111-TorontoInternationalDataReleaseWorkshop1" id="pone.0067111-TorontoInternationalDataReleaseWorkshop1"></a>Toronto International Data Release Workshop Authors (2009) Prepublication data sharing. Nature 461: 10 168–70. <a href="http://www.nature.com/nature/journal/v461/n7261/full/461168a.html">http://www.nature.com/nature/journal/v46​1/n7261/full/461168a.html</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">18.
+              </span><a name="pone.0067111-Brazma1" id="pone.0067111-Brazma1"></a>Brazma A, Hingamp P, Quackenbush J, Sherlock G, Spellman P, et al. (2001) Minimum information about a microarray experiment (MIAME)–toward standards for microarray data. Nature Genetics 29: 365–371. <ul class="find" data-citedarticleid="8066727"><li><a href="http://www.crossref.org/guestquery/?auth2=Brazma&atitle2=Minimum+information+about+a+microarray+experiment+%28MIAME%29%3Ftoward+standards+for+microarray+data&auth=Brazma&atitle=Minimum+information+about+a+microarray+experiment+%28MIAME%29%3Ftoward+standards+for+microarray+data" onclick="window.open(this.href, &#39;ambraFindArticle&#39;, &#39;&#39;); return false;" title="Go to article in CrossRef">
+                            CrossRef
+                          </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Search&doptcmdl=Citation&defaultField=Title+Word&term=Brazma%5Bauthor%5D+AND+Minimum+information+about+a+microarray+experiment+%28MIAME%29%E2%80%93toward+standards+for+microarray+data" onclick="window.open(this.href, &#39;ambraFindArticle&#39;, &#39;&#39;); return false;" title="Go to article in PubMed">
+                            PubMed/NCBI
+                          </a></li><li><a href="http://scholar.google.com/scholar?hl=en&safe=off&q=author%3ABrazma+%22Minimum+information+about+a+microarray+experiment+%28MIAME%29%E2%80%93toward+standards+for+microarray+data%22" onclick="window.open(this.href, &#39;ambraFindArticle&#39;, &#39;&#39;); return false;" title="Go to article in Google Scholar">
+                            Google Scholar
+                          </a></li></ul></li><li><span class="label">19.
+              </span><a name="pone.0067111-Ferry1" id="pone.0067111-Ferry1"></a>Ferry G, Sulston J (2002) The common thread: A story of science, politics, ethics and the human genome. Joseph Henry Press, Washington, D. C., U S A. <a href="http://www.nap.edu/catalog.php?record_id=10373">http://www.nap.edu/catalog.php?record_id​=10373</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">20.
+              </span><a name="pone.0067111-The1" id="pone.0067111-The1"></a>The Economist. (2011) An array of errors. The Economist, Sept 10. <a href="http://www.economist.com/node/21528593">http://www.economist.com/node/21528593</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">21.
+              </span><a name="pone.0067111-Institute1" id="pone.0067111-Institute1"></a>Institute of Medicine Committee Report (2012) Evolution of translational omics: Lessons learned and the path forward. National Academies Press, Washington, D.C., U S A. <a href="http://iom.edu/Reports/2012/Evolution-of-Translational-Omics.aspx">http://iom.edu/Reports/2012/Evolution-of​-Translational-Omics.aspx</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">22.
+              </span><a name="pone.0067111-Editorial1" id="pone.0067111-Editorial1"></a>Editorial (1998) The gatekeepers. Nature Structural Biology 5: 3 164. <a href="http://www.nature.com/nsmb/wilma/v5n3.892130820.html">http://www.nature.com/nsmb/wilma/v5n3.89​2130820.html</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li><li><span class="label">23.
+              </span><a name="pone.0067111-Oak1" id="pone.0067111-Oak1"></a>Oak Ridge National Laboratory, Policies on release of human genomic sequence data. Human Genome Project Information, Oak Ridge National Laboratory. <a href="http://www.ornl.gov/sci/techresources/Human_Genome/research/bermuda.shtml">http://www.ornl.gov/sci/techresources/Hu​man_Genome/research/bermuda.shtml</a> (last accessed May 8, 2013). <ul class="find-nolinks"></ul></li></ol></div>
+
+  </div>
+
+<!--end corrections-->
+
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.XML" value="76950">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.PDF" value="263667">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t001.TIF" value="47888">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t001.PNG_I" value="7969">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t001.PNG_S" value="2246">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t001.PNG_M" value="16749">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t001.PNG_L" value="15627">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t002.TIF" value="218278">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t002.PNG_I" value="8093">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t002.PNG_S" value="1943">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t002.PNG_M" value="18955">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t002.PNG_L" value="43064">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t003.TIF" value="60774">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t003.PNG_I" value="6452">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t003.PNG_S" value="2060">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t003.PNG_M" value="12669">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t003.PNG_L" value="14120">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t004.TIF" value="214132">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t004.PNG_I" value="9772">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t004.PNG_S" value="2103">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t004.PNG_M" value="23274">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t004.PNG_L" value="48540">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t005.TIF" value="139516">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t005.PNG_I" value="5972">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t005.PNG_S" value="1751">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t005.PNG_M" value="13556">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t005.PNG_L" value="28273">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t006.TIF" value="330756">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t006.PNG_I" value="12410">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t006.PNG_S" value="2553">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t006.PNG_M" value="30919">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t006.PNG_L" value="67670">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t007.TIF" value="76984">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t007.PNG_I" value="12017">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t007.PNG_S" value="2724">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t007.PNG_M" value="26200">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t007.PNG_L" value="23899">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.g001.TIF" value="195302">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.g001.PNG_I" value="15020">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.g001.PNG_S" value="8394">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.g001.PNG_M" value="24608">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.g001.PNG_L" value="40137">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.g002.TIF" value="205310">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.g002.PNG_I" value="15461">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.g002.PNG_S" value="8192">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.g002.PNG_M" value="25161">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.g002.PNG_L" value="42056">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.g003.TIF" value="212010">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.g003.PNG_I" value="16250">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.g003.PNG_S" value="8567">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.g003.PNG_M" value="26626">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.g003.PNG_L" value="42867">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t008.TIF" value="91776">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t008.PNG_I" value="17285">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t008.PNG_S" value="3107">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t008.PNG_M" value="38550">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t008.PNG_L" value="31849">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t009.TIF" value="118282">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t009.PNG_I" value="4914">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t009.PNG_S" value="1776">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t009.PNG_M" value="10312">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t009.PNG_L" value="22824">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t010.TIF" value="45750">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t010.PNG_I" value="7647">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t010.PNG_S" value="2125">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t010.PNG_M" value="15892">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.t010.PNG_L" value="14695">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.s001.DOCX" value="172594">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.s002.DOCX" value="114742">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0067111.s003.XLSX" value="106983">
+
+</div><div class="sidebar">
+
+  <div class="article-actions cf">
+    <div class="btn-reveal">
+      <span class="btn">Download</span>
+      <div class="content">
+        <ul class="bullet">
+          <li><a href="http://www.plosone.org/article/fetchObject.action;jsessionid=9645890B0CD0FB890318039D3B5A58A5?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0067111&representation=PDF" title="Download article PDF" target="_blank">PDF</a></li>
+          <li><a href="http://www.plosone.org/article/citationList.action;jsessionid=9645890B0CD0FB890318039D3B5A58A5?articleURI=info%3Adoi%2F10.1371%2Fjournal.pone.0067111" title="Download citations">Citation</a></li>
+          <li><a href="http://www.plosone.org/article/fetchObjectAttachment.action;jsessionid=9645890B0CD0FB890318039D3B5A58A5?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0067111&representation=XML" title="Download article XML">XML</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="btn-reveal flt-l">
+      <span class="btn">Print</span>
+      <div class="content">
+        <ul class="bullet">
+          <li id="print-article" style="display: list-item;"><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#" onclick="window.print();return false;" title="Print Article">Print article</a></li>
+          <li>
+            <a href="https://www.odysseypress.com/onlinehost/reprint_order.php?type=A&page=0&journal=7&doi=10.1371/journal.pone.0067111&volume=&issue=&title=Toward%20Reproducible%20Computational%20Research:%20An%20Empirical%20Analysis%20of%20Data%20and%20Code%20Policy%20Adoption%20by%20Journals&author_name=Victoria%20Stodden%2C%20Peixuan%20Guo%2C%20Zhaokun%20Ma&start_page=1&end_page=8" title="Odyssey Press">EzReprint</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="btn-reveal flt-r">
+      <span class="btn">Share</span>
+      <div class="content">
+        <ul class="social">
+          <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0067111" target="_blank" title="Submit to Reddit"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/icon.reddit.16.png" width="16" height="16" alt="Reddit">Reddit</a></li>
+
+          <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0067111" target="_blank" title="Share on Google+"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/icon.gplus.16.png" width="16" height="16" alt="Google+">Google+</a></li>
+
+          <li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.plosone.org%2Farticle%2Finfo%253Adoi%252F10.1371%252Fjournal.pone.0067111" target="_blank" title="Add to StumbleUpon"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/icon.stumble.16.png" width="16" height="16" alt="StumbleUpon">StumbleUpon</a></li>
+
+          <li><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0067111&t=Toward%20Reproducible%20Computational%20Research%3A%20An%20Empirical%20Analysis%20of%20Data%20and%20Code%20Policy%20Adoption%20by%20Journals" target="_blank" title="Share on Facebook"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/icon.fb.16.png" width="16" height="16" alt="Facebook">Facebook</a></li>
+
+          <li><a href="http://www.linkedin.com/shareArticle?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0067111&title=Toward%20Reproducible%20Computational%20Research%3A%20An%20Empirical%20Analysis%20of%20Data%20and%20Code%20Policy%20Adoption%20by%20Journals&summary=Checkout%20this%20article%20I%20found%20at%20PLOS" target="_blank" title="Add to LinkedIn"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/icon.linkedin.16.png" width="16" height="16" alt="Mendeley">LinkedIn</a></li>
+
+          <li><a href="http://www.citeulike.org/posturl?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0067111&title=Toward%20Reproducible%20Computational%20Research%3A%20An%20Empirical%20Analysis%20of%20Data%20and%20Code%20Policy%20Adoption%20by%20Journals" target="_blank" title="Add to CiteULike"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/icon.cul.16.png" width="16" height="16" alt="CiteULike">CiteULike</a></li>
+
+          <li><a href="http://www.mendeley.com/import/?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0067111" target="_blank" title="Add to Mendeley"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/icon.mendeley.16.png" width="16" height="16" alt="Mendeley">Mendeley</a></li>
+
+          <script type="text/javascript">
+            // replace tweet with one that's pre-shortened to 140 chars
+            function truncateTweetText() {
+              var twtTitle = 'Toward Reproducible Computational Research: An Empirical Analysis of Data and Code Policy Adoption by Journals';
+              var twtUrl = 'http://dx.plos.org/10.1371/journal.pone.0067111';
+              // all URLs posted to twitter get auto-shortened to 20 chars.
+              var maxLength = 140 - (20 + 1);
+              // truncate the title to include space for twtTag and ellipsis (here, 10 = tag length + space + ellipsis)
+              if (twtTitle.length > maxLength) { twtTitle = twtTitle.substr(0, (maxLength - 10)) + '...'; }
+              // set the href to use the shortened tweet
+              $('#twitter-share-link').prop('href', 'http://twitter.com/intent/tweet?text=' + encodeURIComponent('#PLOSONE: ' + twtTitle + ' ' + twtUrl));
+            }
+          </script>
+          <li><a href="http://twitter.com/intent/tweet?text=#PLOSONE%3A%20Toward%20Reproducible%20Computational%20Research%3A%20An%20Empirical%20Analysis%20of%20Data%20and%20Code%20Policy%20Adoption%20by%20Journals http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0067111" onclick="truncateTweetText();" target="_blank" title="Share on Twitter" id="twitter-share-link"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/icon.twtr.16.png" width="16" height="16" alt="Twitter">Twitter</a></li>
+
+          <li><a href="http://www.plosone.org/article/email/info%3Adoi%2F10.1371%2Fjournal.pone.0067111;jsessionid=9645890B0CD0FB890318039D3B5A58A5" title="Email this article"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/icon.email.16.png" width="16" height="16" alt="Email">Email</a></li>
+        </ul>
+      </div>
+    </div><!--end btn-reveal flt-r-->
+  </div><!-- end article-actions-->
+
+
+
+
+  <div class="ad">
+    <div class="title">Advertisement</div>
+
+
+
+
+
+
+  <iframe id="a0852f54" name="a0852f54" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/afr(1).html" frameborder="0" scrolling="no" width="160" height="600">
+    &lt;a href='http://ads.plos.org/www/delivery/ck.php?n=a0852f54&amp;amp;cb=8066'
+      target='_top'&gt;&lt;img src='http://ads.plos.org/www/delivery/avw.php?zoneid=381&amp;amp;cb=8507&amp;amp;n=a0852f54'
+      border='0' alt=''/&gt;
+    &lt;/a&gt;
+  </iframe>
+
+
+
+  </div>
+
+</div><!-- sidebar -->
+    </div>
+  </div>
+</div>
+<script src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/p_widget.js" type="text/javascript"></script><script src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/plos_widget.js" type="text/javascript"></script><script src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/jwplayer.js" type="text/javascript"></script><div id="pageftr">
+  <div class="ftr-cols cf">
+    <div class="col col-1">
+      <img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/logo-plos-footer.png" alt="PLOS Logo" class="logo">
+      <p><a href="http://www.plosone.org/static/releaseNotes;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Ambra 2.7.6</a> Managed Colocation provided <br>by <a href="http://www.isc.org/">Internet Systems Consortium</a>.</p><p>
+      </p><div class="nav nav-aux">
+        <a href="http://www.plosone.org/static/privacy;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Privacy Policy</a> |
+        <a href="http://www.plosone.org/static/terms;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Terms of Use</a> |
+        <a href="http://www.plos.org/advertise/">Advertise</a> |
+        <a href="http://www.plos.org/about/media-inquiries/">Media Inquiries</a>
+      </div>
+    </div>
+    <div class="col col-2">
+      <p><a href="http://www.plos.org/publications/journals/">Publications</a></p>
+      <div class="nav">
+        <ul>
+          <li><a href="http://www.plosbiology.org/">PLOS Biology</a></li>
+          <li><a href="http://www.plosmedicine.org/">PLOS Medicine</a></li>
+          <li><a href="http://www.ploscompbiol.org/">PLOS Computational Biology</a></li>
+          <li><a href="http://currents.plos.org/">PLOS Currents</a></li>
+          <li><a href="http://www.plosgenetics.org/">PLOS Genetics</a></li>
+          <li><a href="http://www.plospathogens.org/">PLOS Pathogens</a></li>
+          <li><a href="http://www.plosone.org/">PLOS ONE</a></li>
+          <li><a href="http://www.plosntds.org/">PLOS Neglected Tropical Diseases</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="col col-3">
+      <div class="nav">
+        <p><a href="http://www.plos.org/">plos.org</a></p>
+        <p><a href="http://blogs.plos.org/">Blogs</a></p>
+        <p><a href="http://www.ploscollections.org/">Collections</a></p>
+        <p><a href="http://www.plosone.org/feedback/new;jsessionid=9645890B0CD0FB890318039D3B5A58A5">Send us feedback</a></p>
+      </div>
+    </div>
+  </div>
+</div><!-- pageftr -->
+
+</div><!-- end page-wrap, this div is in header.ftl -->
+<script type="text/javascript" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/jquery-1.8.1-min.js"></script>
+<script type="text/javascript" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/ga-min.js"></script>
+<script type="text/javascript" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/jquery.hoverIntent-min.js"></script>
+<script type="text/javascript" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/jquery.placeholder-min.js"></script>
+<script type="text/javascript" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/jquery.jsonp-2.4.0-min.js"></script>
+<script type="text/javascript" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/jquery-ui-1.9.0-min.js"></script>
+<script type="text/javascript" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/jquery.tooltip-min.js"></script>
+<script type="text/javascript" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/jquery.uniform-min.js"></script>
+<script type="text/javascript" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/jquery.pjax-min.js"></script>
+<script type="text/javascript" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/jquery.touchswipe-min.js"></script>
+<script type="text/javascript" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/jquery.base64-min.js"></script>
+<script type="text/javascript" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/global-min.js"></script>
+<script type="text/javascript" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/alm-min.js"></script>
+<script type="text/javascript">
+  var _sf_async_config={uid:16579,domain:"plosone.org"};
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+          (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+              "js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+        loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+
+
+<div id="title-banner" style="top: 0px;"><div class="content"><div class="btn-g"><img src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/logo.plos.95.png" alt="PLOS logo" class="btn-logo"><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#close" class="btn-close">close</a></div>
+
+  <h1 property="dc:title" datatype="" rel="dc:type" href="http://purl.org/dc/dcmitype/Text">
+    Toward Reproducible Computational Research: An Empirical Analysis of Data and Code Policy Adoption by Journals
+  </h1>
+
+  <ul class="authors">
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Victoria Stodden
+              <span class="corresponding">mail</span>, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              <p><span class="email">* E-mail:</span> <a href="mailto:victoria@stodden.net">victoria@stodden.net</a></p>
+
+                <p>Affiliation:
+                  Department of Statistics, Columbia University, New York City, New York, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Peixuan Guo, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  Department of Statistics, Columbia University, New York City, New York, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Zhaokun Ma
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  Department of Industrial Engineering and Operations Research, Columbia University, New York City, New York, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+  </ul>
+
+</div></div>            <a href="javascript: void(0)" id="go_overlay" style="display: none;"></a>            <a href="javascript: void(0)" id="go_share" style="display: none;"></a>            <div id="figshare_enlarge" class="enlarge-view yellow" style="display:none">                <div class="fw-overlay-curtain"></div>                <a class="fw-close-enlarge" title="close overlay" href="javascript:void(0)">                  <span>or press Esc</span>                </a>                <div class="fw-list-wrap black" style="width: 254px;">                <ul class="fw-enlarge-list">                    <li class="active">                        <a class="fw-el-trigger" href="javascript:void(0)">                            <div class="fw-el-thumb">                            </div>                            <div class="fw-el-details">                                <span class="fw-eld-filename">Phospholipuds_p...csv</span>                                <span class="fw-eld-filesize">112kb</span>                                <div class="fw-eld-icon"></div>                            </div>                        </a>                    </li>                    <li>                        <a class="fw-el-trigger" href="javascript:void(0)">                            <div class="fw-el-thumb">                            </div>                            <div class="fw-el-details">                                <span class="fw-eld-filename">Phospholipuds_p...csv</span>                                <span class="fw-eld-filesize">112kb</span>                                <div class="fw-eld-icon"></div>                            </div>                        </a>                    </li>                </ul>                </div>                  <div class="fw-enlarge-preview" style="height: 503px; margin-top: -251.5px; width: 879px; margin-left: -312.5px;">                    <div class="fw-preview-wrap" style="width: 100%;">                    <a href="javascript:void(0)" title="previous file" class="fw-ep-left">                      <span></span>                    </a>                    <a href="javascript:void(0)" title="next file" class="fw-ep-right">                      <span></span>                    </a>                      <div class="fw-ep-embed-wrap">                        <div class="fw-ep-embed" style="height: 367px;">                        </div>                      </div>                      <div class="fw-ep-details">                      </div>                      <div class="fw-ep-caption-wrap">                      <div class="fw-ep-caption">                          <a href="javascript:void(0)" class="fp-cap-minimize"><span></span>Hide description</a>                          <div class="fw-ep-cap-shadow"></div>                          <div class="fw-epc-content-wrap">                            <div class="fw-epc-content">                                  <div class="fw-more-description">                                    <a class="fw-epc-more" href="javascript:void(0)"><span></span>Show more</a>                                  </div>                                <div class="fw-epc-desc"></div>                            </div>                          </div>                      </div>                      </div>                  </div>                </div>            </div>        <script language="javascript" type="text/javascript" src="./PLOS ONE  Toward Reproducible Computational Research  An Empirical Analysis of Data and Code Policy Adoption by Journals_files/chartbeat.js"></script></body></html>

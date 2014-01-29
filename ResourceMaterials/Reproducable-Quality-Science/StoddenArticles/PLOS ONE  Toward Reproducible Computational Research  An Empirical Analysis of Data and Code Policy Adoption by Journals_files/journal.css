@@ -1,0 +1,215 @@
+/*
+ * $HeadURL: http://ambraproject.org/svn/plos/templates/head/journals/PLoSONE/webapp/css/journal.css $
+ * $Id: journal.css 14886 2013-05-24 05:22:38Z mbaehr $
+ * Copyright (c) 2006-2012 by Public Library of Science http://plos.org http://ambraproject.org
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+/*
+
+Journal CSS Override Rules
+--------------------------
+
+The CSS rules in this file override certain color properties of key elements 
+to style a page in a specific color scheme. This color scheme is intended 
+for the following journals:
+
+ * ONE
+
+Colors:
+
+ * primary/background color : #F8AF2D - yellow (tangerine)
+ * text/foreground color    : #000000 - black
+
+NOTE: The colors are originally sourced from the PLOS style guide, but have 
+been tweaked by DP for web use.
+
+*/
+
+#pagehdr-wrap,
+#responses .response.original .info,
+#fig-viewer-thmbs .active {
+  border-color: #F8AF2D;
+}
+
+#fig-viewer .lnks .download li .icon a {
+  color: #333;
+}
+
+/* accenting */
+#pagehdr-wrap {
+  border-top: 6px solid #F8AF2D;
+  background: #efefef;
+  min-width: 960px;
+}
+
+#user .btn-style a {
+  background: #F8AF2D;
+  border-radius: 0 0 4px 4px;
+  color: #FFFFFF
+}
+
+.article-meta {
+  position: relative;
+}
+
+/* background color change for primary buttons only */
+.btn.primary,
+  /* pagination styles */
+.pagination strong,
+  /* journal archive */
+.journal_issues ul#journal_years li.selected,
+.journal_issues ul#journal_years li a:hover,
+.journal_issues ul#journal_years li.btn.primary:hover,
+  /* figure icons */
+.figure-inline-download ul li div.icon,
+#fig-viewer .lnks .icon,
+  /*figure viewer bottom nav */
+#fig-viewer .btn.active,
+  /* related content lists */
+#related_collections div ul li a:hover,
+  /* advanced search primary btn */
+form.advSearch input[type="button"].primary,
+form.advSearch input[type="submit"].primary,
+  /* tabs */
+.tab-nav .active a,
+.tab-nav .active a:hover,
+#related_collections div ul li a:hover,
+#uniform-sortPicklist span,
+#uniform-pageSizePicklist span,
+#uniform-pageSizePicklistFig span,
+#nav-article li span.active,
+#nav-article li a.active,
+#title-banner .btn-g a.btn-close,
+.reply .close_confirm,
+#fig-viewer .close,
+  /* Advanded Search */
+#search-facets .menu .item.active:hover,
+#search-facets .menu .active,
+/*filter-by button*/
+#searchStripForm .toggle.btn,
+/* active search results buttons */
+#fig-search-block span.figs,
+#search-results-block span.list {
+  background-color: #F8AF2D;
+  color: #333;
+}
+
+/* search results button cursor when active */
+/* active search results buttons */
+#fig-search-block span.figs,
+#search-results-block span.list {
+  cursor: text;
+}
+
+/*filter-by hover colors*/
+#searchStripForm .toggle.btn:hover{
+  background-color: #3C63AF;
+  color: #FFF;
+}
+
+#user .btn-style a
+{
+  color: #3C63AF;
+}
+
+/* drop-down menu alignment for home and search pages */
+/* nav bar article drop down menu */
+#nav-main.txt-lg #mn-03 {
+  width: 177px;
+}
+
+#nav-main.txt-lg #mn-03 .submenu {
+  position: relative;
+  float: right;
+  border-radius: 4px 0px 4px 4px;
+}
+
+/* headline div min spacing */
+/* also, see ticket FEND-585 for something that might make the below obsolete */
+#headlines {
+  min-height: 482px
+}
+
+.twtr-ft span a {
+  background: #F8AF2D;
+  color: #000 !important;
+}
+
+#toc-block .cover h2 a:hover {
+  color: #F8AF2D;
+}
+
+/* down arrows on active article tab : these are white on non plos one pages */
+#nav-article li span.active,
+#nav-article li a.active,
+#nav-article li span.active:hover {
+  background: #F8AF2D url(../images/icon.nav.active.png) no-repeat 10px 62px;
+}
+
+#search-facets .menu .active {
+  background-position: 50% 0;
+}
+
+/* informal corrections */
+.informal {
+  color: #F8AF2D;
+}
+
+.publish a {
+  color: #F8AF2D;
+}
+
+/* advanced search highlighting changes */
+form.advSearch input[type="button"]:hover {
+  background: #F8AF2D !important;
+  color: #fff !important;
+}
+
+div#save-search-box input[type="button"].primary {
+  background: #F8AF2D;
+  color: #333;
+}
+
+#responses .response .toolbar .btn:hover {
+  background: #F8AF2D;
+  color: #333;
+}
+.figure-inline-download div.icon a, span.icon a {
+  color: #333;
+}
+
+.taxonomy {
+  background: #efefef;
+  padding: 50px;
+}
+
+.tax-two-column-ul {
+  width: 760px;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.tax-two-column-li {
+  float: left;
+  display: inline;
+  width: 50%;
+}
+
+.taxonomy a img {
+  margin-left: 2px;
+}
+
+.taxonomy li a img, .taxonomy h2 a img {
+  visibility: hidden;
+}
+
+.taxonomy li:hover a img, h2:hover a img {
+  visibility: visible;
+}

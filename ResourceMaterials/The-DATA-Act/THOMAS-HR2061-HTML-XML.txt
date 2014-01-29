@@ -1,0 +1,464 @@
+
+113th CONGRESS
+1st Session
+H. R. 2061
+AN ACT
+To expand the Federal Funding Accountability and Transparency Act of 2006 to increase accountability and transparency in Federal spending, and for other purposes.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+(a) Short Title.—This Act may be cited as the “Digital Accountability and Transparency Act of 2013”.
+
+(b) Table Of Contents.—The table of contents for this Act is as follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Purposes.
+Sec. 3. Amendments to the Federal Funding Accountability and Transparency Act of 2006.
+Sec. 4. Pilot program to evaluate consolidated recipient reporting.
+Sec. 5. Classified and protected information.
+Sec. 6. American Recovery and Reinvestment Act of 2009 amendments.
+Sec. 7. Disaster Relief Appropriations Act of 2013 amendments.
+Sec. 8. Executive agency accounting and other financial management reports and plans.
+Sec. 9. Limits and transparency for conference and travel spending.
+
+SEC. 2. PURPOSES.
+The purposes of this Act are to—
+
+(1) expand the Federal Funding Accountability and Transparency Act of 2006 by disclosing direct Federal agency expenditures and linking Federal contract, loan, and grant spending information to programs of Federal agencies in order to enable taxpayers and policy makers to track Federal spending more effectively;
+
+(2) provide consistent, reliable, and searchable Government-wide spending data that is displayed accurately for taxpayers and policy makers on USASpending.gov;
+
+(3) analyze Federal spending data to proactively prevent waste, fraud, abuse, and improper payments;
+
+(4) simplify reporting for entities receiving Federal funds by streamlining reporting requirements and reducing compliance costs while improving transparency; and
+
+(5) improve the quality of data submitted to USASpending.gov by holding Federal agencies accountable for the completeness and accuracy of the data submitted.
+
+
+SEC. 3. AMENDMENTS TO THE FEDERAL FUNDING ACCOUNTABILITY AND TRANSPARENCY ACT OF 2006.
+Section 2 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended—
+
+(1) in the section heading, by striking “FULL DISCLOSURE OF ENTITIES RECEIVING FEDERAL FUNDING” and inserting “DISCLOSURE OF FEDERAL FUNDING”;
+
+(2) in subsection (a)—
+
+(A) by redesignating paragraphs (2) and (3) as paragraphs (3) and (7), respectively;
+
+(B) by inserting after paragraph (1) the following new paragraph (2):
+
+
+“(2) FEDERAL AGENCY.—The term ‘Federal agency’ has the meaning given the term ‘Executive agency’ under section 105 of title 5, United States Code.”;
+
+(C) by inserting after paragraph (3), as redesignated by subparagraph (A), the following new paragraphs:
+
+
+“(4) FEDERAL FUNDS.—The term ‘Federal funds’ means any funds that are made available to or expended by a Federal agency.
+
+“(5) OBJECT CLASS.—The term ‘object class’ means the category assigned for purposes of the annual budget of the President submitted under section 1105(a) of title 31, United States Code, to the type of property or services purchased by the Federal Government.
+
+“(6) PROGRAM ACTIVITY.—The term ‘program activity’ has the meaning given that term under section 1115(h) of title 31, United States Code.”; and
+
+(D) in paragraph (7), as redesignated by subparagraph (A)—
+
+(i) in subparagraph (B), by striking “paragraph (2)(A)(i)” and inserting “paragraph (3)(A)(i)”; and
+
+(ii) in subparagraph (C), by striking “paragraph (2)(A)(ii)” and inserting “paragraph (3)(A)(ii)”;
+
+(3) in subsection (b)—
+
+(A) in paragraph (1)—
+
+(i) by striking “the Office of Management and Budget” and inserting “the Secretary of the Treasury” each place it appears;
+
+(ii) in subparagraph (F)—
+
+(I) in clause (i), by redesignating subclauses (I) and (II) as items (aa) and (bb), respectively;
+
+(II) by redesignating clauses (i) and (ii) as subclauses (I) and (II); and
+
+(III) by striking the period at the end of subclause (II) as so redesignated and inserting “; and”;
+
+(iii) by redesignating subparagraphs (A) through (G) as clauses (i) through (vii), respectively, and adjusting the margin accordingly;
+
+(iv) by striking “for each Federal award—” and inserting the following: “for all Federal funds—
+
+
+“(A) for each Federal agency, component of a Federal agency, appropriations account, program activity, and object class (including any subcomponent of an object class), and other accounts or data as appropriate—
+
+“(i) the amount of budget authority available;
+
+“(ii) the amount obligated;
+
+“(iii) the amount of outlays;
+
+“(iv) the amount of any Federal funds reprogrammed or transferred; and
+
+“(v) the amount of expired and unexpired unobligated balances; and
+
+“(B) for each Federal award—”; and
+
+(v) in subparagraph (B)(iii), as so designated by this subparagraph, by inserting “, which shall be assigned a unique identifier,” after “information on the award”;
+
+(B) in paragraph (3)—
+
+(i) by striking “The Director of the Office of Management and Budget” and inserting “The Secretary of the Treasury”; and
+
+(ii) by striking “the Director” and inserting “the Secretary”;
+
+(C) in paragraph (4)—
+
+(i) by striking “the Director of the Office of Management and Budget” and inserting “the Secretary of the Treasury”; and
+
+(ii) by striking “the Director” and inserting “the Secretary”, each place it appears; and
+
+(D) by adding at the end the following:
+
+
+“(5) APPLICATION OF DATA STANDARDS.—The Secretary of the Treasury shall apply the data standards established under subsection (e) to all data collection, data dissemination, and data publication required under this section.
+
+“(6) DATA FEED TO RECOVERY ACCOUNTABILITY AND TRANSPARENCY BOARD.—The Secretary of the Treasury shall provide the data described in paragraph (1) to the Recovery Accountability and Transparency Board so that it can be included in the Recovery Operations Center described in subsection (h).”;
+
+(4) in subsection (c)—
+
+(A) in paragraph (1)—
+
+(i) in the matter preceding subparagraph (A), by striking “and Grants.gov” and inserting “Grants.gov, the Payment Automation Manager and Financial Information Repository and other data or databases from the Department of the Treasury, the MAX Information System of the Office of Management and Budget, and other data from Federal agencies collected and identified by the Office of Management and Budget”;
+
+(ii) in subparagraph (B), by adding “and” at the end; and
+
+(iii) by adding at the end the following:
+
+
+“(C) specify such search shall be confined to Federal funds;”;
+
+(B) in paragraph (2), by inserting “the Payment Automation Manager and Financial Information Repository and other data or databases from the Department of the Treasury, the MAX Information System of the Office of Management and Budget, other data from Federal agencies collected and identified by the Office of Management and Budget,” after “Grants.gov website,”;
+
+(C) in paragraph (4)—
+
+(i) by striking “shall be updated not later” and inserting the following: “shall be updated—
+
+
+“(A) not later”; and
+
+(ii) by adding at the end the following:
+
+
+“(B) not less than once each quarter with information relating to Federal funds;”;
+
+(D) in paragraph (5)—
+
+(i) by inserting “Federal funds and” before “Federal awards” the first place it appears;
+
+(ii) by striking “subsection (a)(2)(A)(i) and those described in subsection (a)(2)(A)(ii)” and inserting “subsection (a)(3)(A)(i) and those described in subsection (a)(3)(A)(ii)”; and
+
+(iii) by striking the period at the end and inserting a semicolon; and
+
+(E) by adding at the end the following:
+
+
+“(6) shall have the ability to aggregate data for the categories described in paragraphs (1) through (5) without double-counting data; and
+
+“(7) shall permit all information published under this section to be downloaded in bulk.”;
+
+(5) by redesignating subsections (e), (f), and (g) as subsections (i), (j), and (k), respectively; and
+
+(6) by inserting after subsection (d) the following new subsections:
+
+
+“(e) Department Of The Treasury Requirements For Data Standards.—
+
+“(1) IN GENERAL.—The Secretary of the Treasury, in consultation with the Director of the Office of Management and Budget, the Administrator of General Services, and the heads of Federal agencies, shall establish Government-wide financial data standards for Federal funds, which shall—
+
+“(A) include common data elements, such as codes, unique award identifiers, and fields, for financial and payment information required to be reported by Federal agencies and entities receiving Federal funds, including identifiers for Federal awards and entities receiving Federal awards;
+
+“(B) to the extent reasonable and practicable, ensure interoperability and incorporate—
+
+“(i) common data elements developed and maintained by an international voluntary consensus standards body, as defined by the Office of Management and Budget, such as the International Organization for Standardization;
+
+“(ii) common data elements developed and maintained by Federal agencies with authority over contracting and financial assistance, such as the Federal Acquisition Regulatory Council; and
+
+“(iii) common data elements developed and maintained by accounting standards organizations; and
+
+“(C) include data reporting standards that—
+
+“(i) incorporate a widely accepted, nonproprietary, searchable, platform-independent computer-readable format;
+
+“(ii) are consistent with and implement applicable accounting principles;
+
+“(iii) are capable of being continually upgraded as necessary;
+
+“(iv) are structured to specifically support the reporting of financial and performance-related data, such as that any data produced, regardless of reporting need or software used for creation or consumption, is consistent and comparable across reporting situations;
+
+“(v) establish, for each data point, a standard method of conveying the reporting period, reporting entity, unit of measure, and other associated attributes; and
+
+“(vi) incorporate nonproprietary standards in effect on the date of enactment of the Digital Accountability and Transparency Act of 2013.
+
+“(2) DEADLINES.—
+
+“(A) GUIDANCE.—The Secretary of the Treasury, in consultation with the Director of the Office of Management and Budget, shall issue guidance on the data standards established under paragraph (1) to Federal agencies not later than 1 year after the date of enactment of the Digital Accountability and Transparency Act of 2013.
+
+“(B) WEBSITE.—Not later than 1 year after the date on which the guidance under clause (i) is issued, the Secretary of the Treasury shall ensure that the website required under this section makes data publicly available in accordance with the data standards established under paragraph (1).
+
+“(C) AGENCIES.—Not later than 180 days after the date on which the guidance under subparagraph (A) is issued, each Federal agency shall collect, report, and maintain data in accordance with the data standards established under paragraph (1).
+
+“(3) CONSULTATION.—The Secretary of the Treasury shall consult with public and private stakeholders in establishing data standards under this subsection.
+
+“(f) Consolidated Recipient Financial Reports.—The Director of the Office of Management and Budget shall—
+
+“(1) review the financial reporting required by Federal agencies for Federal award recipients to consolidate financial reporting and reduce duplicative financial reporting and compliance costs for recipients;
+
+“(2) request input from Federal award recipients to reduce duplicative financial reporting, especially from State and local governments and institutions of higher education;
+
+“(3) not later than 1 year after the date of enactment of the Digital Accountability and Transparency Act of 2013, provide guidance to the heads of Federal agencies regarding how to simplify the reporting requirements for Federal award recipients to consolidate financial reporting, reduce duplicative reporting, and reduce compliance costs, as appropriate; and
+
+“(4) not later than 18 months after the date of enactment of the Digital Accountability and Transparency Act of 2013, submit to Congress a report regarding any legislative action required to consolidate, streamline, or reduce the cost of reporting requirements for Federal award recipients.
+
+“(g) Accountability For Federal Funding.—
+
+“(1) IN GENERAL.—Not later than 1 year after the date of enactment of the Digital Accountability and Transparency Act of 2013, and every 2 years thereafter until the date that is 6 years after such date of enactment, the Inspector General of each Federal agency, in consultation with the Comptroller General of the United States, shall review a sampling of the data submitted under this Act by the agency, and shall submit to Congress and make publicly available a report on the completeness, timeliness, quality, and accuracy of the data sampled and the implementation and use of consistent data standards by the Federal agency.
+
+“(2) COMPTROLLER GENERAL.—
+
+“(A) IN GENERAL.—Not later than 2 years after the date of enactment of the Digital Accountability and Transparency Act of 2013, and every 2 years thereafter until the date that is 6 years after such date of enactment, and after review of the reports submitted under paragraph (1), the Comptroller General of the United States shall submit to Congress and make publicly available a report on the completeness, timeliness, quality, and accuracy of the data submitted under this Act by each Federal agency and the implementation and use of consistent data standards by each Federal agency.
+
+“(B) RANKING.—The Comptroller General of the United States shall make available a ranking of Federal agencies regarding data quality, accuracy, and compliance with this Act.
+
+“(h) Recovery Accountability And Transparency Board.—
+
+“(1) RESOURCES AND MECHANISMS.—The Recovery Accountability and Transparency Board shall develop and test information technology resources and oversight mechanisms to enhance the transparency of and detect and remediate waste, fraud, and abuse in Federal spending for Inspectors General.
+
+“(2) WEBSITE.—The Recovery Accountability and Transparency Board shall maintain a website informing the public of its activities to identify waste, fraud, and abuse and increase transparency of Federal funds to provide support for Inspectors General.
+
+“(3) RECOVERY OPERATIONS CENTER.—The Recovery Accountability and Transparency Board shall establish and maintain a Recovery Operations Center as a government-wide Internet-based data access system to carry out the functions described in paragraph (4).
+
+“(4) FUNCTIONS OF THE RECOVERY OPERATIONS CENTER.—The functions referred to in paragraph (3) are the following:
+
+“(A) IN GENERAL.—The Recovery Operations Center shall incorporate—
+
+“(i) all information described in subsection (b)(1);
+
+“(ii) other information maintained by Federal, State, local, and foreign government agencies; and
+
+“(iii) other commercially and publicly available information.
+
+“(B) SPECIFIC FUNCTIONS.—The Recovery Operations Center shall be designed and operated to carry out the following functions:
+
+“(i) Combine information described in subsection (b)(1) with other compilations of information, including those listed in subparagraph (A).
+
+“(ii) Permit agencies, in accordance with applicable law, to detect and remediate waste, fraud, and abuse.”.
+
+
+SEC. 4. PILOT PROGRAM TO EVALUATE CONSOLIDATED RECIPIENT REPORTING.
+(a) In General.—Not later than 90 days after the date of enactment of this Act, the Recovery Accountability and Transparency Board, in consultation with the Secretary of the Treasury and the Director of the Office of Management and Budget, shall establish a pilot program relating to reporting by recipients of Federal funds (in this section referred to as the “pilot program”) for the purpose of increasing financial transparency to—
+
+(1) display the full cycle of Federal funds;
+
+(2) improve the accuracy of Federal financial data; and
+
+(3) develop recommendations for reducing reporting required of recipients of Federal funds by consolidating and automating financial reporting requirements across the Federal Government.
+
+(b) Requirements.—The pilot program shall—
+
+(1) include a combination of recipients of Federal contracts, grants, and subawards, the aggregate value of which is not less than $1,000,000,000;
+
+(2) include a diverse group of recipients of Federal awards; and
+
+(3) to the extent practicable, include recipients that receive Federal awards from multiple programs across multiple agencies.
+
+(c) Reporting And Evaluation Requirements.—Each recipient of Federal funds participating in the pilot program shall submit to the Recovery Accountability and Transparency Board reports on the finances of the selected Federal awards.
+
+(d) Publication Of Information.—All the information collected by the Recovery Accountability and Transparency Board under the pilot program shall be made publicly available and searchable on the website established under section 2 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).
+
+(e) Termination.—The pilot program shall terminate on the date that is 3 years after the date on which the Recovery Accountability and Transparency Board establishes the pilot program.
+
+(f) Report.—Not later than 90 days after the date on which the pilot program terminates under subsection (e), the Recovery Accountability and Transparency Board shall submit to the Office of Management and Budget, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report on the pilot program, which shall include—
+
+(1) a description of financial data collected under the pilot program, the accuracy of the data provided, and the cost to collect the data from recipients; and
+
+(2) recommendations for—
+
+(A) consolidating some or all aspects of Federal financial reporting to reduce the costs to recipients of Federal funds;
+
+(B) automating some or all aspects of Federal financial reporting to increase efficiency and reduce the costs to recipients of Federal funds; and
+
+(C) improving financial transparency.
+
+(g) Government-Wide Implementation.—Not later than 90 days after the date on which the Office of Management and Budget receives the report required by subsection (f), the Director of the Office of Management and Budget shall determine whether to authorize the Recovery Accountability and Transparency Board to extend the recipient reporting requirements of the pilot program to all Federal funds. The Recovery Accountability and Transparency Board shall begin requiring Government-wide recipient reporting at the start of the fiscal year that commences after the fiscal year during which such authorization is granted, and under such terms and conditions that the Board shall determine, in consultation with the Director.
+
+
+SEC. 5. CLASSIFIED AND PROTECTED INFORMATION.
+Section 3 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended to read as follows:
+
+“SEC. 3. CLASSIFIED AND PROTECTED INFORMATION.
+“Nothing in this Act shall require the disclosure to the public or to any person without an identifiable need to know—
+
+“(1) information protected under section 552 of title 5, United States Code (commonly known as the ‘Freedom of Information Act’); or
+
+“(2) information protected under section 552a of title 5, United States Code (commonly known as the ‘Privacy Act of 1974’), or section 6103 of the Internal Revenue Code of 1986.”.
+
+
+SEC. 6. AMERICAN RECOVERY AND REINVESTMENT ACT OF 2009 AMENDMENTS.
+Division A of Public Law 111–5 is amended—
+
+(1) in section 1501 of title XV, by striking paragraph (4) and inserting the following:
+
+
+“(4) COVERED FUNDS.—The term ‘covered funds’—
+
+“(A) except as provided in subparagraph (B), means any funds that are expended or obligated from appropriations made under this Act; and
+
+“(B) for purposes of sections 1522 and 1524, means funds that are expended or obligated by an agency from appropriations made under this or any other Act.”;
+
+(2) in section 1512 of title XV, by adding at the end the following:
+
+
+“(i) Expiration.—The requirements in this section shall expire on December 30, 2013.”;
+
+(3) in section 1523 of title XV, by adding at the end the following:
+
+
+“(d) Expiration.—The requirements in this section shall expire on December 30, 2013.”;
+
+(4) in section 1526 of title XV, by adding at the end the following:
+
+
+“(e) Expiration.—The requirements in this section shall expire on December 30, 2013.”; and
+
+(5) in section 1530 of title XV, by striking “September 30, 2013.” and inserting “September 30, 2017.”.
+
+
+SEC. 7. DISASTER RELIEF APPROPRIATIONS ACT OF 2013 AMENDMENTS.
+Division A of Public Law 113–2 is amended in section 904(d)—
+
+(1) by striking “for purposes related to the impact of Hurricane Sandy”;
+
+(2) by striking “related to the impact of Hurricane Sandy” after “receiving appropriations”; and
+
+(3) by striking “related to funds appropriated for the impact of Hurricane Sandy” after “on its activities”.
+
+
+SEC. 8. EXECUTIVE AGENCY ACCOUNTING AND OTHER FINANCIAL MANAGEMENT REPORTS AND PLANS.
+Section 3512(a) of title 31, United States Code, is amended—
+
+(1) in paragraph (1), by inserting “and make available on the website described under section 1122 of this title” after “appropriate committees of the Congress”;
+
+(2) in paragraph (3)(B)(vi), by inserting “, system development, financial management workforce development, related risk assessment and mitigation for the Federal Government as a whole, related risk assessment and mitigation for executive agencies, development of capacity to prevent and detect fraud,” after “equipment acquisitions”; and
+
+(3) in paragraph (4), by adding at the end the following:
+
+
+“(C) Not later than 90 days after the date of enactment of the Digital Accountability and Transparency Act of 2013, and every 90 days thereafter, the Director shall make available on the website described under section 1122 of this title a report regarding—
+
+“(i) specific goals for the most recent full fiscal year, the fiscal year during which the report is submitted, and the fiscal year following the year during which the report is submitted that are necessary steps toward implementing the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) fully and in an effective, efficient, and accurate manner; and
+
+“(ii) the status and progress achieved toward each goal described in clause (i), including any changes to the cost, schedule, or performance baselines of achieving each goal, using earned value management where appropriate.”.
+
+
+SEC. 9. LIMITS AND TRANSPARENCY FOR CONFERENCE AND TRAVEL SPENDING.
+(a) Amendment.—Chapter 57 of title 5, United States Code, is amended by inserting after section 5711 the following:
+
+“§ 5712. Limits and transparency for conference and travel spending
+
+“(a) Conference Transparency And Spending Limits.—
+
+“(1) PUBLIC AVAILABILITY OF CONFERENCE MATERIALS.—Each agency shall post on the public website of that agency detailed information on any presentation made by any employee of that agency at a conference (except to the extent the head of an agency excludes such information for reasons of national security or information described under section 552(b)) including—
+
+“(A) the prepared text of any verbal presentation made; and
+
+“(B) any visual, digital, video, or audio materials presented, including photographs, slides, and audio-visual recordings.
+
+“(2) LIMITS ON AMOUNT EXPENDED ON A CONFERENCE.—
+
+“(A) IN GENERAL.—Except as provided under subparagraph (B), an agency may not expend more than $500,000 to support a single conference.
+
+“(B) EXCEPTION.—The head of an agency may waive the limitation under subparagraph (A) for a specific conference after making a determination that the expenditure is justified as the most cost-effective option to achieve a compelling purpose. The head of an agency shall submit to the appropriate congressional committees a report on any waiver granted under this subparagraph, including the justification for such waiver.
+
+“(C) RULE OF CONSTRUCTION.—Nothing in this paragraph shall be construed to preclude an agency from receiving financial support or other assistance from a private entity to pay or defray the costs of a conference the total cost of which exceeds $500,000.
+
+“(b) International Conference Rule.—An agency may not pay the travel expenses for more than 50 employees of that agency who are stationed in the United States, for any international conference, unless the Secretary of State determines that attendance for such employees is in the national interest, or the head of the agency determines that attendance for such employees is critical to the agency’s mission. The Secretary of State and the head of an agency shall submit to the appropriate congressional committees a report on any waiver granted under this subsection, including the justification for such waiver.
+
+“(c) Reporting On Travel And Conference Expenses Required.—At the beginning of each quarter of each fiscal year, each agency shall post on the public website of that agency a report on each conference that costs more than $10,000 for which the agency paid travel expenses during the preceding 3 months that includes—
+
+“(1) the itemized expenses paid by the agency, including travel, lodging, and meal expenses, and any other agency expenditures to otherwise support the conference;
+
+“(2) the primary sponsor of the conference;
+
+“(3) the location of the conference;
+
+“(4) the date of the conference;
+
+“(5) a brief explanation of how the participation of employees from such agency at the conference advanced the mission of the agency;
+
+“(6) the title of any employee, or any individual who is not a Federal employee, whose travel expenses or other conference expenses were paid by the agency;
+
+“(7) the total number of individuals whose travel expenses or other conference expenses were paid by the agency; and
+
+“(8) in the case of a conference for which that agency was the primary sponsor, a statement that—
+
+“(A) describes the cost to the agency of selecting the specific conference venue;
+
+“(B) describes why the location was selected, including a justification for such selection;
+
+“(C) demonstrates the cost efficiency of the location;
+
+“(D) provides a cost benefit analysis of holding a conference rather than conducting a teleconference; and
+
+“(E) describes any financial support or other assistance from a private entity used to pay or defray the costs of the conference, and for each case where such support or assistance was used, the head of the agency shall include a certification that there is no conflict of interest resulting from such support or assistance.
+
+“(d) Format And Publication Of Reports.—Each report posted on the public website under subsection (c) shall—
+
+“(1) be in a searchable electronic format; and
+
+“(2) remain on that website for at least 5 years after the date of posting.
+
+“(e) Definitions.—In this section:
+
+“(1) AGENCY.—The term ‘agency’ has the meaning given that term under section 5701, but does not include the government of the District of Columbia.
+
+“(2) CONFERENCE.—The term ‘conference’ means a meeting, retreat, seminar, symposium, or event that—
+
+“(A) is held for consultation, education, discussion, or training; and
+
+“(B) is not held entirely at a Government facility.
+
+“(3) INTERNATIONAL CONFERENCE.—The term ‘international conference’ means a conference occurring outside the United States attended by representatives of—
+
+“(A) the Government of the United States; and
+
+“(B) any foreign government, international organization, or foreign nongovernmental organization.”.
+
+(b) Technical And Conforming Amendment.—The table of sections for chapter 57 of title 5, United States Code, is amended by inserting after the item relating to section 5711 the following:
+
+
+“5712. Limits and transparency for conference and travel spending.”.
+(c) Annual Travel Expense Limits.—
+
+(1) IN GENERAL.—In the case of each of fiscal years 2014 through 2018, an agency (as defined under section 5712(e) of title 5, United States Code, as added by subsection (a)) may not make, or obligate to make, expenditures for travel expenses, in an aggregate amount greater than 70 percent of the aggregate amount of such expenses for fiscal year 2010.
+
+(2) EXEMPTIONS.—The agency may exclude certain travel expenses from the limitation under paragraph (1) only if the agency head determines that inclusion of such expenses would undermine national security, international diplomacy, health and safety inspections, law enforcement, or site visits required for oversight or investigatory purposes.
+
+(3) REPORT TO CONGRESS.—In each of fiscal years 2014 through 2018, the head of each agency shall submit to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report containing—
+
+(A) the justification for any expenses excluded (under paragraph (2)) from the limitation under paragraph (1); and
+
+(B) the positive or negative impacts, if any, of the limitation under paragraph (1) on the agency’s mission, cost-effectiveness, efficiency, and ability to perform core functions.
+
+(4) IDENTIFICATION OF TRAVEL EXPENSES.—
+
+(A) RESPONSIBILITIES.—Not later than January 1, 2014, and after consultation with the Administrator of General Services and the Director of the Administrative Office of the United States Courts, the Director of the Office of Management and Budget shall establish guidelines for the determination of what expenses constitute travel expenses for purposes of this subsection. The guidelines shall identify specific expenses, and classes of expenses, that are to be treated as travel expenses.
+
+(B) EXEMPTION FOR MILITARY TRAVEL.—The guidelines required under subparagraph (A) shall exclude military travel expenses in determining what expenses constitute travel expenses. Military travel expenses shall include travel expenses involving military combat, the training or deployment of uniformed military personnel, and such other travel expenses as determined by the Director of the Office of Management and Budget, in consultation with the Administrator of General Services and the Director of the Administrative Office of the United States Courts.
+
+Passed the House of Representatives November 18, 2013.
+
+Attest:
+
+
+Clerk.  
+
+113th CONGRESS
+     1st Session
+H. R. 2061
+AN ACT
+To expand the Federal Funding Accountability and Transparency Act of 2006 to increase accountability and transparency in Federal spending, and for other purposes.

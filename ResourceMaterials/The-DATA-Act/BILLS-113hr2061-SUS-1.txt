@@ -1,0 +1,792 @@
+F:\SLC\SUS\H2061_SUS.XML
+
+Suspend the Rules and Pass the Bill, H.R. 2061, With an Amendment (The amendment strikes all after the enacting clause and inserts a new text)
+
+113TH CONGRESS 1ST SESSION
+
+H. R. 2061
+
+To expand the Federal Funding Accountability and Transparency Act of 2006 to increase accountability and transparency in Federal spending, and for other purposes.
+
+IN THE HOUSE OF REPRESENTATIVES
+MAY 21, 2013 Mr. ISSA (for himself and Mr. CUMMINGS) introduced the following bill; which was referred to the Committee on Oversight and Government Reform
+
+A BILL
+To expand the Federal Funding Accountability and Transparency Act of 2006 to increase accountability and transparency in Federal spending, and for other purposes. 1 Be it enacted by the Senate and House of Representa-
+
+2 tives of the United States of America in Congress assembled, 3 4
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+(a) SHORT TITLE.—This Act may be cited as the
+
+5 ‘‘Digital Accountability and Transparency Act of 2013’’. 6 (b) TABLE
+OF
+
+CONTENTS.—The table of contents for
+
+7 this Act is as follows:
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00001 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+VerDate 0ct 09 2002
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+2
+Sec. 1. Short title; table of contents. Sec. 2. Purposes. Sec. 3. Amendments to the Federal Funding Accountability and Transparency Act of 2006. Sec. 4. Pilot program to evaluate consolidated recipient reporting. Sec. 5. Classified and protected information. Sec. 6. American Recovery and Reinvestment Act of 2009 amendments. Sec. 7. Disaster Relief Appropriations Act of 2013 amendments. Sec. 8. Executive agency accounting and other financial management reports and plans. Sec. 9. Limits and transparency for conference and travel spending.
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+SEC. 2. PURPOSES.
+
+The purposes of this Act are to— (1) expand the Federal Funding Accountability and Transparency Act of 2006 by disclosing direct Federal agency expenditures and linking Federal contract, loan, and grant spending information to programs of Federal agencies in order to enable taxpayers and policy makers to track Federal spending more effectively; (2) provide consistent, reliable, and searchable Government-wide spending data that is displayed accurately for taxpayers and policy makers on USASpending.gov; (3) analyze Federal spending data to
+
+proactively prevent waste, fraud, abuse, and improper payments; (4) simplify reporting for entities receiving Federal funds by streamlining reporting requirements and reducing compliance costs while improving transparency; and
+(564517|1)
+PO 00000 Frm 00002 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+3 1 2 3 4 5 6 7 8 (5) improve the quality of data submitted to USASpending.gov by holding Federal agencies accountable for the completeness and accuracy of the data submitted.
+SEC. 3. AMENDMENTS TO THE FEDERAL FUNDING ACCOUNTABILITY AND TRANSPARENCY ACT OF 2006.
+
+Section 2 of the Federal Funding Accountability and
+
+9 Transparency Act of 2006 (31 U.S.C. 6101 note) is 10 amended— 11 12 13 14 15 16 17 18 19 20 21 22 23 (1) in the section heading, by striking ‘‘FULL
+DISCLOSURE OF ENTITIES RECEIVING FEDOF
+
+ERAL FUNDING’’
+
+and inserting ‘‘DISCLOSURE
+
+FEDERAL FUNDING’’;
+
+(2) in subsection (a)— (A) by redesignating paragraphs (2) and (3) as paragraphs (3) and (7), respectively; (B) by inserting after paragraph (1) the following new paragraph (2): ‘‘(2) FEDERAL
+AGENCY.—The
+
+term ‘Federal
+
+agency’ has the meaning given the term ‘Executive agency’ under section 105 of title 5, United States Code.’’;
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00003 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+4 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 (C) by inserting after paragraph (3), as redesignated by subparagraph (A), the following new paragraphs: ‘‘(4) FEDERAL
+FUNDS.—The
+
+term ‘Federal
+
+funds’ means any funds that are made available to or expended by a Federal agency. ‘‘(5) OBJECT
+CLASS.—The
+
+term ‘object class’
+
+means the category assigned for purposes of the annual budget of the President submitted under section 1105(a) of title 31, United States Code, to the type of property or services purchased by the Federal Government. ‘‘(6) PROGRAM
+ACTIVITY.—The
+
+term ‘program
+
+activity’ has the meaning given that term under section 1115(h) of title 31, United States Code.’’; and (D) in paragraph (7), as redesignated by subparagraph (A)— (i) in subparagraph (B), by striking ‘‘paragraph (2)(A)(i)’’ and inserting ‘‘paragraph (3)(A)(i)’’; and (ii) in subparagraph (C), by striking ‘‘paragraph (2)(A)(ii)’’ and inserting
+
+‘‘paragraph (3)(A)(ii)’’; (3) in subsection (b)— (A) in paragraph (1)—
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00004 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+5 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 (i) by striking ‘‘the Office of Management and Budget’’ and inserting ‘‘the Secretary of the Treasury’’ each place it appears; (ii) in subparagraph (F)— (I) in clause (i), by redesignating subclauses (I) and (II) as items (aa) and (bb), respectively; (II) by redesignating clauses (i) and (ii) as subclauses (I) and (II); and (III) by striking the period at the end of subclause (II) as so redesignated and inserting ‘‘; and’’; (iii) by redesignating subparagraphs (A) through (G) as clauses (i) through (vii), respectively, and adjusting the margin accordingly; (iv) by striking ‘‘for each Federal award—’’ and inserting the following: ‘‘for all Federal funds— ‘‘(A) for each Federal agency, component of a Federal agency, appropriations account, program activity, and object class (including
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00005 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+6 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 any subcomponent of an object class), and other accounts or data as appropriate— ‘‘(i) the amount of budget authority available; ‘‘(ii) the amount obligated; ‘‘(iii) the amount of outlays; ‘‘(iv) the amount of any Federal funds reprogrammed or transferred; and ‘‘(v) the amount of expired and unexpired unobligated balances; and ‘‘(B) for each Federal award—’’; and (v) in subparagraph (B)(iii), as so designated by this subparagraph, by inserting ‘‘, which shall be assigned a unique identifier,’’ after ‘‘information on the award’’; (B) in paragraph (3)— (i) by striking ‘‘The Director of the Office of Management and Budget’’ and inserting ‘‘The Secretary of the Treasury’’; and (ii) by striking ‘‘the Director’’ and inserting ‘‘the Secretary’’; (C) in paragraph (4)—
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00006 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+7 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 (i) by striking ‘‘the Director of the Office of Management and Budget’’ and inserting ‘‘the Secretary of the Treasury’’; and (ii) by striking ‘‘the Director’’ and inserting ‘‘the Secretary’’, each place it appears; and (D) by adding at the end the following: ‘‘(5) APPLICATION
+OF DATA STANDARDS.—The
+
+Secretary of the Treasury shall apply the data standards established under subsection (e) to all data collection, data dissemination, and data publication required under this section. ‘‘(6) DATA
+ABILITY AND FEED TO RECOVERY ACCOUNT-
+
+TRANSPARENCY
+
+BOARD.—The
+
+Sec-
+
+retary of the Treasury shall provide the data described in paragraph (1) to the Recovery Accountability and Transparency Board so that it can be included in the Recovery Operations Center described in subsection (h).’’; (4) in subsection (c)— (A) in paragraph (1)— (i) in the matter preceding subparagraph (A), by striking ‘‘and Grants.gov’’ and inserting ‘‘Grants.gov, the Payment
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00007 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+8 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 Automation Manager and Financial Information Repository and other data or databases from the Department of the Treasury, the MAX Information System of the Office of Management and Budget, and other data from Federal agencies collected and identified by the Office of Management and Budget’’; (ii) in subparagraph (B), by adding ‘‘and’’ at the end; and (iii) by adding at the end the following: ‘‘(C) specify such search shall be confined to Federal funds;’’; (B) in paragraph (2), by inserting ‘‘the Payment Automation Manager and Financial Information Repository and other data or databases from the Department of the Treasury, the MAX Information System of the Office of Management and Budget, other data from Federal agencies collected and identified by the Office of Management and Budget,’’ after ‘‘Grants.gov website,’’; (C) in paragraph (4)—
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00008 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+9 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 (i) by striking ‘‘shall be updated not later’’ and inserting the following: ‘‘shall be updated— ‘‘(A) not later’’; and (ii) by adding at the end the following: ‘‘(B) not less than once each quarter with information relating to Federal funds;’’; (D) in paragraph (5)— (i) by inserting ‘‘Federal funds and’’ before ‘‘Federal awards’’ the first place it appears; (ii) by striking ‘‘subsection
+
+(a)(2)(A)(i) and those described in subsection (a)(2)(A)(ii)’’ and inserting ‘‘subsection (a)(3)(A)(i) and those described in subsection (a)(3)(A)(ii)’’; and (iii) by striking the period at the end and inserting a semicolon; and (E) by adding at the end the following: ‘‘(6) shall have the ability to aggregate data for the categories described in paragraphs (1) through (5) without double-counting data; and ‘‘(7) shall permit all information published under this section to be downloaded in bulk.’’;
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00009 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+10 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 (5) by redesignating subsections (e), (f), and (g) as subsections (i), (j), and (k), respectively; and (6) by inserting after subsection (d) the following new subsections: ‘‘(e) DEPARTMENT
+MENTS FOR OF THE
+
+TREASURY REQUIRE-
+
+DATA STANDARDS.—
+GENERAL.—The
+
+‘‘(1) IN
+
+Secretary of the
+
+Treasury, in consultation with the Director of the Office of Management and Budget, the Administrator of General Services, and the heads of Federal agencies, shall establish Government-wide financial data standards for Federal funds, which shall— ‘‘(A) include common data elements, such as codes, unique award identifiers, and fields, for financial and payment information required to be reported by Federal agencies and entities receiving Federal funds, including identifiers for Federal awards and entities receiving Federal awards; ‘‘(B) to the extent reasonable and practicable, porate— ‘‘(i) common data elements developed and maintained by an international voluntary consensus standards body, as deensure interoperability and incor-
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00010 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+11 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 fined by the Office of Management and Budget, such as the International Organization for Standardization; ‘‘(ii) common data elements developed and maintained by Federal agencies with authority over contracting and financial assistance, such as the Federal Acquisition Regulatory Council; and ‘‘(iii) common data elements developed and maintained by accounting standards organizations; and ‘‘(C) include data reporting standards that— ‘‘(i) incorporate a widely accepted, nonproprietary, searchable, platform-independent computer-readable format; ‘‘(ii) are consistent with and implement applicable accounting principles; ‘‘(iii) are capable of being continually upgraded as necessary; ‘‘(iv) are structured to specifically support the reporting of financial and performance-related data, such as that any data produced, regardless of reporting need or software used for creation or con-
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00011 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+12 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 sumption, is consistent and comparable across reporting situations; ‘‘(v) establish, for each data point, a standard method of conveying the reporting period, reporting entity, unit of measure, and other associated attributes; and ‘‘(vi) incorporate nonproprietary
+
+standards in effect on the date of enactment of the Digital Accountability and Transparency Act of 2013. ‘‘(2) DEADLINES.— ‘‘(A) GUIDANCE.—The Secretary of the Treasury, in consultation with the Director of the Office of Management and Budget, shall issue guidance on the data standards established under paragraph (1) to Federal agencies not later than 1 year after the date of enactment of the Digital Accountability and Transparency Act of 2013. ‘‘(B) WEBSITE.—Not later than 1 year after the date on which the guidance under clause (i) is issued, the Secretary of the Treasury shall ensure that the website required under this section makes data publicly available in ac-
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00012 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+13 1 2 3 4 5 6 7 8 9 10 11 12 13 14 cordance with the data standards established under paragraph (1). ‘‘(C) AGENCIES.—Not later than 180 days after the date on which the guidance under subparagraph (A) is issued, each Federal agency shall collect, report, and maintain data in accordance with the data standards established under paragraph (1). ‘‘(3) CONSULTATION.—The Secretary of the Treasury shall consult with public and private stakeholders in establishing data standards under this subsection. ‘‘(f) CONSOLIDATED RECIPIENT FINANCIAL REPORTS.—The
+
+Director of the Office of Management and
+
+15 Budget shall— 16 17 18 19 20 21 22 23 24 ‘‘(1) review the financial reporting required by Federal agencies for Federal award recipients to consolidate financial reporting and reduce duplicative financial reporting and compliance costs for recipients; ‘‘(2) request input from Federal award recipients to reduce duplicative financial reporting, especially from State and local governments and institutions of higher education;
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00013 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+14 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 ‘‘(3) not later than 1 year after the date of enactment of the Digital Accountability and Transparency Act of 2013, provide guidance to the heads of Federal agencies regarding how to simplify the reporting requirements for Federal award recipients to consolidate financial reporting, reduce duplicative reporting, and reduce compliance costs, as appropriate; and ‘‘(4) not later than 18 months after the date of enactment of the Digital Accountability and Transparency Act of 2013, submit to Congress a report regarding any legislative action required to consolidate, streamline, or reduce the cost of reporting requirements for Federal award recipients. ‘‘(g) ACCOUNTABILITY FOR FEDERAL FUNDING.— ‘‘(1) IN
+GENERAL.—Not
+
+later than 1 year after
+
+the date of enactment of the Digital Accountability and Transparency Act of 2013, and every 2 years thereafter until the date that is 6 years after such date of enactment, the Inspector General of each Federal agency, in consultation with the Comptroller General of the United States, shall review a sampling of the data submitted under this Act by the agency, and shall submit to Congress and make publicly available a report on the completeness, timeli-
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00014 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+15 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ness, quality, and accuracy of the data sampled and the implementation and use of consistent data standards by the Federal agency. ‘‘(2) COMPTROLLER ‘‘(A) IN
+GENERAL.—
+
+GENERAL.—Not
+
+later than 2 years
+
+after the date of enactment of the Digital Accountability and Transparency Act of 2013, and every 2 years thereafter until the date that is 6 years after such date of enactment, and after review of the reports submitted under paragraph (1), the Comptroller General of the United States shall submit to Congress and make publicly available a report on the completeness, timeliness, quality, and accuracy of the data submitted under this Act by each Federal agency and the implementation and use of consistent data standards by each Federal agency. ‘‘(B) RANKING.—The Comptroller General of the United States shall make available a ranking of Federal agencies regarding data quality, accuracy, and compliance with this Act. ‘‘(h) RECOVERY ACCOUNTABILITY
+PARENCY AND
+
+TRANS-
+
+BOARD.—
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00015 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+16 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ‘‘(1) RESOURCES
+AND MECHANISMS.—The
+
+Re-
+
+covery Accountability and Transparency Board shall develop and test information technology resources and oversight mechanisms to enhance the transparency of and detect and remediate waste, fraud, and abuse in Federal spending for Inspectors General. ‘‘(2) WEBSITE.—The Recovery Accountability and Transparency Board shall maintain a website informing the public of its activities to identify waste, fraud, and abuse and increase transparency of Federal funds to provide support for Inspectors General. ‘‘(3) RECOVERY
+OPERATIONS CENTER.—The
+
+Recovery Accountability and Transparency Board shall establish and maintain a Recovery Operations Center as a government-wide Internet-based data access system to carry out the functions described in paragraph (4). ‘‘(4) FUNCTIONS
+ATIONS CENTER.—The OF THE RECOVERY OPER-
+
+functions referred to in para-
+
+graph (3) are the following: ‘‘(A) IN
+GENERAL.—The
+
+Recovery Oper-
+
+ations Center shall incorporate—
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00016 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+17 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 ‘‘(i) all information described in subsection (b)(1); ‘‘(ii) other information maintained by Federal, State, local, and foreign government agencies; and ‘‘(iii) other commercially and publicly available information. ‘‘(B) SPECIFIC
+FUNCTIONS.—The
+
+Recovery
+
+Operations Center shall be designed and operated to carry out the following functions: ‘‘(i) Combine information described in subsection (b)(1) with other compilations of information, including those listed in subparagraph (A). ‘‘(ii) Permit agencies, in accordance with applicable law, to detect and remediate waste, fraud, and abuse.’’.
+SEC. 4. PILOT PROGRAM TO EVALUATE CONSOLIDATED RECIPIENT REPORTING.
+
+(a) IN GENERAL.—Not later than 90 days after the
+
+21 date of enactment of this Act, the Recovery Accountability 22 and Transparency Board, in consultation with the Sec23 retary of the Treasury and the Director of the Office of 24 Management and Budget, shall establish a pilot program 25 relating to reporting by recipients of Federal funds (in this
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00017 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+18 1 section referred to as the ‘‘pilot program’’) for the purpose 2 of increasing financial transparency to— 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 (1) display the full cycle of Federal funds; (2) improve the accuracy of Federal financial data; and (3) develop recommendations for reducing reporting required of recipients of Federal funds by consolidating and automating financial reporting requirements across the Federal Government. (b) REQUIREMENTS.—The pilot program shall— (1) include a combination of recipients of Federal contracts, grants, and subawards, the aggregate value of which is not less than $1,000,000,000; (2) include a diverse group of recipients of Federal awards; and (3) to the extent practicable, include recipients that receive Federal awards from multiple programs across multiple agencies. (c) REPORTING
+AND
+
+EVALUATION
+
+REQUIRE-
+
+MENTS.—Each
+
+recipient of Federal funds participating in
+
+21 the pilot program shall submit to the Recovery Account22 ability and Transparency Board reports on the finances 23 of the selected Federal awards. 24 (d) PUBLICATION
+OF
+
+INFORMATION.—All the infor-
+
+25 mation collected by the Recovery Accountability and
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00018 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+19 1 Transparency Board under the pilot program shall be 2 made publicly available and searchable on the website es3 tablished under section 2 of the Federal Funding Account4 ability and Transparency Act of 2006 (31 U.S.C. 6101 5 note). 6 (e) TERMINATION.—The pilot program shall termi-
+
+7 nate on the date that is 3 years after the date on which 8 the Recovery Accountability and Transparency Board es9 tablishes the pilot program. 10 (f) REPORT.—Not later than 90 days after the date
+
+11 on which the pilot program terminates under subsection 12 (e), the Recovery Accountability and Transparency Board 13 shall submit to the Office of Management and Budget, the 14 Committee on Homeland Security and Governmental Af15 fairs of the Senate, and the Committee on Oversight and 16 Government Reform of the House of Representatives a re17 port on the pilot program, which shall include— 18 19 20 21 22 23 24 25 (1) a description of financial data collected under the pilot program, the accuracy of the data provided, and the cost to collect the data from recipients; and (2) recommendations for— (A) consolidating some or all aspects of Federal financial reporting to reduce the costs to recipients of Federal funds;
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00019 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+20 1 2 3 4 5 6 (g) (B) automating some or all aspects of Federal financial reporting to increase efficiency and reduce the costs to recipients of Federal funds; and (C) improving financial transparency. GOVERNMENT-WIDE IMPLEMENTATION.—Not
+
+7 later than 90 days after the date on which the Office of 8 Management and Budget receives the report required by 9 subsection (f), the Director of the Office of Management 10 and Budget shall determine whether to authorize the Re11 covery Accountability and Transparency Board to extend 12 the recipient reporting requirements of the pilot program 13 to all Federal funds. The Recovery Accountability and 14 Transparency Board shall begin requiring Government15 wide recipient reporting at the start of the fiscal year that 16 commences after the fiscal year during which such author17 ization is granted, and under such terms and conditions 18 that the Board shall determine, in consultation with the 19 Director. 20 21
+SEC. 5. CLASSIFIED AND PROTECTED INFORMATION.
+
+Section 3 of the Federal Funding Accountability and
+
+22 Transparency Act of 2006 (31 U.S.C. 6101 note) is 23 amended to read as follows:
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00020 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+21 1 2
+‘‘SEC. 3. CLASSIFIED AND PROTECTED INFORMATION.
+
+‘‘Nothing in this Act shall require the disclosure to
+
+3 the public or to any person without an identifiable need 4 to know— 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+VerDate 0ct 09 2002
+
+‘‘(1) information protected under section 552 of title 5, United States Code (commonly known as the ‘Freedom of Information Act’); or ‘‘(2) information protected under section 552a of title 5, United States Code (commonly known as the ‘Privacy Act of 1974’), or section 6103 of the Internal Revenue Code of 1986.’’.
+SEC. 6. AMERICAN RECOVERY AND REINVESTMENT ACT OF 2009 AMENDMENTS.
+
+Division A of Public Law 111–5 is amended— (1) in section 1501 of title XV, by striking paragraph (4) and inserting the following: ‘‘(4) COVERED funds’— ‘‘(A) except as provided in subparagraph (B), means any funds that are expended or obligated from appropriations made under this Act; and ‘‘(B) for purposes of sections 1522 and 1524, means funds that are expended or obligated by an agency from appropriations made under this or any other Act.’’;
+(564517|1)
+PO 00000 Frm 00021 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML Jkt 000000
+
+FUNDS.—The
+
+term ‘covered
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+22 1 2 3 (2) in section 1512 of title XV, by adding at the end the following: ‘‘(i) EXPIRATION.—The requirements in this section
+
+4 shall expire on December 30, 2013.’’; 5 6 7 (3) in section 1523 of title XV, by adding at the end the following: ‘‘(d) EXPIRATION.—The requirements in this section
+
+8 shall expire on December 30, 2013.’’; 9 10 11 (4) in section 1526 of title XV, by adding at the end the following: ‘‘(e) EXPIRATION.—The requirements in this section
+
+12 shall expire on December 30, 2013.’’; and 13 14 15 16 17 18 (5) in section 1530 of title XV, by striking ‘‘September 30, 2013.’’ and inserting ‘‘September 30, 2017.’’.
+SEC. 7. DISASTER RELIEF APPROPRIATIONS ACT OF 2013 AMENDMENTS.
+
+Division A of Public Law 113–2 is amended in sec-
+
+19 tion 904(d)— 20 21 22 23 (1) by striking ‘‘for purposes related to the impact of Hurricane Sandy’’; (2) by striking ‘‘related to the impact of Hurricane Sandy’’ after ‘‘receiving appropriations’’; and
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00022 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+23 1 2 3 4 5 6 7 (3) by striking ‘‘related to funds appropriated for the impact of Hurricane Sandy’’ after ‘‘on its activities’’.
+SEC. 8. EXECUTIVE AGENCY ACCOUNTING AND OTHER FINANCIAL PLANS. MANAGEMENT REPORTS AND
+
+Section 3512(a) of title 31, United States Code, is
+
+8 amended— 9 10 11 12 13 14 15 16 17 18 19 20 21 22 (1) in paragraph (1), by inserting ‘‘and make available on the website described under section 1122 of this title’’ after ‘‘appropriate committees of the Congress’’; (2) in paragraph (3)(B)(vi), by inserting ‘‘, system development, financial management workforce development, related risk assessment and mitigation for the Federal Government as a whole, related risk assessment and mitigation for executive agencies, development of capacity to prevent and detect fraud,’’ after ‘‘equipment acquisitions’’; and (3) in paragraph (4), by adding at the end the following: ‘‘(C) Not later than 90 days after the date of enact-
+
+23 ment of the Digital Accountability and Transparency Act 24 of 2013, and every 90 days thereafter, the Director shall
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00023 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+24 1 make available on the website described under section 2 1122 of this title a report regarding— 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ‘‘(i) specific goals for the most recent full fiscal year, the fiscal year during which the report is submitted, and the fiscal year following the year during which the report is submitted that are necessary steps toward implementing the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) fully and in an effective, efficient, and accurate manner; and ‘‘(ii) the status and progress achieved toward each goal described in clause (i), including any changes to the cost, schedule, or performance baselines of achieving each goal, using earned value management where appropriate.’’.
+SEC. 9. LIMITS AND TRANSPARENCY FOR CONFERENCE AND TRAVEL SPENDING.
+
+(a) AMENDMENT.—Chapter 57 of title 5, United
+
+19 States Code, is amended by inserting after section 5711 20 the following: 21 ‘‘§ 5712. Limits and transparency for conference and 22 23
+travel spending
+
+‘‘(a) CONFERENCE TRANSPARENCY
+
+AND
+
+SPENDING
+
+24 LIMITS.—
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00024 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+25 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 ‘‘(1) PUBLIC
+MATERIALS.—Each AVAILABILITY OF CONFERENCE
+
+agency shall post on the public
+
+website of that agency detailed information on any presentation made by any employee of that agency at a conference (except to the extent the head of an agency excludes such information for reasons of national security or information described under section 552(b)) including— ‘‘(A) the prepared text of any verbal presentation made; and ‘‘(B) any visual, digital, video, or audio materials presented, including photographs, slides, and audio-visual recordings. ‘‘(2) LIMITS
+FERENCE.— ON AMOUNT EXPENDED ON A CON-
+
+‘‘(A) IN
+
+GENERAL.—Except
+
+as provided
+
+under subparagraph (B), an agency may not expend more than $500,000 to support a single conference. ‘‘(B) EXCEPTION.—The head of an agency may waive the limitation under subparagraph (A) for a specific conference after making a determination that the expenditure is justified as the most cost-effective option to achieve a compelling purpose. The head of an agency shall
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00025 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+26 1 2 3 4 5 6 7 8 9 10 11 ‘‘(b) submit to the appropriate congressional committees a report on any waiver granted under this subparagraph, including the justification for such waiver. ‘‘(C) RULE
+OF CONSTRUCTION.—Nothing
+
+in this paragraph shall be construed to preclude an agency from receiving financial support or other assistance from a private entity to pay or defray the costs of a conference the total cost of which exceeds $500,000. INTERNATIONAL CONFERENCE RULE.—An
+
+12 agency may not pay the travel expenses for more than 50 13 employees of that agency who are stationed in the United 14 States, for any international conference, unless the Sec15 retary of State determines that attendance for such em16 ployees is in the national interest, or the head of the agen17 cy determines that attendance for such employees is crit18 ical to the agency’s mission. The Secretary of State and 19 the head of an agency shall submit to the appropriate con20 gressional committees a report on any waiver granted 21 under this subsection, including the justification for such 22 waiver. 23 24 ‘‘(c) REPORTING
+PENSES ON
+
+TRAVEL
+
+AND
+
+CONFERENCE EX-
+
+REQUIRED.—At the beginning of each quarter of
+
+25 each fiscal year, each agency shall post on the public
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00026 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+27 1 website of that agency a report on each conference that 2 costs more than $10,000 for which the agency paid travel 3 expenses during the preceding 3 months that includes— 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ‘‘(1) the itemized expenses paid by the agency, including travel, lodging, and meal expenses, and any other agency expenditures to otherwise support the conference; ‘‘(2) the primary sponsor of the conference; ‘‘(3) the location of the conference; ‘‘(4) the date of the conference; ‘‘(5) a brief explanation of how the participation of employees from such agency at the conference advanced the mission of the agency; ‘‘(6) the title of any employee, or any individual who is not a Federal employee, whose travel expenses or other conference expenses were paid by the agency; ‘‘(7) the total number of individuals whose travel expenses or other conference expenses were paid by the agency; and ‘‘(8) in the case of a conference for which that agency was the primary sponsor, a statement that— ‘‘(A) describes the cost to the agency of selecting the specific conference venue;
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00027 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+28 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 ‘‘(B) describes why the location was selected, including a justification for such selection; ‘‘(C) demonstrates the cost efficiency of the location; ‘‘(D) provides a cost benefit analysis of holding a conference rather than conducting a teleconference; and ‘‘(E) describes any financial support or other assistance from a private entity used to pay or defray the costs of the conference, and for each case where such support or assistance was used, the head of the agency shall include a certification that there is no conflict of interest resulting from such support or assistance. ‘‘(d) FORMAT
+AND
+
+PUBLICATION
+
+OF
+
+REPORTS.—
+
+17 Each report posted on the public website under subsection 18 (c) shall— 19 20 21 22 23 24 ‘‘(1) be in a searchable electronic format; and ‘‘(2) remain on that website for at least 5 years after the date of posting. ‘‘(e) DEFINITIONS.—In this section: ‘‘(1) AGENCY.—The term ‘agency’ has the meaning given that term under section 5701, but
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00028 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+29 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 and ‘‘(B) any foreign government, international organization, or foreign nongovernmental organization.’’. (b) TECHNICAL
+AND
+
+does not include the government of the District of Columbia. ‘‘(2) CONFERENCE.—The term ‘conference’ means a meeting, retreat, seminar, symposium, or event that— ‘‘(A) is held for consultation, education, discussion, or training; and ‘‘(B) is not held entirely at a Government facility. ‘‘(3) INTERNATIONAL
+CONFERENCE.—The
+
+term
+
+‘international conference’ means a conference occurring outside the United States attended by representatives of— ‘‘(A) the Government of the United States;
+
+CONFORMING AMENDMENT.—
+
+20 The table of sections for chapter 57 of title 5, United 21 States Code, is amended by inserting after the item relat22 ing to section 5711 the following:
+‘‘5712. Limits and transparency for conference and travel spending.’’.
+
+23 24 25
+VerDate 0ct 09 2002 12:21 Nov 15, 2013
+
+(c) ANNUAL TRAVEL EXPENSE LIMITS.— (1) IN
+GENERAL.—In
+
+the case of each of fiscal
+
+years 2014 through 2018, an agency (as defined
+(564517|1)
+PO 00000 Frm 00029 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML Jkt 000000
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+30 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 under section 5712(e) of title 5, United States Code, as added by subsection (a)) may not make, or obligate to make, expenditures for travel expenses, in an aggregate amount greater than 70 percent of the aggregate amount of such expenses for fiscal year 2010. (2) EXEMPTIONS.—The agency may exclude certain travel expenses from the limitation under paragraph (1) only if the agency head determines that inclusion of such expenses would undermine national security, international diplomacy, health and safety inspections, law enforcement, or site visits required for oversight or investigatory purposes. (3) REPORT
+TO CONGRESS.—In
+
+each of fiscal
+
+years 2014 through 2018, the head of each agency shall submit to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report containing— (A) the justification for any expenses excluded (under paragraph (2)) from the limitation under paragraph (1); and (B) the positive or negative impacts, if any, of the limitation under paragraph (1) on
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00030 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+31 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 the agency’s mission, cost-effectiveness, efficiency, and ability to perform core functions. (4) IDENTIFICATION
+OF TRAVEL EXPENSES.—
+
+(A) RESPONSIBILITIES.—Not later than January 1, 2014, and after consultation with the Administrator of General Services and the Director of the Administrative Office of the United States Courts, the Director of the Office of Management and Budget shall establish guidelines for the determination of what expenses constitute travel expenses for purposes of this subsection. The guidelines shall identify specific expenses, and classes of expenses, that are to be treated as travel expenses. (B) EXEMPTION
+FOR MILITARY TRAVEL.—
+
+The guidelines required under subparagraph (A) shall exclude military travel expenses in determining what expenses constitute travel expenses. Military travel expenses shall include travel expenses involving military combat, the training or deployment of uniformed military personnel, and such other travel expenses as determined by the Director of the Office of Management and Budget, in consultation with the Administrator of General Services and the Di-
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00031 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+
+F:\SLC\SUS\H2061_SUS.XML
+
+32 1 2 rector of the Administrative Office of the United States Courts.
+
+VerDate 0ct 09 2002
+
+f:\VHLC\111513\111513.084.xml November 15, 2013 (12:21 p.m.)
+12:21 Nov 15, 2013
+
+(564517|1)
+PO 00000 Frm 00032 Fmt 6652 Sfmt 6201 C:\DOCUME~1\SLCHRISS\APPLIC~1\SOFTQUAD\XMETAL\5.5\GEN\C\H2061_~1.XML
+
+Jkt 000000
+
+HO
+

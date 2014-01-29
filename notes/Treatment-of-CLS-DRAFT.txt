@@ -1,0 +1,167 @@
+
+Using Computational Methods to Research and Innovate: 
+
+1. Understanding Law 
+
+ - Relevance: 
+* Vision: Applying computational social science methods to current substantive legal understanding and expression of general bodies of law and jurisprudence can enable genuine comprehension of the law as it is and enable better decision on needed amendments and highest value use of law.
+* Difference: Currently, it is very all but impossible to discover, access or analyze the law due to prevalence of non-electronic or electronic but non-interoperable formats, storage and systems and both statements and predictions about bodies of law are based largely upon predisposition and supposition. 
+ 
+- Resources: 
+* Data-Sets: US Code in XML structure and Mass General Laws in JSON structure.  
+* ETLAV: ETL with Python (Arek) and Java (Jacopo) into mongoDB (PublicEnterprise) for analysis and visualizations using (Arek?  Jacopo?) and Tableau (Ray).   
+
+
+- Results: 
+* Artifacts: Network maps and other visualizations of large bodies of law, threads of legal cases over time. 
+* Value: 
+
+2. Making Law 
+
+- Relevance: 
+
+* Vision: Computational Legal Science sound methods for data-driven policy making, better transparency vis the legislative process and enable truly actional law in data-analytics ready forms, as a service. 
+* Difference: Currently, law makers at federal, state and local levels have haphazard access to information upon which to determine what law to create and the resulting law is published in forms that are inaccessible for data science.  
+
+
+- Resources: 
+* Data-Sets:
+* ETLAV: 
+
+- Results: 
+* Artifacts:
+* Value:
+
+- Result: Demonstrate rule making automation to construct public law (City of Boston Executive Order) and publish in API accessible and hightly structured format (using US Code XML and MODIS/PublicEnterprise API).  
+
+3. Enforcing Law 
+
+- Relevance:
+* Vision:
+* Difference: 
+
+- Resources: 
+* Data-Sets:
+* ETLAV: 
+
+- Results: 
+* Artifacts:
+* Value:
+
+4. Practicing Law 
+
+- Relevance:
+* Vision:
+* Difference: 
+
+- Resources: 
+* Data-Sets:
+* ETLAV: 
+
+- Results: 
+* Artifacts:
+* Value:
+
+5. Learning Law:
+
+- Relevance:
+* Vision:
+* Difference: 
+
+- Resources: 
+* Data-Sets:
+* ETLAV: 
+
+- Results: 
+* Artifacts:
+* Value:
+
+6. Using Law:
+
+- Relevance:
+* Vision:
+* Difference: 
+
+- Resources: 
+* Data-Sets:
+* ETLAV: 
+
+- Results: 
+* Artifacts:
+* Value:
+
+NOTES:
+ In my mind I keep coming back to metadata as absolutely fundamental, so I guess I would either mention that, or else have a statement on why this is computational.
+ Sent at 7:28 PM on Wednesday
+ Ray:  There are other things that are starting to make the law computational, so I don't know if you want to have a section on that.  I think a statistical analysis of the right data would yield valuable insights.  Not just network diagrams, but drawing out subtle associations and patterns and insights.
+ me:  for example?
+(ie what might that section be titled and what sort of thing would it describe?)
+ Sent at 7:32 PM on Wednesday
+ Ray:  Have you seen that TED talk by David McCandless (not sure if that last name is right) where he does the graph showing the frequency and intensity of media coverage/stories about public health dangers (most of which do not come to pass)?  
+It showed some really interesting seasonal patterns, as the bird flu stories came every year at flu time.
+After 9/11, there were no such stories for an unusually long time.  Six months or something.  All the bandwidth for alarming stories was taken up by the attack and the start of the Afghan campaign. 
+It was a textual analysis, a metadata analysis, and a visualization.
+ Sent at 7:36 PM on Wednesday
+ Ray:  I think it would be cool to do a textual analysis, a metadata analysis, and a viz relating to the US Code.  That would be a project that would take 6 months, but it would be worth the effort (potentially).
+From Ray:  I'm just rambling and I think what you wrote holds together, so just put it anywhere it strikes you, but I was using that as an example of #1.  The Supreme Court prediction algorithm started out as a Supreme Court description algorithm and they just turned it around.  I think there are lots of ways to understand the law and the lawmaking process better using data.  That non-profit devoted to state court statistics has an amazing site.  
+Very nice!
+I would throw in a statement about randomized trials in the law, which can be groundbreaking.
+__________________________
+
+
+    _______________________________________________
+    |  Dazza Greenwood, JD
+    |  Lecturer, MIT Media Lab (Research)
+    |  President, CIVICS.com (Consultancy)
+    |  llinkedin.com/in/dazzagreenwood
+    |  twitter.com/dazzagreenwood
+    |  http://ecitizen.mit.edu/dazza 
+    |   One Broadway St, 14th Floor
+    |   Cambridge, MA 02142      
+    |  1-617-500-3644 & dazza@civics.com 
+
+------ NOTES ------
+
+Hi Sandy,
+
+I hope you've had some good break time!  Just following up on the idea to refine "computational legal science" as a more definite sub-field. 
+
+The concept is to: 
+
+1) Understanding Law Through Computational Methods 
+
+Being able to have a view of the wide range of jurisprudence for a nation or region and Understanding Bodies of Law 
+
+collect a number of good examples of visualizations that demonstrate the potential for legal data-sets to be analyzed using computational science (eg  
+
+2. Making Law 
+
+Making  Amending and Publishing Law using comp methods
+
+DATA Act, etc... 
+
+3. Enforcing Law 
+
+Judicial, magisterial... (FISA)
+
+arbitration, etc..
+
+automated commercial networks, systems, exchanges, etc...
+
+4. Practicing Law Through Computational Methods 
+
+use prototypes of "living consent" and "IAuth" to demonstrate the potential of legal automation and 
+
+5. Using Law
+
+How to apply decision support, work with predictive analytics, etc... 
+
+Markets, Sectors, 
+Industries, Enterprises, Teams
+Systems, Transactions, Services, Records, etc
+Individual People, Families and Communities 
+
+(Yelp and LIVES inspectional data, etc) 
+
+
+----

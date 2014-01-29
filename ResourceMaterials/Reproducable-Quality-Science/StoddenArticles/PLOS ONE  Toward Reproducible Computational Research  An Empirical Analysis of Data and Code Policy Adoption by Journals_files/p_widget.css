@@ -1,0 +1,1242 @@
+.figshare_widget{
+    line-height: 18px;
+    vertical-align: baseline;
+    float: left;
+    clear: both;
+    width: 100%;
+    margin-bottom: 21px;
+}
+.figshare_widget a, .figshare_widget a:hover{
+    text-decoration: none;
+}
+.figshare_widget{
+    position: relative;
+}
+.figshare_widget .fw-wrap{
+    float: left;
+    clear: both;
+    width: 548px;
+    background-color: #efefef;
+    padding: 0 1px;
+}
+.figshare_widget .fw-title-bar{
+    float: left;
+    clear: both;
+    color: #333;
+    padding: 8px 14px 7px 14px;
+}
+.figshare_widget .fw-content{
+    float: left;
+    clear: both;
+    background-color: #fff;
+    width: 100%;
+    position: relative;
+    height: 450px;
+}
+    .figshare_widget .fw-embed{
+        width: 100%;
+        height: 100%;
+        position: relative;
+    }
+        .figshare_widget .fw-embed .loadmask{
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            background-color: #fff;
+        }
+        .figshare_widget .fw-embed .viewer_container,.figshare_widget .fw-embed .txt_viewer, .figshare_widget .fw-embed .image, .figshare_widget .fw-embed .doc{
+            height: 100%;
+            width: 100%;
+            float: left;
+        }
+        .figshare_widget .fw-embed .image{
+            background-color: #000;
+        }
+        .figshare_widget .fw-embed .image img{
+            border: 0 none;
+            outline: 0 none;
+        }
+        .figshare_widget object,
+        .figshare_widget iframe{
+            height:100%;
+        }
+        #figshare_enlarge object,
+        #figshare_enlarge iframe{
+            height:100%;
+        }
+.figshare_widget .fw-cta-bar{
+    float: left;
+    clear: both;
+    height: 59px;
+    color: #999;
+    display: block;
+    position: relative;
+    width: 100%;
+    *height: 59px;
+}
+    .figshare_widget .fw-cta-logo{
+        float: left;
+        display: block;
+        color: #999;
+        margin-left: 13px;
+        margin-top: 15px;
+        text-decoration: none;
+        z-index: 100;
+        position: relative;
+    }
+        .figshare_widget .fw-cta-logo strong{
+        }
+        .figshare_widget .fw-external{
+            background-image: url('/static/img/publishers/plos-widget.png');
+            background-position: -118px -58px;
+            width: 9px;
+            height: 9px;
+            float: left;
+            margin-top: 12px;
+            margin-left: 7px;
+            display: none;
+        }
+
+        .figshare_widget .fw-cta-logo span{
+            float: left;
+            margin-top: 7px;
+            margin-left: 5px;
+        }
+        .figshare_widget .fw-cta-logo .fw-figshare-logo{
+            background-image: url('/static/img/publishers/plos-widget.png');
+            background-position: 1px -34px;
+            /*background-position: 0 0px;*/
+            width: 32px;
+            height: 32px;
+            display: inline-block;
+            float: left;
+        }
+    .figshare_widget .fw-nav-wrap{
+        width: 100%;
+        list-style: none;
+        float: left;
+        margin: 0;
+        padding: 0;
+        display: block;
+        text-align: center;
+        position: absolute;
+        left: -23px;
+        top: 0;
+        margin-top: 18px;
+        z-index: 99;
+    }
+        .figshare_widget .fw-cta-nav{
+            padding: 0;
+            margin: 0 auto;
+            *width: 150px;
+            display: inline-block;
+        }
+        .figshare_widget .fw-cta-nav li{
+            display: block;
+            float: left;
+            list-style: none;
+        }
+    .figshare_widget .fw-cta-options{
+        margin: 0;
+        padding: 0;
+        float: right;
+        margin-right: 13px;
+        margin-top: 12px;
+        position: relative;
+        z-index: 100;
+    }
+        .fw-cta-enlarge{
+            display: block;
+            float: left;
+            background-image: url('/static/img/publishers/plos-widget.png');
+            width: 40px;
+            height: 36px;
+            background-position: -67px -1px;
+            background-color: #303030;
+            border-radius: 3px;
+        }
+        .figshare_widget .fw-download-options{
+            position: absolute;
+            top: 23px;
+            right: 0;
+            list-style: none;
+            padding: 12px 20px 9px 16px;
+            position: absolute;
+            background-color: #fff;
+            white-space: nowrap;
+            border-radius: 3px;
+            margin: 20px 0 0 0;
+            -moz-box-shadow: 0px 1px 7px #bbb;
+            -webkit-box-shadow: 0px 1px 7px #bbb;
+            box-shadow: 0px 1px 7px #bbb;
+            display: none;
+        }
+            .figshare_widget .fw-download-options li{
+                line-height: 24px;
+            }
+            .figshare_widget .fw-download-options li a{
+                display: block;
+                font-weight: bold;
+                color: #3c63af;
+                text-decoration: none;
+            }
+            .figshare_widget .fw-download-options li a span{
+                font-size: 11px;
+                position: relative;
+            }
+        .fw-cta-download{
+            display: block;
+            float: left;
+            margin-left: 5px;
+            position: relative;
+        }
+        .fw-download-arrow{
+            background-image: url('/static/img/publishers/plos-widget.png');
+            width: 30px;
+            height: 10px;
+            background-position: -162px -165px;
+            position: absolute;
+            top: -10px;
+            right: 36px;
+        }
+            a.fw-download-trigger, a.fw-download-trigger-one-file {
+                background-color: #891fb0;
+                color: #fff;
+                text-decoration: none;
+                font-size: 15px;
+                line-height: 12px;
+                padding: 12px 12px;
+                font-weight: bold;
+                float: left;
+                border-radius: 3px;
+            }
+            .fw-cta-download .fw-download-trigger:hover,.fw-cta-download.active .fw-download-trigger{
+                background-color: #3C63AF;
+            }
+            .fw-cta-download .fw-download-trigger-one-file:hover {
+                 background-color: #3C63AF;
+            }
+            .fw-cta-download.active .fw-download-options{
+                display: block;
+            }
+.figshare_widget li.fw-count{
+    color: #666;
+    font-weight: bold;
+    margin-right: 7px;
+    margin-top: 3px;
+}
+.fw-prev{
+    background-image: url('/static/img/publishers/plos-widget.png');
+    width: 26px;
+    height: 24px;
+    background-position: -118px -2px;
+    background-color: #303030;
+    float: left;
+    border-radius: 3px;
+    margin-right: 3px;
+}
+.fw-next{
+    background-image: url('/static/img/publishers/plos-widget.png');
+    width: 26px;
+    height: 24px;
+    background-position: -145px -2px;
+    background-color: #303030;
+    float: left;
+    border-radius: 3px;
+}
+.fw-prev.disabled{background-position: -118px -27px; cursor:default;}
+.fw-next.disabled{background-position: -145px -27px; cursor:default;}
+.fw-prev.disabled:hover{
+    background-color: #303030;
+}
+.fw-next.disabled:hover{
+    background-color: #303030;
+}
+.fw-list{
+    background-image: url('/static/img/publishers/plos-widget.png');
+    width: 26px;
+    height: 24px;
+    background-position: -172px -2px;
+    background-color: #303030;
+    float: left;
+    border-radius: 3px;
+    margin-left: 7px;
+}
+.fwc-current{
+    width: 17px;
+    text-align: right;
+    display: inline-block;
+}
+.fwc-max{
+    width: 17px;
+    text-align: left;
+    display: inline-block;
+}
+
+
+.fw-cta-logo:hover{
+    color: #556471;
+}
+.fw-cta-logo:hover .fw-figshare-logo{
+    background-position: 0 0;
+}
+.fw-cta-logo:hover .fw-external{
+    display: block;
+}
+.fw-cta-nav li a:hover, .fw-cta-enlarge:hover, .fw-list.active{
+    background-color: #3C63AF;
+}
+
+.fw-fileset-overlay{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 99;
+}
+.figshare_widget .fw-caption{
+    float: left;
+    clear: both;
+    font-size: 13px;
+    line-height: 18px;
+    border-top: 1px solid #ddd;
+    width: 100%;
+    color: #333;
+}
+    .figshare_widget .fw-cap-content{
+        padding: 10px 13px;
+    }
+    .figshare_widget .fw-cap-content p{
+        margin:0;
+    }
+
+/* FILESET */
+.fw-fileset-overlay{
+    display: none;
+}
+.fw-curtain{
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+    opacity: 0.85;
+    filter: alpha(opacity=85);
+    position: absolute;
+}
+.fw-push{
+    height: 20%;
+    position: relative;
+    width: 100%;
+}
+.fw-fileset-wrap{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.figshare_widget .fw-fileset{
+    float: left;
+    margin: 0;
+    padding: 0;
+    left: -1px;
+    width: 100%;
+    list-style: none;
+    border:1px solid #ddd;
+    border-bottom: 0 none;
+    height: 100%;
+    position: relative;
+    overflow-y: auto;
+    background-color: #fff;
+}
+    .fw-fileset .jspPane{
+        /*width: 545px !important;*/
+    }
+.fw-fileset li.fw-file{
+    background-image: url('/static/img/publishers/pub-widget-x.png');
+    background-repeat: repeat-x;
+    background-color: #fff;
+    height: 28px;
+    margin-bottom: 0;
+    padding-top: 12px;
+    border-bottom: 1px solid #ddd;
+    float: left;
+    clear: both;
+    width: 100%;
+}
+    .fw-filename{
+        margin-left: 6px;
+        display: inline;
+        float: left;
+    }
+.figshare_widget ul.fw-fileset-options{
+    margin:0;
+    padding: 0;
+    float: right;
+    display: inline;
+    margin-right: 10px;
+}
+.fw-fileset-options li{
+    list-style: none;
+    float: left;
+    margin-left: 7px;
+}
+    .fw-fileset-options li a{
+        color: #3C63AF;
+        text-decoration: none;
+    }
+    .fw-fileset-space{
+        color: #ddd;
+    }
+    .fw-file-icon{
+        background-image: url('/static/img/publishers/plos-widget.png');
+        width: 14px;
+        height: 17px;
+        background-position: -155px -52px;
+        float: left;
+        display: inline;
+        margin-left: 21px;
+    }
+    .fw-fileset-arrow{
+        background-image: url('/static/img/publishers/plos-widget.png');
+        width: 17px;
+        height: 10px;
+        background-position: -162px -140px;
+        position: absolute;
+        left: 50%;
+        margin-left: 25px;
+        *margin-left: 20px;
+        bottom: -10px;
+        margin-bottom: 0;
+    }
+    .fw-fileset-shadow{
+        background-image: url('/static/img/publishers/pub-widget-x.png');
+        width: 100%;
+        height: 11px;
+        background-position: 0px -40px;
+        position: absolute;
+        margin-top: -11px;
+        top: 0;
+        left: 0;
+    }
+
+.figshare_widget .fig_enlarge_but{
+    display: none;
+}
+.fig_enlarge_but .prev_lnk{
+    color: #303030 !important;
+}
+.fig_enlarge_but span{
+    margin-top: -55px !important;
+}
+.fw-cap-content a{
+    color: #3C63AF;
+}
+
+/*Typography*/
+
+#figshare_enlarge,
+div[id^="fig_article_"]{
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+}
+#figshare_enlarge p{
+    margin:0;
+    padding: 0;
+}
+#figshare_enlarge a,
+div[id^="fig_article_"] a,
+#figshare_enlarge a:hover,
+div[id^="fig_article_"] a:hover{
+    text-decoration: none;
+}
+/*loadmask*/
+
+#figshare_enlarge  .loadmask {
+    border: 0px;
+    float: none;
+    z-index: 20;
+    position: absolute;
+    -moz-opacity: 0.85;
+    opacity: 0.85;
+    filter: alpha(opacity=85);
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+    zoom: 1;
+}
+#figshare_enlarge div.loadmask-msg,
+.figshare_widget div.loadmask-msg {
+    z-index: 40;
+    position: absolute;
+    float: none;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding:2px;
+}
+div.figshare_widget .loadmask-msg, #figshare_enlarge  .loadmask-msg  {
+    float: none;
+    padding:5px 10px 5px 5px;
+    background: #fbfbfb url('http://wl.figshare.com/static/img/loader.gif') no-repeat 5px 5px;
+    line-height: 16px;
+    background-position:18px 14px;
+    color:#222;
+    font:normal 11px "Arial", helvetica, sans-serif;
+    cursor:wait;
+    border-radius: 3px;
+}
+#figshare_enlarge  .loadmask-msg  {
+    top:50% !important;
+    left:50% !important;
+    margin-top: -25px !important;
+    margin-left: -50px !important;
+}
+
+div.figshare_widget .loadmask-msg div, #figshare_enlarge  .loadmask-msg div {
+    padding:14px 10px 14px 40px;
+}
+.figshare_widget  .masked-relative {
+    float: none;
+    position: relative !important;
+}
+.figshare_widget .masked-hidden {
+    visibility: hidden !important;
+    float: none;
+}
+
+#figshare_enlarge{
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 99999;
+    position: fixed;
+}
+    #figshare_enlarge .fw-overlay-curtain{
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background-color: #000;
+        opacity: 0.85;
+        filter: alpha(opacity=85);
+        z-index: 998;
+    }
+    .fw-close-enlarge{
+        width: 25px;
+        height: 25px;
+        position: absolute;
+        top: 7px;
+        right: 7px;
+        background-image: url('/static/img/publishers/plos-widget.png');
+        background-position: -180px -50px;
+        background-color: #891FB0;
+        border-radius: 2px;
+        box-shadow: 0px 2px 4px #0a0a0a;
+        z-index: 999;
+    }
+    .fw-close-enlarge span{
+        position: absolute;
+        left: -207px;
+        width: 200px;
+        text-align: right;
+        color: #999;
+        font-size: 11px;
+        font-weight: bold;
+        top: 3px;
+    }
+    .fw-preview-wrap{
+        float: left;
+        position: relative;
+    }
+    #figshare_enlarge .fw-list-wrap{
+        float: left;
+        width: 20%;
+        max-width: 280px;
+        background-color: #000;
+        overflow:auto;
+        float: left;
+        height: 100%;
+        position: relative;
+        z-index: 999;
+    }
+    #figshare_enlarge .fw-enlarge-list{
+        margin: 0;
+        padding: 0;
+    }
+    #figshare_enlarge .fw-enlarge-list li{
+        float: left;
+        clear: both;
+        width: 100%;
+        border-bottom: 1px solid #464646;
+        font-size: 12px;
+        list-style: none;
+        height: 84px;
+    }
+        #figshare_enlarge .fw-enlarge-list li a{
+            color: #fff;
+            display: block;
+            float: left;
+            width: 100%;
+            height: 100%;
+        }
+            #figshare_enlarge .fw-el-thumb{
+                float: left;
+                margin: 7px;
+                width: 67px;
+                max-height: 67px;
+                overflow: hidden;
+                border: 1px solid #b1b1b1;
+                background-color: #fff;
+            }
+                    #figshare_enlarge .fw-el-thumb img{
+                        width: 100%;
+                        height: 67px;
+                        float: left;
+                    }
+            #figshare_enlarge .fw-el-details{
+                float: left;
+                margin-top: 11px;
+            }
+                .fw-eld-filesize{
+                    color: #999;
+                    clear: both;
+                    display: block;
+                    margin-top: 4px;
+                }
+                .no-description .fw-eld-icon{
+                    display: none;
+                }
+                .fw-eld-icon{
+                    background-image: url('/static/img/publishers/plos-widget.png');
+                    background-position: -155px -78px;
+                    width: 14px;
+                    height: 14px;
+                    display: block;
+                    position: relative;
+                }
+        .fw-ep-embed .viewer_container_pop{
+            width: 100%;
+            height: 100%;
+        }
+        #figshare_enlarge .fw-enlarge-list li.active{
+            background-color: #252525;
+        }
+    #figshare_enlarge .fw-enlarge-preview{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        z-index: 999;
+    }
+    .fw-ep-details{
+        background-color: #ebeae9;
+        float: left;
+        width: 100%;
+        clear: both;
+        text-align: center;
+        padding-top: 11px;
+        height: 27px;
+        font-size: 14px;
+        line-height: 18px;
+        margin-top: 1px;
+    }
+        a.fw-epd-download{
+            color: #fff;
+            background-color: #891fb0;
+            padding: 3px 6px 4px 8px;
+            margin-top: -7px;
+            height: 21px;
+            border-radius: 3px;
+            margin-left: 7px;0
+            text-decoration: none;
+        }
+            .fw-epd-filesize{
+                font-size: 11px;
+            }
+    .fw-ep-caption{
+        background-color: #ebeae9;
+        float: left;
+        clear: both;
+        width: 100%;
+        margin-top: 1px;
+        position: relative;
+        padding-bottom: 23px;
+        max-height: 80%;
+    }
+        .fw-epc-content-wrap{
+            padding: 14px 0px 0 14px;
+            color: #464646;
+            float: left;
+        }
+                .fw-more-description{
+                    position: absolute;
+                    left: 0;
+                    width: 100%;
+                    padding-top: 20px;
+                    height: 21px;
+                    text-align: center;
+                    bottom: 0px;
+                    background-image: url('/static/img/publishers/pub-widget-x.png');
+                    background-position: 0 -171px;
+                }
+                .fw-more-description a{
+                    padding-left: 22px;
+                    position: relative;
+                }
+                .fw-more-description a span{
+                    background-image: url('/static/img/publishers/plos-widget.png');
+                    background-position: -190px -89px;
+                    width: 9px;
+                    height: 5px;
+                    position: absolute;
+                    left: 0;
+                    top:5px;
+                }
+        .fw-ep-cap-shadow{
+            background-image: url('/static/img/publishers/pub-widget-x.png');
+            background-position: 0 -54px;
+            height: 19px;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+        }
+        .fp-cap-minimize{
+            position: absolute;
+            padding-top: 20px;
+            height: 28px;
+            top:-38px;
+            left: 50%;
+            margin-left: -88px;
+            color: #3c63af;
+            font-size: 14px;
+            background-image: url('/static/img/publishers/plos-widget.png');
+            background-position: -2px -195px;
+            z-index: 999;
+            padding-left: 57px;
+            width: 140px;
+            display: block;
+            border-top-left-radius: 3px;
+            border-top-right-radius: 3px;
+            display: none;
+        }
+
+    .fp-cap-minimize span{
+        width: 9px;
+        height: 5px;
+        display: block;
+        position: absolute;
+        left: 32px;
+        top: 26px;
+        background-position: -190px -80px;
+        background-image: url('/static/img/publishers/plos-widget.png');
+    }
+    .fw-ep-embed-wrap{
+        float: left;
+        width: 100%;
+        position: relative;
+    }
+    .fw-ep-embed{
+        float: left;
+        width: 100%;
+        background-color: #fff;
+    }
+    .fw-ep-left,.fw-ep-right{
+        position: absolute;
+        top:50%;
+        margin-top: -31px;
+        padding: 20px;
+    }
+    .fw-ep-left span, .fw-ep-right span{
+        width: 27px;
+        height: 43px;
+        float: left;
+        display: block;
+        background-image: url('/static/img/publishers/plos-widget.png');
+    }
+    .fw-ep-left{
+        left: -68px;
+    }
+    .fw-ep-right{
+        right: -68px;
+    }
+    .fw-ep-left span{
+        background-position: -4px -79px;
+    }
+    .fw-ep-left.disabled span{
+        background-position: -37px -79px;
+    }
+    .fw-ep-right span{
+        background-position: -79px -79px;
+    }
+    .fw-ep-right.disabled span{
+        background-position: -110px -79px;
+    }
+    .fw-ep-left:hover span{
+        background-position: -95px -134px;
+    }
+    .fw-ep-left.disabled:hover span{
+        background-position: -37px -79px;
+    }
+    .fw-ep-right:hover span{
+        background-position: -125px -134px;
+    }
+    .fw-ep-right.disabled:hover span{
+        background-position: -110px -79px;
+    }
+    .fw-ep-left.disabled, .fw-ep-right.disabled{
+        cursor: default;
+    }
+
+
+
+/*jScrollPAne*/
+#figshare_enlarge .jspContainer:focus,
+#figshare_enlarge .jspScrollable,
+.figshare_widget .jspContainer:focus,
+.figshare_widget .jspScrollable{
+    outline:0 none;
+}
+.figshare_widget .jspContainer,
+#figshare_enlarge .jspContainer{
+    overflow: hidden;
+    position: relative;
+}
+
+.figshare_widget .jspPane,
+#figshare_enlarge .jspPane{
+    position: absolute;
+}
+
+.figshare_widget .jspVerticalBar,
+#figshare_enlarge .jspVerticalBar
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 20px;
+    height: 100%;
+    background-image:url('/static/jmvc/main_app/resources/js/jscrollbar/image/drag_bg.jpg');
+    background-repeat:repeat-y;
+}
+
+.figshare_widget .jspHorizontalBar,
+#figshare_enlarge .jspHorizontalBar{
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+    width: 100%;
+    height: 20px;
+    background-image:url('/static/jmvc/main_app/resources/js/jscrollbar/image/drag_bg_h.jpg');
+    background-repeat:repeat-x;
+}
+
+.figshare_widget .jspVerticalBar *,
+.figshare_widget .jspHorizontalBar *,
+#figshare_enlarge .jspVerticalBar *,
+#figshare_enlarge .jspHorizontalBar *{
+    margin: 0;
+    padding: 0;
+}
+
+.figshare_widget .jspCap,
+#figshare_enlarge .jspCap{
+    display: none;
+}
+
+.figshare_widget .jspHorizontalBar .jspCap,
+#figshare_enlarge .jspHorizontalBar .jspCap{
+    float: left;
+}
+
+.figshare_widget .jspTrack,
+#figshare_enlarge .jspTrack{
+    position: relative;
+}
+
+.figshare_widget .jspDrag,
+#figshare_enlarge .jspDrag{
+    background: #bbd;
+    position: relative;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+}
+
+.figshare_widget .jspHorizontalBar .jspTrack,
+.figshare_widget .jspHorizontalBar .jspDrag,
+#figshare_enlarge .jspHorizontalBar .jspTrack,
+#figshare_enlarge .jspHorizontalBar .jspDrag{
+    float: left;
+    height: 100%;
+}
+
+.figshare_widget .jspArrow,
+#figshare_enlarge .jspArrow{
+    text-indent: -20000px;
+    display: block;
+    cursor: pointer;
+}
+.figshare_widget .jspVerticalBar .jspArrowUp,
+#figshare_enlarge .jspVerticalBar .jspArrowUp {
+    background-image: url('/static/img/publishers/plos-widget.png');
+    background-position:-42px -128px;
+    background-repeat:no-repeat;
+}
+.figshare_widget .jspVerticalBar .jspArrowDown,
+#figshare_enlarge .jspVerticalBar .jspArrowDown {
+    background-image: url('/static/img/publishers/plos-widget.png');
+    background-position:0 -128px;
+    background-repeat:no-repeat;
+}
+
+.figshare_widget .jspHorizontalBar .jspArrowLeft,
+#figshare_enlarge .jspHorizontalBar .jspArrowLeft {
+    background-image: url('/static/img/publishers/plos-widget.png');
+    background-position:0 -145px ;
+    background-repeat:no-repeat;
+}
+.figshare_widget .jspHorizontalBar .jspArrowRight,
+#figshare_enlarge .jspHorizontalBar .jspArrowRight {
+    background-image: url('/static/img/publishers/plos-widget.png');
+    background-position:-34px -145px;
+    background-repeat:no-repeat;
+}
+
+.figshare_widget .jspArrowUp.jspDisabled,
+#figshare_enlarge .jspArrowUp.jspDisabled{
+    background-image: url('/static/img/publishers/plos-widget.png');
+    background-position:-63px -128px;
+    background-repeat:no-repeat;
+}
+.figshare_widget .jspArrowDown.jspDisabled,
+#figshare_enlarge .jspArrowDown.jspDisabled{
+    background-image: url('/static/img/publishers/plos-widget.png');
+    background-position:-21px -128px;
+    background-repeat:no-repeat;
+}
+
+.figshare_widget .jspArrowLeft.jspDisabled,
+#figshare_enlarge .jspArrowLeft.jspDisabled{
+    background-image: url('/static/img/publishers/plos-widget.png');
+    background-position:-17px -145px;
+    background-repeat:no-repeat;
+}
+.figshare_widget .jspArrowRight.jspDisabled,
+#figshare_enlarge .jspArrowRight.jspDisabled{
+    background-image: url('/static/img/publishers/plos-widget.png');
+    background-position:-51px -145px;
+    background-repeat:no-repeat;
+}
+
+.figshare_widget .jspVerticalBar .jspArrow,
+#figshare_enlarge .jspVerticalBar .jspArrow
+{
+    height: 16px;
+    width: 100%;
+}
+
+.figshare_widget .jspHorizontalBar .jspArrow,
+#figshare_enlarge .jspHorizontalBar .jspArrow
+{
+    width: 16px;
+    float: left;
+    height: 100%;
+}
+
+.figshare_widget .jspVerticalBar .jspArrow:focus,
+#figshare_enlarge .jspVerticalBar .jspArrow:focus
+{
+    outline: none;
+}
+
+.figshare_widget .jspCorner,
+#figshare_enlarge .jspCorner
+{
+    background: #ddd;
+    float: left;
+    height: 100%;
+}
+.figshare_widget .jspVerticalBar .jspDrag,
+#figshare_enlarge .jspVerticalBar .jspDrag
+{
+    background-color: rgb(194, 194, 194);
+    position: relative;
+    top: 0px;
+    margin-left: 4px;
+    margin-right: 4px;
+    display: block;
+    cursor: pointer;
+    border-radius:5px;
+    -moz-border-radius:5px;
+    width:12px;
+    background-image:url('/static/jmvc/main_app/resources/js/jscrollbar/image/track_bg.jpg');
+    background-position:center center;
+    background-repeat:no-repeat;
+}
+.figshare_widget .jspHorizontalBar .jspDrag,
+#figshare_enlarge .jspHorizontalBar .jspDrag
+{
+    background-color: rgb(194, 194, 194);
+    position: relative;
+    top: 4px;
+    left: 0px;
+    cursor: pointer;
+    height:12px;
+    border-radius:5px;
+    -moz-border-radius:5px;
+    background-image:url('/static/jmvc/main_app/resources/js/jscrollbar/image/track_bg_h.jpg');
+    background-position:center center;
+    background-repeat:no-repeat;
+}
+.figshare_widget .jspVerticalBar .jspTrack,
+#figshare_enlarge .jspVerticalBar .jspTrack
+{
+    width:20px;
+}
+.figshare_widget .jspHorizontalBar .jspTrack,
+#figshare_enlarge .jspHorizontalBar .jspTrack
+{
+    height:20px;
+}
+
+
+
+/* Yuk! CSS Hack for IE6 3 pixel bug :( */
+* html .figshare_widget .jspCorner
+{
+    margin: 0 -3px 0 0;
+}
+
+/*jScrollPAne dark*/
+#figshare_enlarge .black .jspVerticalBar
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 20px;
+    height: 100%;
+    background-image:url('/static/img/publishers/scroll-y-bg.png');
+    background-repeat:repeat-y;
+}
+#figshare_enlarge .black .jspVerticalBar .jspDrag
+{
+    background-color: #3e3e3e;
+    position: relative;
+    top: 0px;
+    margin-left: 4px;
+    margin-right: 4px;
+    display: block;
+    cursor: pointer;
+    border-radius:5px;
+    -moz-border-radius:5px;
+    width:12px;
+    background-image:url('/static/img/publishers/scroll-track.png');
+    background-position:center center;
+    background-repeat:no-repeat;
+}
+.fw-ep-caption-wrap {
+    float: left;
+    clear: both;
+    width: 100%;
+}
+.fw-epc-content{
+    max-height: 59px;
+    overflow: hidden;
+    font-size:13px;
+    padding-right: 14px;
+}
+a.fw-epc-more{
+    color: #3C63AF;
+    font-size:13px;
+    text-decoration: none;
+}
+.fw-ep-embed img{
+    border: 0  none;
+}
+p.fw-cap-title{
+    font-weight:bold;
+}
+.fw-epc-desc-short p {
+    display: inline;
+}
+
+
+
+/*None previewabble case*/
+
+.figshare_widget .previewable-none .fw-title-bar{
+    display: none;
+}
+.figshare_widget .previewable-none .fw-nav-wrap{
+    display: none;
+}
+.figshare_widget .previewable-none .fw-embed{
+    display: none;
+}
+.figshare_widget .previewable-none .fw-fileset-overlay{
+    display: block;
+    position: relative;
+}
+.figshare_widget .previewable-none  .fw-curtain{
+    display: none;
+}
+.figshare_widget .previewable-none  .fw-fileset-shadow{
+    display: none;
+}
+.figshare_widget .previewable-none  .fw-fileset-arrow{
+    display: none;
+}
+.figshare_widget .previewable-none .fw-fileset-wrap{
+    position: relative;
+    height: auto;
+}
+.figshare_widget .previewable-none .fw-content{
+    height: auto;
+}
+.figshare_widget .previewable-none .fw-fileset{
+    position: relative;
+}
+.figshare_widget .previewable-none .prev_lnk{
+    display: none;
+}
+.figshare_widget .previewable-none .fw-fileset-space{
+    display: none;
+}
+.figshare_widget .previewable-none .fw-cta-enlarge{
+    display: none;
+}
+/*non previewable case*/
+.viewer_container.no-preview{
+    width: 100%;
+    height: 100%;
+    background-color: #f5f5f5;
+    background-image: url('/static/img/publishers/not-prev-small.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+    .np-wrap{
+        position: absolute;
+        top: 50%;
+        margin-top: -30px;
+        width: 100%;
+        text-align: center;
+    }
+        .np-info{
+            width: 100%;
+            text-align: center;
+            font-size: 30px;
+            color: #999;
+            background-color: #f5f5f5;
+            *line-height: 32px;
+        }
+        .np-wrap span{
+            color: #999;
+            margin-top: 21px;
+            display: block;
+            background-color: #f5f5f5;
+        }
+        .np-wrap span a{
+            color:#3C63AF;
+        }
+.viewer_container.no-preview.enlarged{
+    background-image: url('/static/img/publishers/not-prev.png');
+
+}
+
+
+/* CUSTOM SKIN TONES  (purple is default)*/
+
+/*green #16A127*/
+.green .fw-download-trigger{
+    background-color: #16A127;
+}
+.green .fw-epd-download{
+    background-color: #16A127;
+}
+.green .fw-close-enlarge{
+    background-color: #16A127;
+}
+.green .fw-download-trigger-one-file{
+    background-color: #16A127;
+}
+
+/*yellow #F8AF2D*/
+.yellow .fw-download-trigger{
+    background-color: #F8AF2D;
+    color: #333;
+}
+.yellow .fw-epd-download{
+    background-color: #F8AF2D;
+    color: #333;
+}
+.yellow .fw-close-enlarge{
+    background-color: #F8AF2D;
+}
+.yellow .fw-download-trigger:hover{
+    color:#fff;
+}
+.yellow .fw-cta-download.active .fw-download-trigger{
+    color: #fff;
+}
+.yellow .fw-download-trigger-one-file{
+    background-color: #F8AF2D;
+    color: #333;
+}
+
+
+/*Firefox*/
+@-moz-document url-prefix() {
+    .fw-embed .image-center img,
+    .fw-ep-embed .image-center img{
+        width: 100%;
+    }
+}
+/*Opera*/
+@media all and (-webkit-min-device-pixel-ratio:10000), not all and (-webkit-min-device-pixel-ratio:0) {
+
+    .fw-embed .image-center img,
+    .fw-ep-embed .image-center img{
+        width: 100%;
+    }
+}
+
+noindex:-o-prefocus, .fw-embed .image-center img {
+  width: 100%;
+}
+noindex:-o-prefocus, .fw-ep-embed .image-center img {
+  width: 100%;
+}
+/*IE*/
+.figshare_widget .fw-embed .image-center img,
+.fw-ep-embed .image-center img {
+    width: 100%\9;
+    width: 100%/IE8+9; /* IE8+9 */
+
+}
+/*custom caption styles*/
+.fw-epc-content-wrap img.equation,
+.fw-cap-content img.equation{
+    margin:1.25em auto;
+    display: block;
+}
+.fw-ep-caption-wrap a{
+    color: #3C63AF;
+}
+.fw-epc-content-wrap img,
+.fw-cap-content img{
+    vertical-align:middle;
+}
+.fw-ep-embed img{
+    display:inline!important\9;
+    margin:0!important\9;
+}
+.viewer_container_pop.image{
+    position:relative;
+    top:0;
+    left:0;
+}
