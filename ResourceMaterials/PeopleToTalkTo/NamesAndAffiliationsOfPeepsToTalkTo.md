@@ -1,4 +1,3 @@
-
 #1 Russell Cameron Thomas
 
 Talk to this dude… his reply is CRISP!: http://exploringpossibilityspace.blogspot.com/2014/01/pnas-letter-reply-you-say-potato-i-say.html
@@ -46,3 +45,31 @@ John Sheridan
 Jules Winterton,
 João Lima
 Mariya Badeva,
+
+#4. , Andrew Mowbray and Philip Chung
+
+The authors of "The meaning of “free access to legal information”: 
+A twenty year evolution" 
+http://ojs.law.cornell.edu/index.php/joal/article/view/11
+Home > Vol 1, No 1 (2013) > Greenleaf
+
+LET THEM KNOW I BLOGGED ABOUT THEM AT WONKLOG! See:
+http://www.wonklog.com/2014/01/the-meaning-of-free-access-to-legal.html
+
+Graham Greenleaf*
+, Andrew Mowbrayº
+, Philip Chungºº
+
+Professor of Law & Information Systems, University of New South Wales (UNSW), and Co-Director, AustLII ºProfessor of Law and Information Technology, University of Technology, Sydney (UTS) and Co-Director, AustLII ººSenior Lecturer in Law, University of New South Wales (UNSW), and Executive Director, AustLII
+
+#5 Nicola Lettieri, [1] Sebastiano Faro [2]
+Authors of "Computational Social Science and its Potential Impact upon Law"
+
+
+(They are also editors of a topical issue of "Rivista Informatica e diritto", the special issue on the theme of “Law and Computational Social Science” with more data on that at: http://legalinformatics.wordpress.com/2013/04/06/faro-and-lettieri-law-and-computational-social-science-special-issue-of-rivista-informatica-e-diritto )
+
+http://ejlt.org//article/view/175/267
+
+Nicola Lettieri is Researcher at ISFOL. He is adjunct Professor of Legal informatics at the University of Sannio, Benevento, and of Computational Social Sciences at the University of Salerno (Italy).
+
+Sebastiano Faro is Senior Researcher at the Institute of Legal Information Theory and Techniques (ITTIG), National Research Council (CNR), Italy.
