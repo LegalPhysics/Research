@@ -30,4 +30,4 @@ I'd like to do a text analysis on the anonymous HLR submissions, to determine if
 
 ##Next Steps
 
-Project ownership. How long will project approval take? What are handoff points?   
+Project ownership. How long will project approval take? What role for Lina, who is really invested? What are handoff points?   
