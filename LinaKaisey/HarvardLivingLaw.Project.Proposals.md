@@ -37,6 +37,6 @@ Project ownership. How long will project approval take? What role for Lina, who 
 * can you come up with some factors like “balanced”  and “moderate” on one side and “emphatic” on another side etc, and then code the submissions based on those factors. Then, do the two piles correspond to “men” and “women”?
 * length of sentences, complexity of words. Sophistication of language and aggressiveness of tone.
 * key: women were spending more time at bars because they cared about their social lives.
-* To read: Arek's paper
+* To read: Arek's paper, at http://arxiv.org/pdf/1401.7233v1.pdf
 * Getting student course selections: show clusters based on which people take which classes. Could result in course recommendations. Get historical records: see what careers people go into.
 * Oren: just use one microphone to record rather than using sociometric badges 
