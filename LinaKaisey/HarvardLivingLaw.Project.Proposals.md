@@ -39,3 +39,4 @@ Project ownership. How long will project approval take? What role for Lina, who 
 * key: women were spending more time at bars because they cared about their social lives.
 * To read: Arek's paper
 * Getting student course selections: show clusters based on which people take which classes. Could result in course recommendations. Get historical records: see what careers people go into.
+* Oren: just use one microphone to record rather than using sociometric badges 
