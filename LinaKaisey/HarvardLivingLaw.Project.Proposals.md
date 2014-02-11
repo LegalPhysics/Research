@@ -38,4 +38,4 @@ Project ownership. How long will project approval take? What role for Lina, who 
 * length of sentences, complexity of words. Sophistication of language and aggressiveness of tone.
 * key: women were spending more time at bars because they cared about their social lives.
 * To read: Arek's paper
-* Getting student course selections: show clusters based on which people take which classes
+* Getting student course selections: show clusters based on which people take which classes. Could result in course recommendations. 
