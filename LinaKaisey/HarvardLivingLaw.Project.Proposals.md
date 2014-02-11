@@ -31,3 +31,9 @@ I'd like to do a text analysis on the anonymous HLR submissions, to determine if
 ##Next Steps
 
 Project ownership. How long will project approval take? What role for Lina, who is really invested? What are handoff points?   
+
+##Feedback at Human Dynamics Lunch Group
+* HLR: split into piles based upon what “sounds feminine” and what “sounds male” – get people who are not law review, but are like law review, to split them up. 
+* can you come up with some factors like “balanced”  and “moderate” on one side and “emphatic” on another side etc, and then code the submissions based on those factors. Then, do the two piles correspond to “men” and “women”?
+* length of sentences, complexity of words. Sophistication of language and aggressiveness of tone.
+* key: women were spending more time at bars because they cared about their social lives.
