@@ -40,3 +40,9 @@ Project ownership. How long will project approval take? What role for Lina, who 
 * To read: Arek's paper, at http://arxiv.org/pdf/1401.7233v1.pdf
 * Getting student course selections: show clusters based on which people take which classes. Could result in course recommendations. Get historical records: see what careers people go into.
 * Oren: just use one microphone to record rather than using sociometric badges 
+
+
+##  Followup from Human Dynamics Lab
+* Oren spoke with Ali and learned Sandy and Ali conducted some research on MIT student enrollment in course data looking at patterns related to students in Venture classes... evidently Sandy HAS ACCESS to the underlying dataset including which course identified students took.  This is worth following up on!
+* 
+
