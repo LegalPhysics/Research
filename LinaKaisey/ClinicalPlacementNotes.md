@@ -1,4 +1,3 @@
-
 Outline of approach to clinical placement at MIT Media Lab Human Dynamics group:
 
 # What:
@@ -6,16 +5,18 @@ Outline of approach to clinical placement at MIT Media Lab Human Dynamics group:
 
 ## Computational Legal Science research and study
 
-* Product: Short and Longer Term Researh Study Candidates
+* Product: Short and Longer Term [Researh Study Candidates](https://github.com/LegalPhysics/Research/tree/master/Studies)
 
 - Bankruptcy Data-Driven Analysis Study idea, Lina/Dazza (& Warren Agin?) (link to follow)
-- HLS Reality Mining Study idea, Lina  [link](https://github.com/LegalPhysics/Research/blob/master/LinaKaisey/HarvardLivingLaw.Project.Proposals.md)  
+
+- HLS Reality Mining Study idea, Lina  [link](https://github.com/LegalPhysics/Research/blob/master/LinaKaisey/HarvardLivingLaw.Project.Proposals.md) (this should be available in the same directory as the other study candidates, at https://github.com/LegalPhysics/Research/tree/master/Studies)  
+
 - Policy Making Reality Mining study, Ray (link - tba)
+
 - Criminal Justice study idea (links to follow - short term study w/existing data and/or longer-term study based on ReEntryApp data)  
 
 * Product: Statement of The Methods and Mechanisms of Computational Legal Science (what is unique and what is same vis-a-vis more general emerging field of Computational Social Science)
 
-* 
 
 ## Policy Paper: The Legal Aspects of a Privacy Framework for Big Data 
 
