@@ -1,15 +1,23 @@
 
-
 Outline of approach to clinical placement at MIT Media Lab Human Dynamics group:
 
 # What:
 
 
-## Quick-Turn Around Computational Legal Science study
-* The Ankur and Ray thingy
+## Computational Legal Science research and study
 
+* Product: Short and Longer Term Researh Study Candidates
 
-## Policy Proposal 
+- Bankruptcy Data-Driven Analysis Study idea, Lina/Dazza (& Warren Agin?) (link to follow)
+- HLS Reality Mining Study idea, Lina  [link](https://github.com/LegalPhysics/Research/blob/master/LinaKaisey/HarvardLivingLaw.Project.Proposals.md)  
+- Policy Making Reality Mining study, Ray (link - tba)
+- Criminal Justice study idea (links to follow - short term study w/existing data and/or longer-term study based on ReEntryApp data)  
+
+* Product: Statement of The Methods and Mechanisms of Computational Legal Science (what is unique and what is same vis-a-vis more general emerging field of Computational Social Science)
+
+* 
+
+## Policy Paper: The Legal Aspects of a Privacy Framework for Big Data 
 
 * Like a policy paper (not a dense scholarly article) describing big data and the law (focus on privacy) issues/problems and proposed solutions.  
 
@@ -31,46 +39,78 @@ Human Dynamics Lab Approach: ClearButton, Personal Data Services/Trust Networks 
 
 Human Dynamics Lab Approach: Personal Data Stores in a Personal Data Ecology (see WEF papers and Sandy's work and Brian's tech stuff w/ openPDS in GitHub repo).
 
+## Outreach and Service
+
+* Convening social events with Computational Legal community 
+
+* Support with providing Google Hangout based "convening" and guidance to design phase / community building for "[ReEntryApp](http://legalhackathon.net/2014/02/10/federal-judge-aiken-calls-for-an-app-legal-hackers-answer/)" project.  
 
 
-* Who:
+# Who:
 
-Dazza is Legal Supervisor from Media Lab for this Clinical Placement (who recommends credit or fail)
-Written evaluation of the student's work.
+## Dazza Greenwood
+Dazza will act as the research initiative lead and provide day-to-day support and guidance for the Clinical Internship and on the activities and products.
 
-Lina is Clinical Legal Intern from Harvard Law School 
+## Cam Kerry 
+Cam will act as attorney supervisor for this Clinical Placement (he will recommends credit or fail and provide a written evaluation of the student's work).  
 
+## Ray Campbell
+Ray will act as research team reviewer from practicing industr/field work vantage point.  Ray may also lead research study or other policy work items related to this clinical internship.  
 
-Professor Hymann is the Harvard Law School Faculty Supervisor (who decides credit or fail)
+## Lina 
+Lina is the Clinical Legal Intern from Harvard Law School 
+
+## (Professor Hymann?  Berkman Professor?) 
+XX is the Harvard Law School Faculty Supervisor (who decides credit or fail)
+
 
 # When:
 
-Jan 29: Prelim Meeting (now!): 
-
-Feb 1: Kick-Off
- - Agreed statement of scope, schedule and products (ie the Policy Proposal and Comp Legal Sci Study)
- - Provision needed resources
+## Jan 29: Prelim Meeting (now!): 
  
- Feb 8/9: Agile Sprint via NY Legal Privacy Hack-a-Thon.  
- **Version 0.1** 
+## Feb 8/9: 
+ 
+- Agile Sprint via NY Legal Privacy Hack-a-Thon.  
  
  See: https://www.hackerleague.org/hackathons/data-privacy-legal-hackathon/wikipages/52bd7dba6cfb0c9145000004 
  
- Feb 15: Presentation/Review/Feedback from Human Dynamics Team and Invited Others (HLS?  Other?)
- **Version 0.2**
+## Feb X: Kick-Off
  
- March 1: 
+- Agreed statement of scope, schedule and products (ie the Policy Proposal and Comp Legal Sci Study)
  
- March 15 - March 23: HLS Spring Break.  Woohoooo!  
+- Provision needed resources
+
+ -  **Version 0.1** of Policy Paper 
  
- April 1: Progress!
- **Vesion 1.5 - 1.7ish**
+## Feb XX: 
+
+- Presentation/Review/Feedback from Human Dynamics Team and Invited Others (HLS?  Other?)
+
+- **Version 0.2** of Policy Paper 
  
- Interstitial Milestone Note: Month of April to Include Larger "Event" for More Engagement and Feedback
+## March 1: 
+
+- Final Statement of Computatonal Legal Science Research Study Candidates
+ 
+## March 15 - March 23: HLS Spring Break.  Woohoooo!  
+ 
+## April 1: 
+
+- More Progress! (milestones tbd)
+ **Vesion 1.5 - 1.7ish** of Policy Paper 
+ 
+ * Interstitial Milestone Note: Month of April to Include Larger "Event" for More Engagement and Feedback
  April 15: Progress!
  
- April A Lot: Major Internal Review Cycle and Feedback Loop.
- **Version 0.9**
+## April XX: 
+
+- A Lot: Major Internal Review Cycle and Feedback Loop.
+ **Version 0.9** of Policy Paper 
  
- May 1: Launch "Party and Publishing of Products"
- **Version 1.0** 
+## May 1 - 10ish: 
+
+**Launch: "Party and Publishing of Products"**
+
+* Ideally, complete a short term legal science study (eg w/existing data such as with bankruptcy) and/or conclude comitment, staffing, budget etc needed to conduct one of the proposed research studies to collect new data and analyze it.
+
+* **Version 1.0**  of Policy Paper 
