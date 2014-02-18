@@ -14,7 +14,7 @@ But I think it comes down to whom you hang out with: those who surround themselv
 
 Apply the same methods as the living lab that took place at MIT. The methodology would include a combination of outfitting students with smartphones (or sociometric badges) to track their locations, and questionnaires to understand their performance at HLS and their attitudes toward legal practice.
 
-If you recall, MIT students' social networks were mapped using smartphones that detected geolocation. This data was compared against responses to questionnaires that asked about the students' political preferences. The result: where and with whom the students spent time was a good predictor of their subjective political preferences.
+MIT students' social networks were mapped using smartphones that detected geolocation. This data was compared against responses to questionnaires that asked about the students' political preferences. The result: where and with whom the students spent time was a good predictor of their subjective political preferences.
 
 While the questionnaires in the MIT study covered political preference, ours would cover even more easy-to-define outputs: 1. Career plans 2. Grades 3. Law review acceptance and 4. Clerkship acceptances are examples. We could supplement these with more subjective questions, too, to understand how students' understanding of the function of lawyers changes over time.
 
@@ -27,6 +27,13 @@ We could use a "Meeting Mediator System" (see Social Physics, pg 109) to determi
 Each spring, HLS 1Ls submit a draft of writing to be considered for membership on the Harvard Law Review. Though the submissions are completely anonymized (i.e., the current Law Review students who judge the competition do not know the entrant's gender or any other identifying information), selected participants in harvard law review are dramatically skewed. In 2013, the editorial board was overwhelmingly male and overwhelmingly a product of private rather public undergraduate institutions. Some have speculated that the selection process perpetuates the skewed make-up of the board: students like the writing style of students who are similar to them, so perhaps there is a "male" or "private school" way of writing the HLR submission. As students from the current board select the anonymous writing of students who share similarities to their writing style, the effect compounds over time. 
 
 I'd like to do a text analysis on the anonymous HLR submissions, to determine if there are writing patterns that emerge over time. Last year, the HLR instituted a new policy of affirmative action for female applicants, because they have struggled to address and understand the skewed make-up for so long. So, I hope they will be interested in sharing batches of anonymized submissions. 
+
+##Project Proposal 4: Class Selection Clusters - In Progress
+
+* Oren spoke with Ali and learned Sandy and Ali conducted some research on MIT student enrollment in course data looking at patterns related to students in Venture classes... Sandy has access to the underlying dataset including which course identified students took.  
+* Lina contacted HLS Registrar and submitted a proposal for the same data from HLS students 
+* Outcome of meeting between Ali, Oren, and Sandy: ?
+
 
 ##Next Steps
 
@@ -42,7 +49,4 @@ Project ownership. How long will project approval take? What role for Lina, who 
 * Oren: just use one microphone to record rather than using sociometric badges 
 
 
-##  Followup from Human Dynamics Lab
-* Oren spoke with Ali and learned Sandy and Ali conducted some research on MIT student enrollment in course data looking at patterns related to students in Venture classes... evidently Sandy HAS ACCESS to the underlying dataset including which course identified students took.  This is worth following up on!
-* 
 
