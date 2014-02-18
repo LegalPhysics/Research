@@ -74,6 +74,10 @@ XX is the Harvard Law School Faculty Supervisor (who decides credit or fail)
 - Agile Sprint via NY Legal Privacy Hack-a-Thon.  
  
  See: https://www.hackerleague.org/hackathons/data-privacy-legal-hackathon/wikipages/52bd7dba6cfb0c9145000004 
+
+## Feb 20: Draft Outline of Policy Paper (Lina)
+
+## Feb 21: Circulate Outline to Sandy, Ray, et al, for review (Dazza)
  
 ## Feb X: Kick-Off
  
