@@ -1,28 +1,10 @@
 Outline of approach to clinical placement at MIT Media Lab Human Dynamics group:
 
-# What:
+# Policy Paper: The Legal Aspects of a Privacy Framework for Big Data 
 
+* Overview squib: Like a policy paper (not a dense scholarly article) describing big data and the law (focus on privacy) issues/problems and proposed solutions.  
 
-## Computational Legal Science research and study
-
-* Product: Short and Longer Term [Researh Study Candidates](https://github.com/LegalPhysics/Research/tree/master/Studies)
-
-- Bankruptcy Data-Driven Analysis Study idea, Lina/Dazza (& Warren Agin?) (link to follow)
-
-- HLS Reality Mining Study idea, Lina  [link](https://github.com/LegalPhysics/Research/blob/master/LinaKaisey/HarvardLivingLaw.Project.Proposals.md) (this should be available in the same directory as the other study candidates, at https://github.com/LegalPhysics/Research/tree/master/Studies)  
-
-- Policy Making Reality Mining study, Ray (link - tba)
-
-- Criminal Justice study idea (links to follow - short term study w/existing data and/or longer-term study based on ReEntryApp data)  
-
-* Product: Statement of The Methods and Mechanisms of Computational Legal Science (what is unique and what is same vis-a-vis more general emerging field of Computational Social Science)
-
-
-## Policy Paper: The Legal Aspects of a Privacy Framework for Big Data 
-
-* Like a policy paper (not a dense scholarly article) describing big data and the law (focus on privacy) issues/problems and proposed solutions.  
-
-Intend to conduct a computational social science research study in the vein of HDL BUT focused on the law.  This can be an input to the approach and recommendations being formed for the policy blog.  
+* Initial Outline at: [https://github.com/LegalScience/LegalClinic/blob/master/2014/LinaKaisey/PolicyPaperOutline.md](https://github.com/LegalScience/LegalClinic/blob/master/2014/LinaKaisey/PolicyPaperOutline.md) 
 
 * Expected in the Form of an Online Resource, eg a blog (wordpress or blogger) 
 
@@ -39,6 +21,30 @@ Human Dynamics Lab Approach: ClearButton, Personal Data Services/Trust Networks 
 3. Addressing Individual Role and Control of Their Personal Data (and engagement in Big Data world):
 
 Human Dynamics Lab Approach: Personal Data Stores in a Personal Data Ecology (see WEF papers and Sandy's work and Brian's tech stuff w/ openPDS in GitHub repo).
+
+# Other Activities
+
+The following activities have been pursued in the scope of this clinical placement as part of more general engagement with the issues and enrichment of the clinical placement experience.  While these activities are considered in the scope of this placement, continued engagement in or resulting deliverables from these activities are optional based upon available time and level of interest of the clinical intern.  
+
+## ReEntryApp: 
+
+See: [https://github.com/LegalScience/ReEntry](https://github.com/LegalScience/ReEntry)
+
+## Computational Legal Science research and study
+
+* Intend to conduct a computational social science research study in the vein of HDL BUT focused on the law.  This can be an input to the approach and recommendations being formed for the policy paper.
+
+* Product: Short and Longer Term [Researh Study Candidates](https://github.com/LegalPhysics/Research/tree/master/Studies)
+
+- Bankruptcy Data-Driven Analysis Study idea, Lina/Dazza (& Warren Agin?) (link to follow)
+
+- HLS Reality Mining Study idea, Lina  [link](https://github.com/LegalPhysics/Research/blob/master/LinaKaisey/HarvardLivingLaw.Project.Proposals.md) (this should be available in the same directory as the other study candidates, at https://github.com/LegalPhysics/Research/tree/master/Studies)  
+
+- Policy Making Reality Mining study, Ray (link - tba)
+
+- Criminal Justice study idea (links to follow - short term study w/existing data and/or longer-term study based on ReEntryApp data)  
+
+* Product: Statement of The Methods and Mechanisms of Computational Legal Science (what is unique and what is same vis-a-vis more general emerging field of Computational Social Science)
 
 ## Outreach and Service
 
