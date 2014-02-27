@@ -18,6 +18,8 @@ The results of the above experiments will enable HLS students to maximize their 
 
 
 ------------------------------------------------------
+# Old Notes:
+
 ##Motivating Questions
 
 There are significant failures in idea flow over there, and both students and faculty have been struggling to answer questions such as
