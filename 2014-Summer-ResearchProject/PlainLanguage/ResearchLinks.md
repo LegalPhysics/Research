@@ -4,4 +4,5 @@ Plain Language Guidelines: [Plain Language Action and Information Network Guidel
 
 Etymology of Legal Language: [Chapter Summaries of Peter Tiersma's Book Legal Language](http://www.languageandlaw.org/LEGALLANG/LEGALLANG.HTM)
 
+Examples of Before and After of Legal Language Translated into Plain Language: [Plain Language Action and Information Network Before and After Examples](http://www.plainlanguage.gov/testexamples/indexSearch.cfm?subject=BA)
 
