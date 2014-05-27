@@ -1,4 +1,4 @@
-## Notes
+# Notes
 
 **One Goal of the Project**
 
