@@ -9,6 +9,8 @@ Strip Legal Language of its Political Motivations: In [Peter Tiersma's book "Leg
 **Potential Titles for the Project**
 
 Plain and Simple
+Plain Legal
+
 
 **Linguistic Tendencies in Legal Language**
 
