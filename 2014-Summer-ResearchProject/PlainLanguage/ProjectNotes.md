@@ -18,6 +18,6 @@ Unusual sentence structure: Lawyers make use of unusual sentence structures, as 
 
 **Suggestions for Achieving Linguistic Clarity**
 
-Avoiding Pronouns: Rather than using a pronoun after a person or thing is introduced, repeat the pronoun. Pronouns can sometimes have ambiguous reference, so this technique can indeed enhance precision. [Peter Tiersma's "Legal Language,"](http://www.languageandlaw.org/LEGALLANG/LEGALLANG.HTM)
+Constrained Language/Avoiding Pronouns: Rather than using a pronoun after a person or thing is introduced, repeat the pronoun. Pronouns can sometimes have ambiguous reference, so this technique can indeed enhance precision. [Peter Tiersma's "Legal Language,"](http://www.languageandlaw.org/LEGALLANG/LEGALLANG.HTM)
 
 
